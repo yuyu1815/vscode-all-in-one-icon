@@ -1,14 +1,24 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# free-vscode-icon Changelog
+# vscode-all-in-one-icon Changelog
 
 ## [Unreleased]
 
 ### Added
-- Initial release of free-vscode-icon plugin
+
+- **Theme Priority System**
+  - Add, remove, and reorder multiple themes
+  - Fallback resolution: if no icon found in first theme, next theme is tried
+  - Settings UI with dual-list interface for theme management
+- **Multi-Language Support**
+  - English, Japanese (日本語), Chinese (简体中文), Korean (한국어)
+  - Language selection in settings UI
+  - Localized messages stored in JSON files for easy contribution
+- Initial release of vscode-all-in-one-icon plugin
 - **Multiple Icon Themes**
   - VSCode Icons theme based on [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
   - Material Icons theme based on [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+  - File Icons theme based on [file-icons/vscode](https://github.com/file-icons/vscode)
 - **Comprehensive Icon Support**
   - File icon mapping for 100+ file extensions
   - Special icons for popular frameworks (React, Vue, Angular, Svelte, etc.)
@@ -19,7 +29,7 @@
   - Settings UI at Settings > Tools > Icon Theme Settings
   - Enable/disable custom file icons per project
   - Instant theme switching without IDE restart
-  - Persistent settings stored in JSON format (`free-vscode-icon-settings.json`)
+  - Persistent settings stored in JSON format (`vscode-all-in-one-icon-settings.json`)
 - **Icon Features**
   - Automatic icon scaling for high-resolution displays
   - Smart file name matching (e.g., `package.json`, `Dockerfile`)
@@ -27,12 +37,14 @@
   - Logging for missing icons to aid debugging
 
 ### Fixed
+
 - Material Icons folder icon prefix issue
   - VSCode Icons uses `folder_type_` prefix
   - Material Icons uses `folder-` prefix
   - Each theme now correctly applies its own prefix convention
 
 ### Technical Implementation
+
 - **Core Components**
   - `VscordIconProvider`: Main icon provider implementing `FileIconProvider`
     - Resolves icons based on current theme and file/folder name
@@ -83,17 +95,22 @@
   - VSCode Icons: [vscode-icons/vscode-icons repository](https://github.com/vscode-icons/vscode-icons)
   - Material Icons: [PKief/vscode-material-icon-theme repository](https://github.com/PKief/vscode-material-icon-theme)
     - Included in `/converter/vscode-material-icon-theme` for reference
+  - File Icons: [file-icons/vscode repository](https://github.com/file-icons/vscode)
+    - Included in `/converter/vscode` for reference
 
 ### Code Quality
+
 - All code comments in English
 - Meaningful comments explaining implementation details
 - Consistent naming conventions
 - Proper error handling with logging
 
 ### Documentation
+
 - Comprehensive README.md with installation, configuration, and development instructions
 - Detailed LICENSE file with proper attributions to:
   - vscode-icons project (CC BY-SA 4.0)
   - vscode-material-icon-theme project (MIT)
+  - file-icons project (MIT)
   - Gson library (Apache 2.0)
 - CHANGELOG.md following [Keep a Changelog](https://keepachangelog.com/) format

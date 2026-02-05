@@ -1,0 +1,15 @@
+{
+  "settings.title": "Symbol-Thema Einstellungen",
+  "settings.enable": "Benutzerdefinierte Dateisymbole aktivieren",
+  "settings.language": "Sprache:",
+  "settings.activeThemes": "Aktive Themen (Prioritätsreihenfolge)",
+  "settings.availableThemes": "Verfügbare Themen",
+  "settings.up": "▲ Hoch",
+  "settings.down": "▼ Runter",
+  "settings.add": "← Hinzufügen",
+  "settings.remove": "Entfernen →",
+  "settings.howItWorks": "Funktionsweise",
+  "settings.priority": "Priorität: Das oberste Thema wird zuerst überprüft. Wird kein Symbol gefunden, wird das nächste Thema verwendet.",
+  "settings.tip": "Tipp: Verwenden Sie ▲▼ zum Umordnen der Themen.",
+  "settings.icons": "Symbole"
+}

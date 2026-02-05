@@ -1,0 +1,15 @@
+{
+  "settings.title": "アイコンテーマ設定",
+  "settings.enable": "カスタムファイルアイコンを有効にする",
+  "settings.language": "言語:",
+  "settings.activeThemes": "有効なテーマ (優先順)",
+  "settings.availableThemes": "利用可能なテーマ",
+  "settings.up": "▲ 上へ",
+  "settings.down": "▼ 下へ",
+  "settings.add": "← 追加",
+  "settings.remove": "削除 →",
+  "settings.howItWorks": "仕組み",
+  "settings.priority": "優先順: 上のテーマから順に検索し、アイコンがなければ次のテーマを使用します。",
+  "settings.tip": "ヒント: ▲▼ボタンで順序を変更できます。",
+  "settings.icons": "アイコン"
+}

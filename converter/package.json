@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "setup": "node setup.js",
+    "generate:all": "node file-icons-generate-mappings.js && node file-icons-generate-svg.js && node file-icons-generate-test-files.js && node material-generate-mappings.js && node material-generate-test-files.js && node vscord-generate-mappings.js && node vscord-generate-test-files.js",
+    "generate:file-icons": "node file-icons-generate-mappings.js && node file-icons-generate-svg.js && node file-icons-generate-test-files.js",
+    "generate:material": "node material-generate-mappings.js && node material-generate-test-files.js",
+    "generate:vscord": "node vscord-generate-mappings.js && node vscord-generate-test-files.js"
+  },
+  "dependencies": {
+    "fontkit": "^2.0.4",
+    "opentype.js": "^1.3.4",
+    "puppeteer": "^24.36.1"
+  }
+}

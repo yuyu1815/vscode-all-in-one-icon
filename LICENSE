@@ -12,7 +12,7 @@ You are free to:
 
 Under the following terms:
 - Attribution — You must give appropriate credit to the vscode-icons project, 
-  vscode-material-icon-theme project, and this plugin, provide a link to the 
+  vscode-material-icon-theme project, file-icons project, and this plugin, provide a link to the 
   license, and indicate if changes were made.
 - ShareAlike — If you remix, transform, or build upon the material, you must 
   distribute your contributions under the same license as the original.
@@ -43,6 +43,13 @@ This plugin uses icons from the following projects:
    - Material Design Icons for Visual Studio Code (30M+ installations)
    - Source included in /converter/vscode-material-icon-theme
 
+3. file-icons
+   - Project: https://github.com/file-icons/vscode
+   - License: MIT License
+   - Copyright (c) Daniel Brooker (2017-2019), John Gardner (2019-2023)
+   - File-specific icons for improved visual grepping
+   - Source included in /converter/vscode
+
 To view a copy of the licenses, visit:
 - CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 - MIT: https://opensource.org/licenses/MIT
@@ -52,6 +59,31 @@ To view a copy of the licenses, visit:
 MIT License
 
 Copyright (c) PKief
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+=======================================================================
+
+MIT License
+
+Copyright (c) 2017-2019 Daniel Brooker
+Copyright (c) 2019-2023 John Gardner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -87,7 +119,12 @@ This plugin includes the following third-party components:
    - License: MIT License
    - Description: Material Design Icons for Visual Studio Code
 
-3. Gson (Google Gson)
+3. file-icons
+   - Website: https://github.com/file-icons/vscode
+   - License: MIT License
+   - Description: File-specific icons for improved visual grepping
+
+4. Gson (Google Gson)
    - Website: https://github.com/google/gson
    - License: Apache License 2.0
    - Description: Java library that can be used to convert Java Objects into 

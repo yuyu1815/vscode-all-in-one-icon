@@ -1,0 +1,15 @@
+{
+  "settings.title": "아이콘 테마 설정",
+  "settings.enable": "사용자 정의 파일 아이콘 활성화",
+  "settings.language": "언어:",
+  "settings.activeThemes": "활성 테마 (우선순위)",
+  "settings.availableThemes": "사용 가능한 테마",
+  "settings.up": "▲ 위로",
+  "settings.down": "▼ 아래로",
+  "settings.add": "← 추가",
+  "settings.remove": "제거 →",
+  "settings.howItWorks": "작동 방식",
+  "settings.priority": "우선순위: 상단 테마가 먼저 확인됩니다. 아이콘을 찾을 수 없으면 다음 테마가 사용됩니다.",
+  "settings.tip": "팁: ▲▼ 버튼으로 테마 순서를 변경하세요.",
+  "settings.icons": "아이콘"
+}

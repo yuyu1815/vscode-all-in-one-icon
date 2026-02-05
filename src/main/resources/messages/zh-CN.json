@@ -1,0 +1,15 @@
+{
+  "settings.title": "图标主题设置",
+  "settings.enable": "启用自定义文件图标",
+  "settings.language": "语言:",
+  "settings.activeThemes": "已启用主题 (优先级顺序)",
+  "settings.availableThemes": "可用主题",
+  "settings.up": "▲ 上移",
+  "settings.down": "▼ 下移",
+  "settings.add": "← 添加",
+  "settings.remove": "移除 →",
+  "settings.howItWorks": "工作原理",
+  "settings.priority": "优先级: 首先检查顶部主题。如果找不到图标，则使用下一个主题。",
+  "settings.tip": "提示: 使用 ▲▼ 重新排序主题。",
+  "settings.icons": "个图标"
+}

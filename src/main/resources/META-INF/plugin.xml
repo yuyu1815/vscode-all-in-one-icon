@@ -1,17 +1,17 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.yuyu1815.freevscodeicon</id>
-    <name>free-vscode-icon</name>
+    <id>com.github.yuyu1815.vscodeallinoneicon</id>
+    <name>vscode-all-in-one-icon</name>
     <vendor>yuyu1815</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <fileIconProvider implementation="com.github.yuyu1815.freevscodeicon.VscordIconProvider"/>
-        <projectService serviceImplementation="com.github.yuyu1815.freevscodeicon.IconThemeConfig"/>
+        <fileIconProvider implementation="com.github.yuyu1815.vscodeallinoneicon.VscordIconProvider"/>
+        <applicationService serviceImplementation="com.github.yuyu1815.vscodeallinoneicon.IconThemeConfig"/>
         <projectConfigurable parentId="tools" 
                            id="iconThemeSettings" 
                            displayName="Icon Theme Settings"
-                           instance="com.github.yuyu1815.freevscodeicon.IconThemeConfigurable"/>
+                           instance="com.github.yuyu1815.vscodeallinoneicon.IconThemeConfigurable"/>
     </extensions>
 </idea-plugin>

@@ -1,0 +1,3720 @@
+{
+  "_emacs_medium-purple": [
+    "abbrev-defs",
+    "abbrev_defs",
+    "el",
+    "emacs",
+    "_emacs",
+    "emacs.desktop"
+  ],
+  "_acre_medium-blue": [
+    "acre.config"
+  ],
+  "_ai_medium-orange": [
+    "adobe illustrator cloud prefs",
+    "adobe illustrator prefs",
+    "aiappresources",
+    "last used asset export settings",
+    "tools panel presets"
+  ],
+  "_alacritty_medium-orange": [
+    "alacritty.yaml",
+    ".alacritty.yaml",
+    "alacritty.yml",
+    ".alacritty.yml"
+  ],
+  "_angular_medium-red": [
+    "angular.cjs",
+    "angular.js",
+    "angular.mjs"
+  ],
+  "_ansible_dark-cyan": [
+    "ansible",
+    "ansible.yaml",
+    "ansible.yml"
+  ],
+  "_terminal_medium-blue": [
+    "antigen",
+    ".antigen",
+    "zlogin",
+    ".zlogin",
+    "zlogout",
+    ".zlogout",
+    "zpreztorc",
+    ".zpreztorc",
+    "zprofile",
+    ".zprofile",
+    "zshenv",
+    ".zshenv",
+    "zshrc",
+    ".zshrc"
+  ],
+  "_antwar_dark-purple": [
+    "antwar.conf.cjs",
+    ".antwar.conf.cjs",
+    "antwar.config.cjs",
+    ".antwar.config.cjs",
+    "antwar.config.js",
+    ".antwar.config.js",
+    "antwar.config.mjs",
+    ".antwar.config.mjs",
+    "antwar.conf.js",
+    ".antwar.conf.js",
+    "antwar.conf.mjs",
+    ".antwar.conf.mjs"
+  ],
+  "_ant_dark-pink": [
+    "ant.xml"
+  ],
+  "_apache_medium-red": [
+    "apache2.conf",
+    "apache.conf",
+    "httpd.conf"
+  ],
+  "_apiextractor_light-blue": [
+    "api-extractor-base.json",
+    "api-extractor.json"
+  ],
+  "_alpine_dark-blue": [
+    "apkbuild"
+  ],
+  "_atom_medium-green": [
+    "apmrc",
+    ".apmrc"
+  ],
+  "_apollo_dark-blue": [
+    "apollo.config.js"
+  ],
+  "_appcelerator_medium-red": [
+    "appcelerator.cjs",
+    "appcelerator.js",
+    "appcelerator.mjs"
+  ],
+  "_ruby_medium-red": [
+    "appfile",
+    "appfile.lock",
+    "appraisals",
+    "buildfile",
+    "buildfile.lock",
+    "capfile",
+    "capfile.lock",
+    "dangerfile",
+    "dangerfile.lock",
+    "deliverfile",
+    "deliverfile.lock",
+    "fastfile",
+    "fastfile.lock",
+    "gemrc",
+    ".gemrc",
+    "guardfile",
+    "guardfile.lock",
+    "irbrc",
+    ".irbrc",
+    "jarfile",
+    "jarfile.lock",
+    "mavenfile",
+    "mavenfile.lock",
+    "podfile",
+    "podfile.lock",
+    "pryrc",
+    ".pryrc",
+    "puppetfile",
+    "puppetfile.lock",
+    "rails",
+    "rakefile",
+    "rakefile.lock",
+    "ruby-gemset",
+    ".ruby-gemset",
+    "ruby-version",
+    ".ruby-version",
+    "snapfile",
+    "snapfile.lock"
+  ],
+  "_appveyor_medium-blue": [
+    "appveyor.yml",
+    ".appveyor.yml"
+  ],
+  "_heroku_medium-purple": [
+    "aptfile",
+    "procfile"
+  ],
+  "_unicode_medium-red": [
+    "arabicshaping.txt",
+    "bidibrackets.txt",
+    "bidicharactertest.txt",
+    "bidimirroring.txt",
+    "biditest.txt",
+    "blocks.txt",
+    "casefolding.txt",
+    "cjkradicals.txt",
+    "compositionexclusions.txt",
+    "derivedage.txt",
+    "derivedbidiclass.txt",
+    "derivedbinaryproperties.txt",
+    "derivedcombiningclass.txt",
+    "derivedcoreproperties.txt",
+    "deriveddecompositiontype.txt",
+    "derivedeastasianwidth.txt",
+    "derivedgeneralcategory.txt",
+    "derivedjoininggroup.txt",
+    "derivedjoiningtype.txt",
+    "derivedlinebreak.txt",
+    "derivedname.txt",
+    "derivednormalizationprops.txt",
+    "derivednumerictype.txt",
+    "derivednumericvalues.txt",
+    "eastasianwidth.txt",
+    "emojisources.txt",
+    "equivalentunifiedideograph.txt",
+    "graphemebreakproperty.txt",
+    "graphemebreaktest.txt",
+    "hangulsyllabletype.txt",
+    "index.txt",
+    "indicpositionalcategory.txt",
+    "indicsyllabiccategory.txt",
+    "jamo.txt",
+    "linebreakproperty.txt",
+    "linebreaktest.txt",
+    "linebreak.txt",
+    "namealiases.txt",
+    "namedsequencesprov.txt",
+    "namedsequences.txt",
+    "nameslist.lst",
+    "nameslist.txt",
+    "normalizationcorrections.txt",
+    "normalizationtest.txt",
+    "nushusources.txt",
+    "propertyaliases.txt",
+    "propertyvaluealiases.txt",
+    "proplist.txt",
+    "scriptextensions.txt",
+    "scripts.txt",
+    "sentencebreakproperty.txt",
+    "sentencebreaktest.txt",
+    "specialcasing.txt",
+    "standardizedvariants.txt",
+    "tangutsources.txt",
+    "unicodedata.txt",
+    "unihan.txt",
+    "usourcedata.txt",
+    "verticalorientation.txt",
+    "wordbreakproperty.txt",
+    "wordbreaktest.txt"
+  ],
+  "_git-commit_medium-red": [
+    "atom_commit_editmsg",
+    "commit_editmsg"
+  ],
+  "_aurelia_dark-pink": [
+    "aurelia.json"
+  ],
+  "_at_medium-red": [
+    "authors",
+    "codeowners",
+    "owners"
+  ],
+  "_azurepipelines_dark-blue": [
+    "azure-pipelines.yaml",
+    "azure-pipelines.yml"
+  ],
+  "_babel_medium-yellow": [
+    "babel.config.esm.js",
+    "babel.config.js",
+    "babel.config.json"
+  ],
+  "_backbone_dark-blue": [
+    "backbone.cjs",
+    "backbonedev.cjs",
+    "backbonedev.js",
+    "backbonedev.mjs",
+    "backbone.js",
+    "backbone-min.cjs",
+    "backbone.min.cjs",
+    "backbone-min.js",
+    "backbone.min.js",
+    "backbone-min.mjs",
+    "backbone.min.mjs",
+    "backbone.mjs"
+  ],
+  "_terminal_dark-purple": [
+    "bashhistory",
+    "bash-history",
+    "bash_history",
+    ".bashhistory",
+    ".bash-history",
+    ".bash_history",
+    "bashlogin",
+    "bash-login",
+    "bash_login",
+    ".bashlogin",
+    ".bash-login",
+    ".bash_login",
+    "bashlogout",
+    "bash-logout",
+    "bash_logout",
+    ".bashlogout",
+    ".bash-logout",
+    ".bash_logout",
+    "bashprofile",
+    "bash-profile",
+    "bash_profile",
+    ".bashprofile",
+    ".bash-profile",
+    ".bash_profile",
+    "bashprompt",
+    "bash-prompt",
+    "bash_prompt",
+    ".bashprompt",
+    ".bash-prompt",
+    ".bash_prompt",
+    "bashrc",
+    ".bashrc",
+    "config",
+    "install-sh",
+    "_osc"
+  ],
+  "_bazel_dark-green": [
+    "bazel.bazelrc",
+    ".bazelrc",
+    "bazel.rc"
+  ],
+  "_calc_medium-red": [
+    "bc.library"
+  ],
+  "_behat_medium-cyan": [
+    "behat.yaml",
+    "behat.yml"
+  ],
+  "_chef_medium-orange": [
+    "berksfile",
+    "berksfile.lock",
+    "chefignore",
+    "policyfile",
+    "policyfile.lock"
+  ],
+  "_binder_medium-orange": [
+    "binder-requirements.in",
+    "binder_requirements.in",
+    "binder-requirements.txt",
+    "binder_requirements.txt"
+  ],
+  "_bintray_medium-green": [
+    ".bintray.json"
+  ],
+  "_database_medium-green": [
+    "birthtoken",
+    "flowers"
+  ],
+  "_bitbucket_medium-blue": [
+    "bitbucket-pipelines.yaml",
+    "bitbucket-pipelines.yml"
+  ],
+  "_bitcoin_medium-orange": [
+    "bitcoin.conf"
+  ],
+  "_bootstrap_medium-green": [
+    "bootstrap.cjs",
+    "bootstrap.styl",
+    "custom.bootstrap.cjs",
+    "custom.bootstrap.styl"
+  ],
+  "_bootstrap_medium-blue": [
+    "bootstrap.css",
+    "bootstrap.mjs",
+    "custom.bootstrap.css",
+    "custom.bootstrap.mjs"
+  ],
+  "_bootstrap_medium-yellow": [
+    "bootstrap.js",
+    "custom.bootstrap.js"
+  ],
+  "_bootstrap_dark-blue": [
+    "bootstrap.less",
+    "custom.bootstrap.less"
+  ],
+  "_bootstrap_light-pink": [
+    "bootstrap.scss",
+    "custom.bootstrap.scss"
+  ],
+  "_darcs_dark-green": [
+    ".boringignore"
+  ],
+  "_bors_dark-purple": [
+    "bors.toml"
+  ],
+  "_bower_medium-yellow": [
+    "bowerfile",
+    "bower.json",
+    ".bowerrc"
+  ],
+  "_brakeman_dark-red": [
+    "brakeman.ignore"
+  ],
+  "_brew_medium-orange": [
+    "brewfile"
+  ],
+  "_browserslist_medium-orange": [
+    "browserslist",
+    ".browserslistrc"
+  ],
+  "_browsersync_medium-red": [
+    "browser-sync.cjs",
+    "browser-sync.js",
+    "browser-sync.json",
+    "browser-sync.mjs",
+    "bs-config.cjs",
+    "bs-config.js",
+    "bs-config.json",
+    "bs-config.mjs"
+  ],
+  "_brunch_medium-green": [
+    "brunch-config.cjs",
+    "brunch-config.coffee",
+    "brunch-config.js",
+    "brunch-config.mjs",
+    "brunch-config.ts"
+  ],
+  "_checklist_medium-red": [
+    "bsdmakefile",
+    "makefile.sco"
+  ],
+  "_buck_dark-blue": [
+    "buck"
+  ],
+  "_text_medium-red": [
+    "bug-report",
+    "fdl",
+    "for-release",
+    "tests"
+  ],
+  "_book_dark-blue": [
+    "bugs",
+    "changelog",
+    "change-log",
+    "change_log",
+    "changes",
+    "contribute",
+    "contributing",
+    "contributors",
+    "copying",
+    "copying.regex",
+    "copyright",
+    "copyright.regex",
+    "faq",
+    "fixes",
+    "hacking",
+    "history",
+    "install",
+    "maintainers",
+    "manifest",
+    "more.stuff",
+    "news",
+    "news-",
+    "news--",
+    "news.-",
+    "news_-",
+    "news0",
+    "news-0",
+    "news.0",
+    "news_0",
+    "news1",
+    "news-1",
+    "news.1",
+    "news_1",
+    "news2",
+    "news-2",
+    "news.2",
+    "news_2",
+    "news3",
+    "news-3",
+    "news.3",
+    "news_3",
+    "news4",
+    "news-4",
+    "news.4",
+    "news_4",
+    "news5",
+    "news-5",
+    "news.5",
+    "news_5",
+    "news6",
+    "news-6",
+    "news.6",
+    "news_6",
+    "news7",
+    "news-7",
+    "news.7",
+    "news_7",
+    "news8",
+    "news-8",
+    "news.8",
+    "news_8",
+    "news9",
+    "news-9",
+    "news.9",
+    "news_9",
+    "notes",
+    "notice",
+    "problems",
+    "projects",
+    "releasenotes",
+    "releasenotes-",
+    "releasenotes--",
+    "releasenotes.-",
+    "releasenotes_-",
+    "release-notes",
+    "release-notes-",
+    "release-notes--",
+    "release-notes.-",
+    "release-notes_-",
+    "release.notes",
+    "release.notes-",
+    "release.notes--",
+    "release.notes.-",
+    "release.notes_-",
+    "release_notes",
+    "release_notes-",
+    "release_notes--",
+    "release_notes.-",
+    "release_notes_-",
+    "releasenotes0",
+    "releasenotes-0",
+    "releasenotes.0",
+    "releasenotes_0",
+    "release-notes0",
+    "release-notes-0",
+    "release-notes.0",
+    "release-notes_0",
+    "release.notes0",
+    "release.notes-0",
+    "release.notes.0",
+    "release.notes_0",
+    "release_notes0",
+    "release_notes-0",
+    "release_notes.0",
+    "release_notes_0",
+    "releasenotes1",
+    "releasenotes-1",
+    "releasenotes.1",
+    "releasenotes_1",
+    "release-notes1",
+    "release-notes-1",
+    "release-notes.1",
+    "release-notes_1",
+    "release.notes1",
+    "release.notes-1",
+    "release.notes.1",
+    "release.notes_1",
+    "release_notes1",
+    "release_notes-1",
+    "release_notes.1",
+    "release_notes_1",
+    "releasenotes2",
+    "releasenotes-2",
+    "releasenotes.2",
+    "releasenotes_2",
+    "release-notes2",
+    "release-notes-2",
+    "release-notes.2",
+    "release-notes_2",
+    "release.notes2",
+    "release.notes-2",
+    "release.notes.2",
+    "release.notes_2",
+    "release_notes2",
+    "release_notes-2",
+    "release_notes.2",
+    "release_notes_2",
+    "releasenotes3",
+    "releasenotes-3",
+    "releasenotes.3",
+    "releasenotes_3",
+    "release-notes3",
+    "release-notes-3",
+    "release-notes.3",
+    "release-notes_3",
+    "release.notes3",
+    "release.notes-3",
+    "release.notes.3",
+    "release.notes_3",
+    "release_notes3",
+    "release_notes-3",
+    "release_notes.3",
+    "release_notes_3",
+    "releasenotes4",
+    "releasenotes-4",
+    "releasenotes.4",
+    "releasenotes_4",
+    "release-notes4",
+    "release-notes-4",
+    "release-notes.4",
+    "release-notes_4",
+    "release.notes4",
+    "release.notes-4",
+    "release.notes.4",
+    "release.notes_4",
+    "release_notes4",
+    "release_notes-4",
+    "release_notes.4",
+    "release_notes_4",
+    "releasenotes5",
+    "releasenotes-5",
+    "releasenotes.5",
+    "releasenotes_5",
+    "release-notes5",
+    "release-notes-5",
+    "release-notes.5",
+    "release-notes_5",
+    "release.notes5",
+    "release.notes-5",
+    "release.notes.5",
+    "release.notes_5",
+    "release_notes5",
+    "release_notes-5",
+    "release_notes.5",
+    "release_notes_5",
+    "releasenotes6",
+    "releasenotes-6",
+    "releasenotes.6",
+    "releasenotes_6",
+    "release-notes6",
+    "release-notes-6",
+    "release-notes.6",
+    "release-notes_6",
+    "release.notes6",
+    "release.notes-6",
+    "release.notes.6",
+    "release.notes_6",
+    "release_notes6",
+    "release_notes-6",
+    "release_notes.6",
+    "release_notes_6",
+    "releasenotes7",
+    "releasenotes-7",
+    "releasenotes.7",
+    "releasenotes_7",
+    "release-notes7",
+    "release-notes-7",
+    "release-notes.7",
+    "release-notes_7",
+    "release.notes7",
+    "release.notes-7",
+    "release.notes.7",
+    "release.notes_7",
+    "release_notes7",
+    "release_notes-7",
+    "release_notes.7",
+    "release_notes_7",
+    "releasenotes8",
+    "releasenotes-8",
+    "releasenotes.8",
+    "releasenotes_8",
+    "release-notes8",
+    "release-notes-8",
+    "release-notes.8",
+    "release-notes_8",
+    "release.notes8",
+    "release.notes-8",
+    "release.notes.8",
+    "release.notes_8",
+    "release_notes8",
+    "release_notes-8",
+    "release_notes.8",
+    "release_notes_8",
+    "releasenotes9",
+    "releasenotes-9",
+    "releasenotes.9",
+    "releasenotes_9",
+    "release-notes9",
+    "release-notes-9",
+    "release-notes.9",
+    "release-notes_9",
+    "release.notes9",
+    "release.notes-9",
+    "release.notes.9",
+    "release.notes_9",
+    "release_notes9",
+    "release_notes-9",
+    "release_notes.9",
+    "release_notes_9",
+    "revision",
+    "sudo-lecture",
+    "sudo_lecture",
+    "terms",
+    "thanks",
+    "warnings",
+    "zork0.a",
+    "zork0.b",
+    "zork0.c",
+    "zork0.d",
+    "zork0.e",
+    "zork0.f",
+    "zork0.g",
+    "zork0.h",
+    "zork0.i",
+    "zork0.j",
+    "zork0.k",
+    "zork0.l",
+    "zork0.m",
+    "zork0.n",
+    "zork0.o",
+    "zork0.p",
+    "zork0.q",
+    "zork0.r",
+    "zork0.s",
+    "zork0.t",
+    "zork0.u",
+    "zork0.v",
+    "zork0.w",
+    "zork0.x",
+    "zork0.y",
+    "zork0.z",
+    "zork1.a",
+    "zork1.b",
+    "zork1.c",
+    "zork1.d",
+    "zork1.e",
+    "zork1.f",
+    "zork1.g",
+    "zork1.h",
+    "zork1.i",
+    "zork1.j",
+    "zork1.k",
+    "zork1.l",
+    "zork1.m",
+    "zork1.n",
+    "zork1.o",
+    "zork1.p",
+    "zork1.q",
+    "zork1.r",
+    "zork1.s",
+    "zork1.t",
+    "zork1.u",
+    "zork1.v",
+    "zork1.w",
+    "zork1.x",
+    "zork1.y",
+    "zork1.z",
+    "zork2.a",
+    "zork2.b",
+    "zork2.c",
+    "zork2.d",
+    "zork2.e",
+    "zork2.f",
+    "zork2.g",
+    "zork2.h",
+    "zork2.i",
+    "zork2.j",
+    "zork2.k",
+    "zork2.l",
+    "zork2.m",
+    "zork2.n",
+    "zork2.o",
+    "zork2.p",
+    "zork2.q",
+    "zork2.r",
+    "zork2.s",
+    "zork2.t",
+    "zork2.u",
+    "zork2.v",
+    "zork2.w",
+    "zork2.x",
+    "zork2.y",
+    "zork2.z",
+    "zork3.a",
+    "zork3.b",
+    "zork3.c",
+    "zork3.d",
+    "zork3.e",
+    "zork3.f",
+    "zork3.g",
+    "zork3.h",
+    "zork3.i",
+    "zork3.j",
+    "zork3.k",
+    "zork3.l",
+    "zork3.m",
+    "zork3.n",
+    "zork3.o",
+    "zork3.p",
+    "zork3.q",
+    "zork3.r",
+    "zork3.s",
+    "zork3.t",
+    "zork3.u",
+    "zork3.v",
+    "zork3.w",
+    "zork3.x",
+    "zork3.y",
+    "zork3.z",
+    "zork4.a",
+    "zork4.b",
+    "zork4.c",
+    "zork4.d",
+    "zork4.e",
+    "zork4.f",
+    "zork4.g",
+    "zork4.h",
+    "zork4.i",
+    "zork4.j",
+    "zork4.k",
+    "zork4.l",
+    "zork4.m",
+    "zork4.n",
+    "zork4.o",
+    "zork4.p",
+    "zork4.q",
+    "zork4.r",
+    "zork4.s",
+    "zork4.t",
+    "zork4.u",
+    "zork4.v",
+    "zork4.w",
+    "zork4.x",
+    "zork4.y",
+    "zork4.z",
+    "zork5.a",
+    "zork5.b",
+    "zork5.c",
+    "zork5.d",
+    "zork5.e",
+    "zork5.f",
+    "zork5.g",
+    "zork5.h",
+    "zork5.i",
+    "zork5.j",
+    "zork5.k",
+    "zork5.l",
+    "zork5.m",
+    "zork5.n",
+    "zork5.o",
+    "zork5.p",
+    "zork5.q",
+    "zork5.r",
+    "zork5.s",
+    "zork5.t",
+    "zork5.u",
+    "zork5.v",
+    "zork5.w",
+    "zork5.x",
+    "zork5.y",
+    "zork5.z",
+    "zork6.a",
+    "zork6.b",
+    "zork6.c",
+    "zork6.d",
+    "zork6.e",
+    "zork6.f",
+    "zork6.g",
+    "zork6.h",
+    "zork6.i",
+    "zork6.j",
+    "zork6.k",
+    "zork6.l",
+    "zork6.m",
+    "zork6.n",
+    "zork6.o",
+    "zork6.p",
+    "zork6.q",
+    "zork6.r",
+    "zork6.s",
+    "zork6.t",
+    "zork6.u",
+    "zork6.v",
+    "zork6.w",
+    "zork6.x",
+    "zork6.y",
+    "zork6.z",
+    "zork7.a",
+    "zork7.b",
+    "zork7.c",
+    "zork7.d",
+    "zork7.e",
+    "zork7.f",
+    "zork7.g",
+    "zork7.h",
+    "zork7.i",
+    "zork7.j",
+    "zork7.k",
+    "zork7.l",
+    "zork7.m",
+    "zork7.n",
+    "zork7.o",
+    "zork7.p",
+    "zork7.q",
+    "zork7.r",
+    "zork7.s",
+    "zork7.t",
+    "zork7.u",
+    "zork7.v",
+    "zork7.w",
+    "zork7.x",
+    "zork7.y",
+    "zork7.z",
+    "zork8.a",
+    "zork8.b",
+    "zork8.c",
+    "zork8.d",
+    "zork8.e",
+    "zork8.f",
+    "zork8.g",
+    "zork8.h",
+    "zork8.i",
+    "zork8.j",
+    "zork8.k",
+    "zork8.l",
+    "zork8.m",
+    "zork8.n",
+    "zork8.o",
+    "zork8.p",
+    "zork8.q",
+    "zork8.r",
+    "zork8.s",
+    "zork8.t",
+    "zork8.u",
+    "zork8.v",
+    "zork8.w",
+    "zork8.x",
+    "zork8.y",
+    "zork8.z",
+    "zork9.a",
+    "zork9.b",
+    "zork9.c",
+    "zork9.d",
+    "zork9.e",
+    "zork9.f",
+    "zork9.g",
+    "zork9.h",
+    "zork9.i",
+    "zork9.j",
+    "zork9.k",
+    "zork9.l",
+    "zork9.m",
+    "zork9.n",
+    "zork9.o",
+    "zork9.p",
+    "zork9.q",
+    "zork9.r",
+    "zork9.s",
+    "zork9.t",
+    "zork9.u",
+    "zork9.v",
+    "zork9.w",
+    "zork9.x",
+    "zork9.y",
+    "zork9.z"
+  ],
+  "_bazel_medium-green": [
+    "build",
+    "build.bazel",
+    "workspace",
+    "workspace.bazel"
+  ],
+  "_config_dark-blue": [
+    "buildozer.spec",
+    "rhashrc",
+    "terminal",
+    "terminalrc"
+  ],
+  "_node_dark-green": [
+    "bundled_node_version"
+  ],
+  "_v8_dark-blue": [
+    ".c8rc",
+    ".c8rc.json"
+  ],
+  "_cabal_medium-purple": [
+    "cabal.config",
+    "cabal.project"
+  ],
+  "_cabal_medium-yellow": [
+    "cabal-ghcjs.project"
+  ],
+  "_caddy_dark-blue": [
+    "caddyfile"
+  ],
+  "_cakefile_medium-red": [
+    "cakefile"
+  ],
+  "_carthage_dark-pink": [
+    "cartfile"
+  ],
+  "_emacs_dark-blue": [
+    "cask"
+  ],
+  "_cloudfoundry_medium-blue": [
+    ".cfignore"
+  ],
+  "_chai_medium-red": [
+    "chai.coffee",
+    "chai.es",
+    "chai.es6",
+    "chai.js",
+    "chai.jsx",
+    "chai.ts",
+    "chai.tsx"
+  ],
+  "_chartjs_dark-pink": [
+    "chart.bundle.cjs",
+    "chart.bundle.js",
+    "chart.bundle.min.cjs",
+    "chart.bundle.min.js",
+    "chart.bundle.min.mjs",
+    "chart.bundle.mjs",
+    "chart.cjs",
+    "chart.js",
+    "chart.min.cjs",
+    "chart.min.js",
+    "chart.min.mjs",
+    "chart.mjs"
+  ],
+  "_tag_medium-green": [
+    "checksum",
+    "checksums",
+    "cksum",
+    "cksums",
+    "crc32sum",
+    "crc32sums",
+    "crcsum",
+    "crcsums",
+    "md5sum",
+    "md5sums",
+    "rmd160sum",
+    "rmd160sums",
+    "sha",
+    "sha1sum",
+    "sha1sums",
+    "sha224sum",
+    "sha224sums",
+    "sha256",
+    "sha256sum",
+    "sha256sums",
+    "sha2sum",
+    "sha2sums",
+    "sha384sum",
+    "sha384sums",
+    "sha3sum",
+    "sha3sums",
+    "sha512sum",
+    "sha512sums",
+    "shasum",
+    "shasums",
+    "sum",
+    "sums"
+  ],
+  "_manpage_dark-green": [
+    "chem.macros",
+    "cstr.54",
+    "eqnrc",
+    "eqnrc-end",
+    "eth.p",
+    "grap.defines",
+    "grap.tex.defines",
+    "indep_tr",
+    "lsd.p",
+    "man.template",
+    "mdoc.template",
+    "mmn",
+    "mmt",
+    "morphine.p",
+    "toc.entries",
+    "troffrc",
+    "troffrc-end"
+  ],
+  "_chocolatey_medium-blue": [
+    "chocolatey.ps1"
+  ],
+  "_circleci_medium-green": [
+    "circle.yml"
+  ],
+  "_book_medium-blue": [
+    "citation",
+    "citation.cff",
+    "citations",
+    "click.me",
+    "click.me.md",
+    "click.me.txt",
+    "delete.me",
+    "delete.me.md",
+    "delete.me.txt",
+    "keep.me",
+    "keep.me.md",
+    "keep.me.txt",
+    "licence",
+    "licence.md",
+    "licence.mysql",
+    "licence.mysql.md",
+    "licence.mysql.txt",
+    "licences",
+    "licences.md",
+    "licences.mysql",
+    "licences.mysql.md",
+    "licences.mysql.txt",
+    "licences.txt",
+    "licence.txt",
+    "license",
+    "license.md",
+    "license.mysql",
+    "license.mysql.md",
+    "license.mysql.txt",
+    "licenses",
+    "licenses.md",
+    "licenses.mysql",
+    "licenses.mysql.md",
+    "licenses.mysql.txt",
+    "licenses.txt",
+    "license.txt",
+    "read.me",
+    "read.me.md",
+    "readme.me",
+    "readme.me.md",
+    "readme.me.txt",
+    "read.me.txt",
+    "test.me",
+    "test.me.md",
+    "test.me.txt",
+    "unlicence",
+    "unlicence.md",
+    "unlicence.mysql",
+    "unlicence.mysql.md",
+    "unlicence.mysql.txt",
+    "unlicences",
+    "unlicences.md",
+    "unlicences.mysql",
+    "unlicences.mysql.md",
+    "unlicences.mysql.txt",
+    "unlicences.txt",
+    "unlicence.txt",
+    "unlicense",
+    "unlicense.md",
+    "unlicense.mysql",
+    "unlicense.mysql.md",
+    "unlicense.mysql.txt",
+    "unlicenses",
+    "unlicenses.md",
+    "unlicenses.mysql",
+    "unlicenses.mysql.md",
+    "unlicenses.mysql.txt",
+    "unlicenses.txt",
+    "unlicense.txt",
+    "zork0.doc",
+    "zork1.doc",
+    "zork2.doc",
+    "zork3.doc",
+    "zork4.doc",
+    "zork5.doc",
+    "zork6.doc",
+    "zork7.doc",
+    "zork8.doc",
+    "zork9.doc"
+  ],
+  "_cmake_medium-red": [
+    "cmakelists.txt"
+  ],
+  "_earth_dark-blue": [
+    "cname"
+  ],
+  "_codecov_dark-pink": [
+    "codecov.yaml",
+    ".codecov.yaml",
+    "codecov.yml",
+    ".codecov.yml"
+  ],
+  "_gql-codegen_dark-pink": [
+    "codegen.json",
+    "codegen.yaml",
+    "codegen.yml"
+  ],
+  "_codemeta_medium-grey": [
+    "codemeta.json",
+    "codemeta.jsonld"
+  ],
+  "_codeship_dark-blue": [
+    "codeship-0.yaml",
+    "codeship-0.yml",
+    "codeship-1.yaml",
+    "codeship-1.yml",
+    "codeship-2.yaml",
+    "codeship-2.yml",
+    "codeship-3.yaml",
+    "codeship-3.yml",
+    "codeship-4.yaml",
+    "codeship-4.yml",
+    "codeship-5.yaml",
+    "codeship-5.yml",
+    "codeship-6.yaml",
+    "codeship-6.yml",
+    "codeship-7.yaml",
+    "codeship-7.yml",
+    "codeship-8.yaml",
+    "codeship-8.yml",
+    "codeship-9.yaml",
+    "codeship-9.yml",
+    "codeship-a.yaml",
+    "codeship-a.yml",
+    "codeship-b.yaml",
+    "codeship-b.yml",
+    "codeship-c.yaml",
+    "codeship-c.yml",
+    "codeship-d.yaml",
+    "codeship-d.yml",
+    "codeship-e.yaml",
+    "codeship-e.yml",
+    "codeship-f.yaml",
+    "codeship-f.yml",
+    "codeship-g.yaml",
+    "codeship-g.yml",
+    "codeship-h.yaml",
+    "codeship-h.yml",
+    "codeship-i.yaml",
+    "codeship-i.yml",
+    "codeship-j.yaml",
+    "codeship-j.yml",
+    "codeship-k.yaml",
+    "codeship-k.yml",
+    "codeship-l.yaml",
+    "codeship-l.yml",
+    "codeship-m.yaml",
+    "codeship-m.yml",
+    "codeship-n.yaml",
+    "codeship-n.yml",
+    "codeship-o.yaml",
+    "codeship-o.yml",
+    "codeship-p.yaml",
+    "codeship-p.yml",
+    "codeship-q.yaml",
+    "codeship-q.yml",
+    "codeship-r.yaml",
+    "codeship-r.yml",
+    "codeship-s.yaml",
+    "codeship-s.yml",
+    "codeship-t.yaml",
+    "codeship-t.yml",
+    "codeship-u.yaml",
+    "codeship-u.yml",
+    "codeship-v.yaml",
+    "codeship-v.yml",
+    "codeship-w.yaml",
+    "codeship-w.yml",
+    "codeship-x.yaml",
+    "codeship-x.yml",
+    "codeship--.yaml",
+    "codeship-..yaml",
+    "codeship-_.yaml",
+    "codeship--.yml",
+    "codeship-..yml",
+    "codeship-_.yml",
+    "codeship-y.yaml",
+    "codeship-y.yml",
+    "codeship-z.yaml",
+    "codeship-z.yml"
+  ],
+  "_config-coffee_medium-maroon": [
+    "coffeelint.json"
+  ],
+  "_commitlint_medium-blue": [
+    "commitlint.config.js",
+    ".commitlintrc.js",
+    ".commitlintrc.json",
+    ".commitlintrc.yaml",
+    ".commitlintrc.yml"
+  ],
+  "_compass_medium-red": [
+    "compass.scss",
+    "_compass.scss",
+    "lemonade.scss",
+    "_lemonade.scss"
+  ],
+  "_terminal_medium-red": [
+    "compile",
+    "config.guess",
+    "config.rpath",
+    "config.status",
+    "config.sub",
+    "configure",
+    "depcomp",
+    "libtool",
+    "login",
+    ".login",
+    "profile",
+    ".profile"
+  ],
+  "_composer_medium-yellow": [
+    "composer.json",
+    "composer.lock"
+  ],
+  "_composer_dark-blue": [
+    "composer.phar"
+  ],
+  "_conan_medium-blue": [
+    "conan.conf",
+    "conanfile.py",
+    "conanfile.txt"
+  ],
+  "_conda_medium-green": [
+    "condarc",
+    ".condarc"
+  ],
+  "_codekit": [
+    "config.codekit"
+  ],
+  "_code_medium-red": [
+    "configure.ac"
+  ],
+  "_jekyll_medium-red": [
+    "_config.yml"
+  ],
+  "_openbsd_medium-orange": [
+    "+contents",
+    "+desc",
+    "+display"
+  ],
+  "_checklist_dark-red": [
+    "contrib.mak",
+    "contrib.make"
+  ],
+  "_debian_dark-cyan": [
+    "control",
+    "dsc"
+  ],
+  "_cordova_light-blue": [
+    "cordova-0.cjs",
+    "cordova-0.js",
+    "cordova-0.mjs",
+    "cordova-1.cjs",
+    "cordova-1.js",
+    "cordova-1.mjs",
+    "cordova-2.cjs",
+    "cordova-2.js",
+    "cordova-2.mjs",
+    "cordova-3.cjs",
+    "cordova-3.js",
+    "cordova-3.mjs",
+    "cordova-4.cjs",
+    "cordova-4.js",
+    "cordova-4.mjs",
+    "cordova-5.cjs",
+    "cordova-5.js",
+    "cordova-5.mjs",
+    "cordova-6.cjs",
+    "cordova-6.js",
+    "cordova-6.mjs",
+    "cordova-7.cjs",
+    "cordova-7.js",
+    "cordova-7.mjs",
+    "cordova-8.cjs",
+    "cordova-8.js",
+    "cordova-8.mjs",
+    "cordova-9.cjs",
+    "cordova-9.js",
+    "cordova-9.mjs",
+    "cordova.cjs",
+    "cordova.js",
+    "cordova.mjs"
+  ],
+  "_config-python_dark-blue": [
+    ".coveragerc",
+    "manifest.in",
+    "poetry.lock",
+    "pyproject.toml",
+    "pythonconfig.json",
+    "python-config.json"
+  ],
+  "_coveralls_medium-red": [
+    ".coveralls.yaml",
+    ".coveralls.yml"
+  ],
+  "_cpan_dark-blue": [
+    "cpanfile"
+  ],
+  "_crowdin_medium-green": [
+    "crowdin.yaml",
+    "crowdin.yml"
+  ],
+  "_terminal_medium-orange": [
+    "cshrc",
+    ".cshrc"
+  ],
+  "_gear_medium-yellow": [
+    ".csscomb.json"
+  ],
+  "_curl_dark-blue": [
+    "curlrc",
+    "_curlrc"
+  ],
+  "_commitizen_dark-purple": [
+    "cz.json",
+    ".cz.json",
+    "cz.toml",
+    ".cz.toml",
+    "cz.yaml",
+    ".cz.yaml",
+    "cz.yml",
+    ".cz.yml"
+  ],
+  "_d3_medium-orange": [
+    "d3.cjs",
+    "d3.js",
+    "d3.mjs",
+    "d3.v0.cjs",
+    "d3.v0.js",
+    "d3.v0.mjs",
+    "d3.v1.cjs",
+    "d3.v1.js",
+    "d3.v1.mjs",
+    "d3.v2.cjs",
+    "d3.v2.js",
+    "d3.v2.mjs",
+    "d3.v3.cjs",
+    "d3.v3.js",
+    "d3.v3.mjs",
+    "d3.v4.cjs",
+    "d3.v4.js",
+    "d3.v4.mjs",
+    "d3.v5.cjs",
+    "d3.v5.js",
+    "d3.v5.mjs",
+    "d3.v6.cjs",
+    "d3.v6.js",
+    "d3.v6.mjs",
+    "d3.v7.cjs",
+    "d3.v7.js",
+    "d3.v7.mjs",
+    "d3.v8.cjs",
+    "d3.v8.js",
+    "d3.v8.mjs",
+    "d3.v9.cjs",
+    "d3.v9.js",
+    "d3.v9.mjs"
+  ],
+  "_v8_medium-blue": [
+    "d8",
+    "mkpeephole",
+    "mksnapshot",
+    "v8",
+    "v8-",
+    "v8.",
+    "v8_"
+  ],
+  "_calc_medium-blue": [
+    "dcrc",
+    ".dcrc"
+  ],
+  "_deno_medium-grey": [
+    "deno.json",
+    "deno.jsonc"
+  ],
+  "_dependabot_medium-blue": [
+    "dependabot.yaml",
+    "dependabot.yml"
+  ],
+  "_caffe2_medium-purple": [
+    "deploy.prototxt",
+    "solver.prototxt",
+    "train_val.prototxt"
+  ],
+  "_checklist_dark-blue": [
+    "deps",
+    "qmake",
+    ".qmake"
+  ],
+  "_devcontainer_medium-blue": [
+    "devcontainer.json"
+  ],
+  "_pypi_dark-blue": [
+    "dev-requirements.in",
+    "dev_requirements.in",
+    "dev-requirements.txt",
+    "dev_requirements.txt",
+    "doc-requirements.in",
+    "doc_requirements.in",
+    "doc-requirements.txt",
+    "doc_requirements.txt",
+    "docs-requirements.in",
+    "docs_requirements.in",
+    "docs-requirements.txt",
+    "docs_requirements.txt",
+    "requirements-dev.in",
+    "requirements_dev.in",
+    "requirements-dev.txt",
+    "requirements_dev.txt",
+    "requirements-doc.in",
+    "requirements_doc.in",
+    "requirements-docs.in",
+    "requirements_docs.in",
+    "requirements-docs.txt",
+    "requirements_docs.txt",
+    "requirements-doc.txt",
+    "requirements_doc.txt",
+    "requirements.in",
+    "requirements-test.in",
+    "requirements_test.in",
+    "requirements-tests.in",
+    "requirements_tests.in",
+    "requirements-tests.txt",
+    "requirements_tests.txt",
+    "requirements-test.txt",
+    "requirements_test.txt",
+    "requirements.txt",
+    "test-requirements.in",
+    "test_requirements.in",
+    "test-requirements.txt",
+    "test_requirements.txt",
+    "tests-requirements.in",
+    "tests_requirements.in",
+    "tests-requirements.txt",
+    "tests_requirements.txt"
+  ],
+  "_terminal_medium-green": [
+    "dircolors",
+    "dir_colors",
+    "_dircolors",
+    "_dir_colors",
+    ".dircolors",
+    ".dir_colors",
+    "._dircolors",
+    "._dir_colors",
+    ".fishrc"
+  ],
+  "_docker_dark-orange": [
+    "docker-sync.yml"
+  ],
+  "_docz_medium-yellow": [
+    "docz.cjs",
+    "docz.config.cjs",
+    "docz.config.js",
+    "docz.config.mjs",
+    "docz.js",
+    "docz.mjs",
+    "doczrc.cjs",
+    "doczrc.config.cjs",
+    "doczrc.config.js",
+    "doczrc.config.mjs",
+    "doczrc.js",
+    "doczrc.mjs"
+  ],
+  "_docz_medium-orange": [
+    "docz.config.json",
+    "docz.json",
+    "doczrc.config.json",
+    "doczrc.json"
+  ],
+  "_dojo_light-red": [
+    "dojo.cjs",
+    "dojo.js",
+    "dojo.mjs"
+  ],
+  "_dosbox_medium-orange": [
+    "dosbox.conf",
+    "dosbox_.conf",
+    "dosboxpref",
+    "dosbox_pref"
+  ],
+  "_doxygen_medium-blue": [
+    "doxyfile",
+    ".doxyfile"
+  ],
+  "_dragula_dark-purple": [
+    "dragula.cjs",
+    "dragula.css",
+    "dragula.js",
+    "dragula.min.cjs",
+    "dragula.min.css",
+    "dragula.min.js",
+    "dragula.min.mjs",
+    "dragula.mjs"
+  ],
+  "_drawio_medium-orange": [
+    ".drawio"
+  ],
+  "_dub_medium-red": [
+    "dub.json",
+    "dub.sdl",
+    "dub.selections.json",
+    "dub.selections.sdl"
+  ],
+  "_database_dark-red": [
+    "eign",
+    ".icondb.js"
+  ],
+  "_emacs_dark-purple": [
+    "elc",
+    "eld"
+  ],
+  "_erlang_dark-green": [
+    "emakefile"
+  ],
+  "_database_medium-orange": [
+    "encodings.dir",
+    "fc-list"
+  ],
+  "_dotenv_medium-yellow": [
+    ".env"
+  ],
+  "_esdoc_medium-red": [
+    "esdoc.cjs",
+    ".esdoc.cjs",
+    "esdoc.js",
+    ".esdoc.js",
+    "esdoc.json",
+    ".esdoc.json",
+    "esdoc.mjs",
+    ".esdoc.mjs"
+  ],
+  "_config-js_medium-yellow": [
+    "eshost-config.json",
+    ".eshost-config.json",
+    "eshost.json",
+    ".eshost.json",
+    "jsconfig.0.json",
+    "jsconfig.1.json",
+    "jsconfig.2.json",
+    "jsconfig.3.json",
+    "jsconfig.4.json",
+    "jsconfig.5.json",
+    "jsconfig.6.json",
+    "jsconfig.7.json",
+    "jsconfig.8.json",
+    "jsconfig.9.json",
+    "jsconfig.a.json",
+    "jsconfig.b.json",
+    "jsconfig.c.json",
+    "jsconfig.d.json",
+    "jsconfig.e.json",
+    "jsconfig.f.json",
+    "jsconfig.g.json",
+    "jsconfig.h.json",
+    "jsconfig.i.json",
+    "jsconfig.j.json",
+    "jsconfig.json",
+    "jsconfig. .json",
+    "jsconfig.!.json",
+    "jsconfig.\".json",
+    "jsconfig.#.json",
+    "jsconfig.$.json",
+    "jsconfig.%.json",
+    "jsconfig.&.json",
+    "jsconfig.'.json",
+    "jsconfig.(.json",
+    "jsconfig.).json",
+    "jsconfig.*.json",
+    "jsconfig.+.json",
+    "jsconfig.,.json",
+    "jsconfig.-.json",
+    "jsconfig...json",
+    "jsconfig./.json",
+    "jsconfig.:.json",
+    "jsconfig.;.json",
+    "jsconfig.<.json",
+    "jsconfig.=.json",
+    "jsconfig.>.json",
+    "jsconfig.?.json",
+    "jsconfig.@.json",
+    "jsconfig.[.json",
+    "jsconfig.\\.json",
+    "jsconfig.].json",
+    "jsconfig.^.json",
+    "jsconfig._.json",
+    "jsconfig.`.json",
+    "jsconfig.{.json",
+    "jsconfig.|.json",
+    "jsconfig.}.json",
+    "jsconfig.~.json",
+    "jsconfig.k.json",
+    "jsconfig.l.json",
+    "jsconfig.m.json",
+    "jsconfig.n.json",
+    "jsconfig.o.json",
+    "jsconfig.p.json",
+    "jsconfig.q.json",
+    "jsconfig.r.json",
+    "jsconfig.s.json",
+    "jsconfig.t.json",
+    "jsconfig.u.json",
+    "jsconfig.v.json",
+    "jsconfig.w.json",
+    "jsconfig.x.json",
+    "jsconfig.y.json",
+    "jsconfig.z.json"
+  ],
+  "_eslint_light-purple": [
+    ".eslintrc.cjs",
+    ".eslintrc.js",
+    ".eslintrc.json",
+    ".eslintrc.mjs",
+    ".eslintrc.yaml",
+    ".eslintrc.yml"
+  ],
+  "_vim_medium-green": [
+    "exrc",
+    "nexrc"
+  ],
+  "_fabfile_medium-blue": [
+    "fabfile.py"
+  ],
+  "_fabric_medium-orange": [
+    "fabric.mod.json"
+  ],
+  "_fancy_medium-green": [
+    "fakefile"
+  ],
+  "_database_medium-purple": [
+    "figmagic",
+    "magic.mgc"
+  ],
+  "_firebase_medium-yellow": [
+    "firebase.json",
+    "firestore.indexes.json"
+  ],
+  "_firebase_medium-orange": [
+    "firestore.rule",
+    "firestore.rules"
+  ],
+  "_flask_dark-blue": [
+    "flask-.py",
+    "flask..py",
+    "flask_.py"
+  ],
+  "_postscript_medium-blue": [
+    "fontinfo"
+  ],
+  "_postscript_dark-red": [
+    "fontmap",
+    "fontmap.gs"
+  ],
+  "_database_medium-red": [
+    "fonts.alias",
+    "fonts.dir",
+    "fonts.scale",
+    "index.bt",
+    "index.db",
+    "index.dir",
+    "index.pag",
+    "lesshst",
+    "metadata.pb"
+  ],
+  "_electron_dark-cyan": [
+    "forge.config.js"
+  ],
+  "_kicad_medium-maroon": [
+    "fp-info-cache",
+    "fp-lib-table"
+  ],
+  "_database_medium-maroon": [
+    "fstab",
+    "manifest.mf",
+    "mime.types",
+    "whatis"
+  ],
+  "_fuelux_medium-orange": [
+    "fuelux.cjs",
+    "fuelux.css",
+    "fuelux.js",
+    "fuelux.min.cjs",
+    "fuelux.min.css",
+    "fuelux.min.js",
+    "fuelux.min.mjs",
+    "fuelux.mjs"
+  ],
+  "_fusebox_medium-blue": [
+    "fuse.cjs",
+    "fuse.js",
+    "fuse.mjs"
+  ],
+  "_galaxy_medium-grey": [
+    "galaxy.ini"
+  ],
+  "_gatsby_dark-purple": [
+    "gatsby-0.js",
+    "gatsby-0.ts",
+    "gatsby-1.js",
+    "gatsby-1.ts",
+    "gatsby-2.js",
+    "gatsby-2.ts",
+    "gatsby-3.js",
+    "gatsby-3.ts",
+    "gatsby-4.js",
+    "gatsby-4.ts",
+    "gatsby-5.js",
+    "gatsby-5.ts",
+    "gatsby-6.js",
+    "gatsby-6.ts",
+    "gatsby-7.js",
+    "gatsby-7.ts",
+    "gatsby-8.js",
+    "gatsby-8.ts",
+    "gatsby-9.js",
+    "gatsby-9.ts",
+    "gatsby-a.js",
+    "gatsby-a.ts",
+    "gatsby-b.js",
+    "gatsby-b.ts",
+    "gatsby-c.js",
+    "gatsby-c.ts",
+    "gatsby-d.js",
+    "gatsby-d.ts",
+    "gatsby-e.js",
+    "gatsby-e.ts",
+    "gatsby-f.js",
+    "gatsby-f.ts",
+    "gatsby-g.js",
+    "gatsby-g.ts",
+    "gatsby-h.js",
+    "gatsby-h.ts",
+    "gatsby-i.js",
+    "gatsby-i.ts",
+    "gatsby-j.js",
+    "gatsby- .js",
+    "gatsby-!.js",
+    "gatsby-\".js",
+    "gatsby-#.js",
+    "gatsby-$.js",
+    "gatsby-%.js",
+    "gatsby-&.js",
+    "gatsby-'.js",
+    "gatsby-(.js",
+    "gatsby-).js",
+    "gatsby-*.js",
+    "gatsby-+.js",
+    "gatsby-,.js",
+    "gatsby--.js",
+    "gatsby-..js",
+    "gatsby-/.js",
+    "gatsby-:.js",
+    "gatsby-;.js",
+    "gatsby-<.js",
+    "gatsby-=.js",
+    "gatsby->.js",
+    "gatsby-?.js",
+    "gatsby-@.js",
+    "gatsby-[.js",
+    "gatsby-\\.js",
+    "gatsby-].js",
+    "gatsby-^.js",
+    "gatsby-_.js",
+    "gatsby-`.js",
+    "gatsby-{.js",
+    "gatsby-|.js",
+    "gatsby-}.js",
+    "gatsby-~.js",
+    "gatsby-j.ts",
+    "gatsby-k.js",
+    "gatsby-k.ts",
+    "gatsby-l.js",
+    "gatsby-l.ts",
+    "gatsby-m.js",
+    "gatsby-m.ts",
+    "gatsby-n.js",
+    "gatsby-n.ts",
+    "gatsby-o.js",
+    "gatsby-o.ts",
+    "gatsby-p.js",
+    "gatsby-p.ts",
+    "gatsby-q.js",
+    "gatsby-q.ts",
+    "gatsby-r.js",
+    "gatsby-r.ts",
+    "gatsby-s.js",
+    "gatsby-s.ts",
+    "gatsby-t.js",
+    "gatsby- .ts",
+    "gatsby-!.ts",
+    "gatsby-\".ts",
+    "gatsby-#.ts",
+    "gatsby-$.ts",
+    "gatsby-%.ts",
+    "gatsby-&.ts",
+    "gatsby-'.ts",
+    "gatsby-(.ts",
+    "gatsby-).ts",
+    "gatsby-*.ts",
+    "gatsby-+.ts",
+    "gatsby-,.ts",
+    "gatsby--.ts",
+    "gatsby-..ts",
+    "gatsby-/.ts",
+    "gatsby-:.ts",
+    "gatsby-;.ts",
+    "gatsby-<.ts",
+    "gatsby-=.ts",
+    "gatsby->.ts",
+    "gatsby-?.ts",
+    "gatsby-@.ts",
+    "gatsby-[.ts",
+    "gatsby-\\.ts",
+    "gatsby-].ts",
+    "gatsby-^.ts",
+    "gatsby-_.ts",
+    "gatsby-`.ts",
+    "gatsby-{.ts",
+    "gatsby-|.ts",
+    "gatsby-}.ts",
+    "gatsby-~.ts",
+    "gatsby-t.ts",
+    "gatsby-u.js",
+    "gatsby-u.ts",
+    "gatsby-v.js",
+    "gatsby-v.ts",
+    "gatsby-w.js",
+    "gatsby-w.ts",
+    "gatsby-x.js",
+    "gatsby-x.ts",
+    "gatsby-y.js",
+    "gatsby-y.ts",
+    "gatsby-z.js",
+    "gatsby-z.ts"
+  ],
+  "_bazel_medium-cyan": [
+    ".gazelcfg.json"
+  ],
+  "_bundler_medium-blue": [
+    "gemfile",
+    "gemfile.lock"
+  ],
+  "_git_medium-red": [
+    ".gitattributes",
+    ".git-blame-ignore-revs",
+    "gitignore",
+    "gitignore-global",
+    "gitignore_global",
+    ".gitkeep",
+    ".gitmodules",
+    ".global.gitattributes",
+    ".global.gitignore",
+    ".keep"
+  ],
+  "_key_medium-green": [
+    "git-credential-osxkeychain"
+  ],
+  "_gitlab_medium-orange": [
+    ".gitlab-ci.yml"
+  ],
+  "_gitpod_medium-blue": [
+    "gitpod.yaml",
+    ".gitpod.yaml",
+    "gitpod.yml",
+    ".gitpod.yml"
+  ],
+  "_glide_light-orange": [
+    "glide.yaml",
+    "glide.yml"
+  ],
+  "_checklist_medium-green": [
+    "gnumakefile",
+    "mk.config",
+    "todo.txt"
+  ],
+  "_gnuplot_medium-red": [
+    "gnuplot_history",
+    "gnuplotrc"
+  ],
+  "_config-go_dark-blue": [
+    "go.mod"
+  ],
+  "_goreleaser_medium-blue": [
+    ".goreleaser.yaml",
+    ".goreleaser.yml"
+  ],
+  "_config-go_medium-green": [
+    "go.sum"
+  ],
+  "_graphql_medium-pink": [
+    "graphql.config.js",
+    ".graphqlrc",
+    ".graphqlrc.js",
+    ".graphqlrc.json",
+    ".graphqlrc.yaml",
+    ".graphqlrc.yml"
+  ],
+  "_greenkeeper_medium-green": [
+    "greenkeeper.json"
+  ],
+  "_grunt_medium-yellow": [
+    "gruntfile.babel.cjs",
+    "gruntfile.babel.js",
+    "gruntfile.babel.jsx",
+    "gruntfile.babel.mjs",
+    "gruntfile.cjs",
+    "gruntfile.js",
+    "gruntfile.jsx",
+    "gruntfile.mjs"
+  ],
+  "_grunt_medium-maroon": [
+    "gruntfile.babel.coffee",
+    "gruntfile.babel.litcoffee",
+    "gruntfile.coffee",
+    "gruntfile.litcoffee"
+  ],
+  "_grunt_medium-blue": [
+    "gruntfile.ts",
+    "gruntfile.tsx"
+  ],
+  "_gulp_medium-red": [
+    "gulpfile.babel.cjs",
+    "gulpfile.babel.js",
+    "gulpfile.babel.jsx",
+    "gulpfile.babel.mjs",
+    "gulpfile.cjs",
+    "gulpfile.esm.cjs",
+    "gulpfile.esm.js",
+    "gulpfile.esm.jsx",
+    "gulpfile.esm.mjs",
+    "gulpfile.js",
+    "gulpfile.jsx",
+    "gulpfile.mjs"
+  ],
+  "_gulp_medium-maroon": [
+    "gulpfile.babel.coffee",
+    "gulpfile.babel.litcoffee",
+    "gulpfile.coffee",
+    "gulpfile.esm.coffee",
+    "gulpfile.esm.litcoffee",
+    "gulpfile.litcoffee"
+  ],
+  "_gulp_medium-blue": [
+    "gulpfile.ts",
+    "gulpfile.tsx"
+  ],
+  "_vim_dark-green": [
+    "gviminfo",
+    "gvimrc",
+    "nviminfo",
+    "nvimrc",
+    "viminfo",
+    ".viminfo",
+    "_viminfo",
+    "vimrc",
+    ".vimrc",
+    "_vimrc"
+  ],
+  "_config-hs_medium-purple": [
+    "haskellconfig.json"
+  ],
+  "_hie_dark-purple": [
+    "hie.yaml",
+    "hie.yml"
+  ],
+  "_webhint_dark-purple": [
+    ".hintrc"
+  ],
+  "_database_medium-cyan": [
+    "hosts"
+  ],
+  "_gear_medium-red": [
+    ".htaccess"
+  ],
+  "_gear_medium-orange": [
+    ".htpasswd"
+  ],
+  "_hyper_dark-purple": [
+    ".hyper.cjs",
+    ".hyper.js",
+    ".hyper.mjs"
+  ],
+  "_tex_medium-red": [
+    "hyphen.cs",
+    "hyphen.den",
+    "hyphen.det",
+    "hyphenex.cs",
+    "hyphenex.den",
+    "hyphenex.det",
+    "hyphenex.fr",
+    "hyphenex.sv",
+    "hyphenex.us",
+    "hyphen.fr",
+    "hyphen.sv",
+    "hyphen.us"
+  ],
+  "_icomoon_medium-purple": [
+    "icomoon.json"
+  ],
+  "_finder_medium-blue": [
+    "icon\r"
+  ],
+  "_imgbot_dark-cyan": [
+    ".imgbotconfig"
+  ],
+  "_caffe2_dark-blue": [
+    "init_net.pb",
+    "predict_net.pb"
+  ],
+  "_archlinux_dark-purple": [
+    ".install"
+  ],
+  "_qt_medium-yellow": [
+    "installscript.qs",
+    "toolchain_installscript.qs"
+  ],
+  "_ionic_medium-blue": [
+    "ionic.config.json",
+    "ionic.project"
+  ],
+  "_fork_medium-blue": [
+    ".issuetracker"
+  ],
+  "_jake_medium-maroon": [
+    "jakefile"
+  ],
+  "_jasmine_medium-purple": [
+    "jasmine.0.cjs",
+    "jasmine.0.coffee",
+    "jasmine.0.js",
+    "jasmine.0.mjs",
+    "jasmine.0.ts",
+    "jasmine.1.cjs",
+    "jasmine.1.coffee",
+    "jasmine.1.js",
+    "jasmine.1.mjs",
+    "jasmine.1.ts",
+    "jasmine.2.cjs",
+    "jasmine.2.coffee",
+    "jasmine.2.js",
+    "jasmine.2.mjs",
+    "jasmine.2.ts",
+    "jasmine.3.cjs",
+    "jasmine.3.coffee",
+    "jasmine.3.js",
+    "jasmine.3.mjs",
+    "jasmine.3.ts",
+    "jasmine.4.cjs",
+    "jasmine.4.coffee",
+    "jasmine.4.js",
+    "jasmine.4.mjs",
+    "jasmine.4.ts",
+    "jasmine.5.cjs",
+    "jasmine.5.coffee",
+    "jasmine.5.js",
+    "jasmine.5.mjs",
+    "jasmine.5.ts",
+    "jasmine.6.cjs",
+    "jasmine.6.coffee",
+    "jasmine.6.js",
+    "jasmine.6.mjs",
+    "jasmine.6.ts",
+    "jasmine.7.cjs",
+    "jasmine.7.coffee",
+    "jasmine.7.js",
+    "jasmine.7.mjs",
+    "jasmine.7.ts",
+    "jasmine.8.cjs",
+    "jasmine.8.coffee",
+    "jasmine.8.js",
+    "jasmine.8.mjs",
+    "jasmine.8.ts",
+    "jasmine.9.cjs",
+    "jasmine.9.coffee",
+    "jasmine.9.js",
+    "jasmine.9.mjs",
+    "jasmine.9.ts",
+    "jasmine.a.cjs",
+    "jasmine.a.coffee",
+    "jasmine.a.js",
+    "jasmine.a.mjs",
+    "jasmine.a.ts",
+    "jasmine.b.cjs",
+    "jasmine.b.coffee",
+    "jasmine.b.js",
+    "jasmine.b.mjs",
+    "jasmine.b.ts",
+    "jasmine.c.cjs",
+    "jasmine.c.coffee",
+    "jasmine.cjs",
+    "jasmine.-.cjs",
+    "jasmine.c.js",
+    "jasmine._.cjs",
+    "jasmine.c.mjs",
+    "jasmine.coffee",
+    "jasmine.-.coffee",
+    "jasmine._.coffee",
+    "jasmine.c.ts",
+    "jasmine.d.cjs",
+    "jasmine.d.coffee",
+    "jasmine.d.js",
+    "jasmine.d.mjs",
+    "jasmine.d.ts",
+    "jasmine.e.cjs",
+    "jasmine.e.coffee",
+    "jasmine.e.js",
+    "jasmine.e.mjs",
+    "jasmine.e.ts",
+    "jasmine.f.cjs",
+    "jasmine.f.coffee",
+    "jasmine.f.js",
+    "jasmine.f.mjs",
+    "jasmine.f.ts",
+    "jasmine.g.cjs",
+    "jasmine.g.coffee",
+    "jasmine.g.js",
+    "jasmine.g.mjs",
+    "jasmine.g.ts",
+    "jasmine.h.cjs",
+    "jasmine.h.coffee",
+    "jasmine.h.js",
+    "jasmine.h.mjs",
+    "jasmine.h.ts",
+    "jasmine.i.cjs",
+    "jasmine.i.coffee",
+    "jasmine.i.js",
+    "jasmine.i.mjs",
+    "jasmine.i.ts",
+    "jasmine.j.cjs",
+    "jasmine.j.coffee",
+    "jasmine.j.js",
+    "jasmine.j.mjs",
+    "jasmine.js",
+    "jasmine.-.js",
+    "jasmine._.js",
+    "jasmine.json",
+    ".jasmine.json",
+    "jasmine.j.ts",
+    "jasmine.k.cjs",
+    "jasmine.k.coffee",
+    "jasmine.k.js",
+    "jasmine.k.mjs",
+    "jasmine.k.ts",
+    "jasmine.l.cjs",
+    "jasmine.l.coffee",
+    "jasmine.l.js",
+    "jasmine.l.mjs",
+    "jasmine.l.ts",
+    "jasmine.m.cjs",
+    "jasmine.m.coffee",
+    "jasmine.mjs",
+    "jasmine.-.mjs",
+    "jasmine.m.js",
+    "jasmine._.mjs",
+    "jasmine.m.mjs",
+    "jasmine.m.ts",
+    "jasmine.n.cjs",
+    "jasmine.n.coffee",
+    "jasmine.n.js",
+    "jasmine.n.mjs",
+    "jasmine.n.ts",
+    "jasmine.o.cjs",
+    "jasmine.o.coffee",
+    "jasmine.o.js",
+    "jasmine.o.mjs",
+    "jasmine.o.ts",
+    "jasmine.p.cjs",
+    "jasmine.p.coffee",
+    "jasmine.p.js",
+    "jasmine.p.mjs",
+    "jasmine.p.ts",
+    "jasmine.q.cjs",
+    "jasmine.q.coffee",
+    "jasmine.q.js",
+    "jasmine.q.mjs",
+    "jasmine.q.ts",
+    "jasmine.r.cjs",
+    "jasmine.r.coffee",
+    "jasmine.r.js",
+    "jasmine.r.mjs",
+    "jasmine.r.ts",
+    "jasmine.s.cjs",
+    "jasmine.s.coffee",
+    "jasmine.s.js",
+    "jasmine.s.mjs",
+    "jasmine.s.ts",
+    "jasmine.t.cjs",
+    "jasmine.t.coffee",
+    "jasmine.t.js",
+    "jasmine.t.mjs",
+    "jasmine.ts",
+    "jasmine.-.ts",
+    "jasmine._.ts",
+    "jasmine.t.ts",
+    "jasmine.u.cjs",
+    "jasmine.u.coffee",
+    "jasmine.u.js",
+    "jasmine.u.mjs",
+    "jasmine.u.ts",
+    "jasmine.v.cjs",
+    "jasmine.v.coffee",
+    "jasmine.v.js",
+    "jasmine.v.mjs",
+    "jasmine.v.ts",
+    "jasmine.w.cjs",
+    "jasmine.w.coffee",
+    "jasmine.w.js",
+    "jasmine.w.mjs",
+    "jasmine.w.ts",
+    "jasmine.x.cjs",
+    "jasmine.x.coffee",
+    "jasmine.x.js",
+    "jasmine.x.mjs",
+    "jasmine.x.ts",
+    "jasmine.y.cjs",
+    "jasmine.y.coffee",
+    "jasmine.y.js",
+    "jasmine.y.mjs",
+    "jasmine.y.ts",
+    "jasmine.z.cjs",
+    "jasmine.z.coffee",
+    "jasmine.z.js",
+    "jasmine.z.mjs",
+    "jasmine.z.ts"
+  ],
+  "_jenkins_medium-red": [
+    "jenkinsfile"
+  ],
+  "_jest_medium-red": [
+    "jest.babel.cjs",
+    "jest.babel.js",
+    "jest.babel.json",
+    "jest.babel.jsx",
+    "jest.babel.mjs",
+    "jest.babel.ts",
+    "jest.babel.tsx",
+    "jest.cjs",
+    "jest.config.babel.cjs",
+    "jest.config.babel.js",
+    "jest.config.babel.json",
+    "jest.config.babel.jsx",
+    "jest.config.babel.mjs",
+    "jest.config.babel.ts",
+    "jest.config.babel.tsx",
+    "jest.config.cjs",
+    "jest.config.js",
+    "jest.config.json",
+    "jest.config.jsx",
+    "jest.config.mjs",
+    "jest.config.ts",
+    "jest.config.tsx",
+    "jest.js",
+    "jest.json",
+    "jest.jsx",
+    "jest.mjs",
+    ".jestrc",
+    ".jestrc.cjs",
+    ".jestrc.js",
+    ".jestrc.json",
+    ".jestrc.mjs",
+    "jest.ts",
+    "jest.tsx"
+  ],
+  "_jquery_dark-blue": [
+    "jquery.coffee",
+    "jquery.es",
+    "jquery.es6",
+    "jquery.js",
+    "jquery.jsx",
+    "jquery.map",
+    "jquery.ts",
+    "jquery.tsx"
+  ],
+  "_config-react_medium-blue": [
+    "jsxconfig.json"
+  ],
+  "_checklist_medium-cyan": [
+    "justfile"
+  ],
+  "_karma_medium-cyan": [
+    "karma.conf.cjs",
+    "karma.config.cjs",
+    "karma.config.js",
+    "karma.config.mjs",
+    "karma.config.ts",
+    "karma.conf.js",
+    "karma.conf.mjs",
+    "karma.conf.ts"
+  ],
+  "_karma_medium-maroon": [
+    "karma.conf.coffee",
+    "karma.config.coffee"
+  ],
+  "_kubernetes_medium-blue": [
+    "kazelcfg.json",
+    "kubernetes.yaml",
+    "kubernetes.yml"
+  ],
+  "_checklist_medium-blue": [
+    "kbuild"
+  ],
+  "_keybase_medium-blue": [
+    "keybase.txt"
+  ],
+  "_kitchenci_medium-green": [
+    "kitchen.yaml",
+    ".kitchen.yaml",
+    "kitchen.yml",
+    ".kitchen.yml"
+  ],
+  "_terminal_dark-yellow": [
+    "kshrc",
+    "mkshrc"
+  ],
+  "_lua_dark-green": [
+    "lakefile"
+  ],
+  "_database_dark-blue": [
+    "language-subtag-registry",
+    "language-subtag-registry.txt",
+    "nametable"
+  ],
+  "_config_medium-orange": [
+    "ld.script"
+  ],
+  "_lefthook_medium-red": [
+    "lefthook-local.yaml",
+    "lefthook-local.yml",
+    "lefthook.yaml",
+    "lefthook.yml"
+  ],
+  "_lerna_medium-blue": [
+    "lerna.json"
+  ],
+  "_gear_dark-yellow": [
+    ".lesshintrc"
+  ],
+  "_lex_medium-cyan": [
+    "lexer.x"
+  ],
+  "_lgtm_dark-purple": [
+    "lgtm.yaml",
+    ".lgtm.yaml",
+    "lgtm.yml",
+    ".lgtm.yml"
+  ],
+  "_lighthouse_dark-blue": [
+    "lighthouserc.js",
+    ".lighthouserc.js",
+    "lighthouserc.json",
+    ".lighthouserc.json",
+    "lighthouserc.yaml",
+    ".lighthouserc.yaml",
+    "lighthouserc.yml",
+    ".lighthouserc.yml"
+  ],
+  "_toc_medium-maroon": [
+    ".listing",
+    ".listing.0",
+    ".listing.1",
+    ".listing.2",
+    ".listing.3",
+    ".listing.4",
+    ".listing.5",
+    ".listing.6",
+    ".listing.7",
+    ".listing.8",
+    ".listing.9"
+  ],
+  "_tag_medium-cyan": [
+    "localtags"
+  ],
+  "_modula3_medium-red": [
+    "m3makefile",
+    "m3overrides"
+  ],
+  "_checklist_medium-yellow": [
+    "makefile",
+    "mkfile"
+  ],
+  "_boot_medium-green": [
+    "makefile.boot"
+  ],
+  "_config_dark-green": [
+    "man.conf",
+    "man.config",
+    "mandb.conf",
+    "man-db.conf",
+    "man_db.conf",
+    "mandb.config",
+    "man-db.config",
+    "man_db.config",
+    "manpath",
+    ".manpath",
+    "manpath.conf",
+    "manpath.config"
+  ],
+  "_cpan_medium-maroon": [
+    "manifest.skip"
+  ],
+  "_key_dark-green": [
+    "master.passwd",
+    "passwd"
+  ],
+  "_materialize_light-red": [
+    "materialize.cjs",
+    "materialize.css",
+    "materialize.js",
+    "materialize.min.cjs",
+    "materialize.min.css",
+    "materialize.min.js",
+    "materialize.min.mjs",
+    "materialize.mjs"
+  ],
+  "_mathjax_dark-green": [
+    "mathjax.cjs",
+    "mathjax.js",
+    "mathjax.mjs"
+  ],
+  "_minecraft_dark-green": [
+    "mcmod.info",
+    "pack.mcmeta"
+  ],
+  "_markdownlint_dark-cyan": [
+    "mdlrc",
+    ".mdlrc"
+  ],
+  "_markdownlint_medium-red": [
+    "mdlrc.rb",
+    ".mdlrc.rb",
+    "mdlrc.style.rb",
+    ".mdlrc.style.rb"
+  ],
+  "_bullhorn_medium-orange": [
+    ".mention-bot"
+  ],
+  "_git-merge_medium-red": [
+    "merge_head",
+    "merge_mode",
+    "merge_msg"
+  ],
+  "_meson_medium-green": [
+    "meson.build",
+    "meson_options.txt"
+  ],
+  "_cpan_medium-yellow": [
+    "meta.json"
+  ],
+  "_cpan_medium-red": [
+    "meta.yml"
+  ],
+  "_config_medium-blue": [
+    "mimeapps.list"
+  ],
+  "_elixir_light-purple": [
+    "mix.ex",
+    "mix.exs",
+    "mix.lock"
+  ],
+  "_book-alt_medium-blue": [
+    "mkdocs.yaml",
+    ".mkdocs.yaml",
+    "mkdocs.yml",
+    ".mkdocs.yml"
+  ],
+  "_mocha_medium-maroon": [
+    "mocha.coffee",
+    "mocha.es",
+    "mocha.es6",
+    "mocha.js",
+    "mocha.jsx",
+    "mocha.min.coffee",
+    "mocha.min.es",
+    "mocha.min.es6",
+    "mocha.min.js",
+    "mocha.min.jsx",
+    "mocha.min.ts",
+    "mocha.min.tsx",
+    "mocha.ts",
+    "mocha.tsx"
+  ],
+  "_mocha_medium-red": [
+    "mocha.css",
+    "mocha.less",
+    "mocha.min.css",
+    "mocha.min.less",
+    "mocha.min.scss",
+    "mocha.min.styl",
+    "mocha.scss",
+    "mocha.styl"
+  ],
+  "_moleculer_medium-blue": [
+    "moleculer.config.cjs",
+    "moleculer.config.js",
+    "moleculer.config.json",
+    "moleculer.config.mjs",
+    "moleculer.config.ts"
+  ],
+  "_moment_medium-cyan": [
+    "moment.cjs",
+    "moment.js",
+    "moment.min.cjs",
+    "moment.min.js",
+    "moment.min.mjs",
+    "moment.mjs",
+    "moment-with-locales.cjs",
+    "moment-with-locales.js",
+    "moment-with-locales.min.cjs",
+    "moment-with-locales.min.js",
+    "moment-with-locales.min.mjs",
+    "moment-with-locales.mjs"
+  ],
+  "_nanoc_medium-red": [
+    "nanoc.yaml",
+    ".nanoc.yaml",
+    "nanoc.yml",
+    ".nanoc.yml"
+  ],
+  "_nestjs_medium-red": [
+    "nestconfig.json"
+  ],
+  "_netlify_dark-blue": [
+    "netlify.toml"
+  ],
+  "_nextjs_dark-grey": [
+    "next.config.cjs",
+    "next.config.js",
+    "next.config.mjs"
+  ],
+  "_nextflow_dark-green": [
+    "nextflow.config"
+  ],
+  "_nginx_dark-green": [
+    "nginx.conf"
+  ],
+  "_nightwatch_dark-maroon": [
+    "nightwatch.conf.cjs",
+    "nightwatch.config.cjs",
+    "nightwatch.config.js",
+    "nightwatch.config.mjs",
+    "nightwatch.conf.js",
+    "nightwatch.conf.mjs"
+  ],
+  "_nodemon_medium-green": [
+    "nodemon.json"
+  ],
+  "_nokogiri_medium-red": [
+    "nokogirirc",
+    ".nokogirirc"
+  ],
+  "_normalize_medium-red": [
+    "normalize.css",
+    "normalize.less",
+    "normalize.min.css",
+    "normalize.min.less",
+    "normalize.min.scss",
+    "normalize.min.styl",
+    "normalize.scss",
+    "normalize.styl"
+  ],
+  "_jupyter_dark-cyan": [
+    "notebook"
+  ],
+  "_zeit_medium-maroon": [
+    ".nowignore",
+    ".vercelignore"
+  ],
+  "_zeit_medium-grey": [
+    "now.json",
+    "vercel.json"
+  ],
+  "_npm_medium-red": [
+    "npm-debug.log",
+    ".npmignore",
+    "npmrc",
+    ".npmrc",
+    "npm-shrinkwrap.json",
+    "package.json",
+    "package-lock.json"
+  ],
+  "_nsri_dark-green": [
+    ".nsriignore",
+    ".nsriignore.cjs",
+    ".nsriignore.config.cjs",
+    ".nsriignore.config.js",
+    ".nsriignore.config.mjs",
+    ".nsriignore.js",
+    ".nsriignore.json",
+    ".nsriignore.mjs",
+    ".nsriignore.yaml",
+    ".nsriignore.yml"
+  ],
+  "_nsri_medium-green": [
+    ".nsrirc",
+    ".nsrirc.cjs",
+    ".nsrirc.config.cjs",
+    ".nsrirc.config.js",
+    ".nsrirc.config.mjs",
+    ".nsrirc.js",
+    ".nsrirc.json",
+    ".nsrirc.mjs",
+    ".nsrirc.yaml",
+    ".nsrirc.yml"
+  ],
+  "_recycle_dark-green": [
+    "nukefile"
+  ],
+  "_nuxt_medium-cyan": [
+    "nuxt.config.js",
+    "nuxt.config.ts"
+  ],
+  "_nx_dark-blue": [
+    "nx.json"
+  ],
+  "_istanbul_medium-green": [
+    "nyc.config.cjs",
+    ".nycrc.yaml",
+    ".nycrc.yml"
+  ],
+  "_istanbul_medium-yellow": [
+    "nyc.config.js"
+  ],
+  "_istanbul_medium-blue": [
+    "nyc.config.mjs"
+  ],
+  "_istanbul_medium-orange": [
+    ".nycrc",
+    ".nycrc.json"
+  ],
+  "_swagger_medium-green": [
+    "openapi.json",
+    "openapi.yaml",
+    "openapi.yml",
+    "swagger.json",
+    "swagger.yaml",
+    "swagger.yml"
+  ],
+  "_helix_medium-blue": [
+    ".p4ignore"
+  ],
+  "_archlinux_dark-yellow": [
+    "pacman.conf"
+  ],
+  "_package_medium-blue": [
+    "paket.dependencies",
+    "paket.local",
+    "paket.lock",
+    "paket.references",
+    "paket.template",
+    "pubspec.lock"
+  ],
+  "_archlinux_light-yellow": [
+    "pamac.conf"
+  ],
+  "_patreon_medium-orange": [
+    "patreon.md",
+    "patrons.md"
+  ],
+  "_circuit-board_dark-green": [
+    "pcb.0",
+    "pcb.0.backup",
+    "pcb.0.backup~",
+    "pcb.1",
+    "pcb.1.backup",
+    "pcb.1.backup~",
+    "pcb.2",
+    "pcb.2.backup",
+    "pcb.2.backup~",
+    "pcb.3",
+    "pcb.3.backup",
+    "pcb.3.backup~",
+    "pcb.4",
+    "pcb.4.backup",
+    "pcb.4.backup~",
+    "pcb.5",
+    "pcb.5.backup",
+    "pcb.5.backup~",
+    "pcb.6",
+    "pcb.6.backup",
+    "pcb.6.backup~",
+    "pcb.7",
+    "pcb.7.backup",
+    "pcb.7.backup~",
+    "pcb.8",
+    "pcb.8.backup",
+    "pcb.8.backup~",
+    "pcb.9",
+    "pcb.9.backup",
+    "pcb.9.backup~"
+  ],
+  "_config-perl_medium-blue": [
+    "perl5config.json",
+    "perl5-config.json",
+    "perl6config.json",
+    "perl6-config.json",
+    "perlconfig.json",
+    "perl-config.json"
+  ],
+  "_config_medium-yellow": [
+    "pf.os"
+  ],
+  "_phoenix_medium-orange": [
+    "phoenix.cjs",
+    "phoenix.js",
+    "phoenix.mjs"
+  ],
+  "_phoenix_medium-red": [
+    "phoenix.ex"
+  ],
+  "_photorec_medium-green": [
+    ".photorec.cfg"
+  ],
+  "_phpunit_medium-purple": [
+    "phpunit.xml"
+  ],
+  "_phraseapp_medium-blue": [
+    ".phraseapp.yaml",
+    ".phraseapp.yml"
+  ],
+  "_pipenv_dark-blue": [
+    "pipfile",
+    "pipfile.lock"
+  ],
+  "_archlinux_dark-cyan": [
+    "pkgbuild"
+  ],
+  "_database_medium-blue": [
+    "pkginfo"
+  ],
+  "_platformio_medium-orange": [
+    "platformio.ini"
+  ],
+  "_pnpm_medium-yellow": [
+    "pnpmfile.js"
+  ],
+  "_pnpm_medium-orange": [
+    "pnpm-lock.yaml",
+    "pnpm-lock.yml",
+    "pnpm-workspace.yaml",
+    "pnpm-workspace.yml"
+  ],
+  "_polymer_medium-purple": [
+    "polymer.json"
+  ],
+  "_postcss_medium-yellow": [
+    "postcss.config.cjs",
+    "postcss.config.js",
+    "postcss.config.mjs"
+  ],
+  "_precommit_medium-yellow": [
+    ".pre-commit.yaml",
+    ".pre-commit.yml"
+  ],
+  "_prettier_medium-cyan": [
+    "prettier.config.cjs",
+    "prettier.config.js",
+    "prettier.config.mjs"
+  ],
+  "_emacs_medium-blue": [
+    "project.ede"
+  ],
+  "_pros_medium-orange": [
+    "project.pros"
+  ],
+  "_package_medium-yellow": [
+    "pubspec.yaml",
+    "pubspec.yml"
+  ],
+  "_pullapprove_dark-blue": [
+    "pullapprove.yaml",
+    ".pullapprove.yaml",
+    "pullapprove.yml",
+    ".pullapprove.yml"
+  ],
+  "_pytest_medium-blue": [
+    "pytest.ini"
+  ],
+  "_python_medium-grey": [
+    "py.typed"
+  ],
+  "_pyup_dark-cyan": [
+    ".pyup",
+    ".pyup.yaml",
+    ".pyup.yml"
+  ],
+  "_quasar_medium-blue": [
+    "quasar.conf.cjs",
+    "quasar.conf.cts",
+    "quasar.config.cjs",
+    "quasar.config.cts",
+    "quasar.config.js",
+    "quasar.config.mjs",
+    "quasar.config.mts",
+    "quasar.config.ts",
+    "quasar.conf.js",
+    "quasar.conf.mjs",
+    "quasar.conf.mts",
+    "quasar.conf.ts"
+  ],
+  "_raphael_medium-orange": [
+    "raphael.cjs",
+    "raphael.js",
+    "raphael.mjs"
+  ],
+  "_react_dark-blue": [
+    "react.cjs",
+    "react-.cjs",
+    "react.js",
+    "react-.js",
+    "react.mjs",
+    "react-.mjs"
+  ],
+  "_readthedocs_dark-grey": [
+    "readthedocs.yaml",
+    ".readthedocs.yaml",
+    "readthedocs.yml",
+    ".readthedocs.yml"
+  ],
+  "_erlang_medium-red": [
+    "rebar.config.lock",
+    "rebar.lock"
+  ],
+  "_remark_medium-yellow": [
+    ".rehyperc",
+    ".rehyperc.cjs",
+    ".rehyperc.js",
+    ".rehyperc.json",
+    ".rehyperc.mjs",
+    ".rehyperc.yaml",
+    ".rehyperc.yml"
+  ],
+  "_semrelease_medium-grey": [
+    ".releaserc",
+    ".releaserc.cjs",
+    ".releaserc.js",
+    ".releaserc.json",
+    ".releaserc.mjs",
+    ".releaserc.yaml",
+    ".releaserc.yml"
+  ],
+  "_remark_medium-red": [
+    ".remarkrc",
+    ".remarkrc.cjs",
+    ".remarkrc.js",
+    ".remarkrc.json",
+    ".remarkrc.mjs",
+    ".remarkrc.yaml",
+    ".remarkrc.yml"
+  ],
+  "_renovate_medium-cyan": [
+    "renovate",
+    "renovate.json",
+    "renovaterc",
+    "renovaterc.json"
+  ],
+  "_requirejs_medium-blue": [
+    "require.cjs",
+    "requiredev.cjs",
+    "requiredev.js",
+    "requiredev.mjs",
+    "require.js",
+    "require-min.cjs",
+    "require.min.cjs",
+    "require-min.js",
+    "require.min.js",
+    "require-min.mjs",
+    "require.min.mjs",
+    "require.mjs"
+  ],
+  "_restql_medium-cyan": [
+    "restql.yaml",
+    "restql.yml"
+  ],
+  "_remark_medium-green": [
+    ".retextrc",
+    ".retextrc.cjs",
+    ".retextrc.js",
+    ".retextrc.json",
+    ".retextrc.mjs",
+    ".retextrc.yaml",
+    ".retextrc.yml"
+  ],
+  "_perl6_medium-green": [
+    "rexfile"
+  ],
+  "_clojure_medium-maroon": [
+    "riemann.config"
+  ],
+  "_binary_dark-blue": [
+    ".rnd"
+  ],
+  "_robots_dark-cyan": [
+    "robots.txt"
+  ],
+  "_isabelle_dark-blue": [
+    "root"
+  ],
+  "_config_medium-green": [
+    "rpc",
+    "settings.bsp",
+    "shells"
+  ],
+  "_rsync_dark-purple": [
+    "rsyncd.conf"
+  ],
+  "_rubocop_dark-red": [
+    ".rubocop_todo.yaml",
+    ".rubocop_todo.yml",
+    ".rubocop.yaml",
+    ".rubocop.yml"
+  ],
+  "_config-ruby_medium-red": [
+    "rubyconfig.json"
+  ],
+  "_debian_medium-cyan": [
+    "rules"
+  ],
+  "_neko_dark-orange": [
+    "run.n"
+  ],
+  "_config-rust_medium-maroon": [
+    "rustconfig.json"
+  ],
+  "_rust_medium-red": [
+    "rust-toolchain"
+  ],
+  "_zork_dark-green": [
+    "s4.errors"
+  ],
+  "_sails_medium-blue": [
+    ".sailsrc"
+  ],
+  "_sass_medium-yellow": [
+    ".sassrc",
+    ".sassrc.cjs",
+    ".sassrc.js",
+    ".sassrc.mjs"
+  ],
+  "_python_dark-green": [
+    "sconscript",
+    "sconstruct"
+  ],
+  "_sencha_light-green": [
+    "sencha.cjs",
+    "sencha.js",
+    "sencha.min.cjs",
+    "sencha.min.js",
+    "sencha.min.mjs",
+    "sencha.mjs"
+  ],
+  "_serverless_medium-red": [
+    "serverless.yaml",
+    "serverless.yml"
+  ],
+  "_code_medium-blue": [
+    "_service"
+  ],
+  "_code_medium-green": [
+    "settings.stylecop"
+  ],
+  "_shadowcljs_medium-cyan": [
+    "shadow-cljs.edn"
+  ],
+  "_shellcheck_light-maroon": [
+    "shellcheckrc",
+    ".shellcheckrc"
+  ],
+  "_shipit_medium-orange": [
+    "shipitfile.cjs",
+    "shipitfile.js",
+    "shipitfile.mjs"
+  ],
+  "_shippable_medium-cyan": [
+    "shippable.yaml",
+    "shippable.yml"
+  ],
+  "_ls_medium-green": [
+    "slakefile"
+  ],
+  "_python_medium-green": [
+    "snakefile",
+    "watchlists"
+  ],
+  "_snapcraft_dark-cyan": [
+    "snapcraft.yaml",
+    "snapcraft.yml"
+  ],
+  "_snapsvg_medium-cyan": [
+    "snap.svg.cjs",
+    "snap.svg.js",
+    "snap.svg-min.cjs",
+    "snap.svg.min.cjs",
+    "snap.svg-min.js",
+    "snap.svg.min.js",
+    "snap.svg-min.mjs",
+    "snap.svg.min.mjs",
+    "snap.svg.mjs"
+  ],
+  "_snowpack_dark-blue": [
+    "snowpack.config.cjs",
+    "snowpack.config.js",
+    "snowpack.config.json",
+    "snowpack.config.mjs",
+    "snowpack.config.ts"
+  ],
+  "_solidarity_dark-red": [
+    ".solidarity",
+    ".solidarity.json"
+  ],
+  "_spacemacs_medium-purple": [
+    "spacemacs"
+  ],
+  "_archlinux_dark-maroon": [
+    ".srcinfo"
+  ],
+  "_stdlibjs_medium-orange": [
+    "stdlib.cjs",
+    "stdlib.js",
+    "stdlib.mjs"
+  ],
+  "_stdlibjs_medium-blue": [
+    "stdlib.cjs.gz",
+    "stdlib.js.gz",
+    "stdlib.mjs.gz"
+  ],
+  "_stitches_medium-purple": [
+    "stitches.config.cjs",
+    ".stitches.config.cjs",
+    "stitches.config.js",
+    ".stitches.config.js",
+    "stitches.config.mjs",
+    ".stitches.config.mjs",
+    "stitches.config.ts",
+    ".stitches.config.ts"
+  ],
+  "_stylelint_medium-yellow": [
+    "stylelint.config.cjs",
+    "stylelint.config.js",
+    "stylelint.config.mjs"
+  ],
+  "_stylelint_medium-purple": [
+    ".stylelintrc",
+    ".stylelintrc.js",
+    ".stylelintrc.json",
+    ".stylelintrc.yaml",
+    ".stylelintrc.yml"
+  ],
+  "_stylishhaskell_medium-purple": [
+    ".stylish-haskell.yaml",
+    ".stylish-haskell.yml"
+  ],
+  "_kicad_dark-green": [
+    "sym-lib-table"
+  ],
+  "_tailwind_medium-cyan": [
+    "tailwind.cjs",
+    ".tailwind.cjs",
+    "tailwind.coffee",
+    ".tailwind.coffee",
+    "tailwind.config.cjs",
+    ".tailwind.config.cjs",
+    "tailwind.config.coffee",
+    ".tailwind.config.coffee",
+    "tailwind.config.js",
+    ".tailwind.config.js",
+    "tailwind.config.mjs",
+    ".tailwind.config.mjs",
+    "tailwind.config.ts",
+    ".tailwind.config.ts",
+    "tailwind.js",
+    ".tailwind.js",
+    "tailwind.mjs",
+    ".tailwind.mjs",
+    "tailwind.ts",
+    ".tailwind.ts"
+  ],
+  "_text_medium-maroon": [
+    "terminal saved output",
+    "terminal saved-output",
+    "terminal saved_output",
+    "terminal-saved output",
+    "terminal-saved-output",
+    "terminal-saved_output",
+    "terminal_saved output",
+    "terminal_saved-output",
+    "terminal_saved_output"
+  ],
+  "_terser_medium-orange": [
+    ".terserrc",
+    ".terserrc._",
+    ".terserrc.0",
+    ".terserrc.1",
+    ".terserrc.2",
+    ".terserrc.3",
+    ".terserrc.4",
+    ".terserrc.5",
+    ".terserrc.6",
+    ".terserrc.7",
+    ".terserrc.8",
+    ".terserrc.9",
+    ".terserrc.a",
+    ".terserrc.b",
+    ".terserrc.c",
+    ".terserrc.d",
+    ".terserrc.e",
+    ".terserrc.f",
+    ".terserrc.g",
+    ".terserrc.h",
+    ".terserrc.i",
+    ".terserrc.j",
+    ".terserrc.k",
+    ".terserrc.l",
+    ".terserrc.m",
+    ".terserrc.n",
+    ".terserrc.o",
+    ".terserrc.p",
+    ".terserrc.q",
+    ".terserrc.r",
+    ".terserrc.s",
+    ".terserrc.t",
+    ".terserrc.u",
+    ".terserrc.v",
+    ".terserrc.w",
+    ".terserrc.x",
+    ".terserrc.y",
+    ".terserrc.z",
+    ".uglifyrc",
+    ".uglifyrc._",
+    ".uglifyrc.0",
+    ".uglifyrc.1",
+    ".uglifyrc.2",
+    ".uglifyrc.3",
+    ".uglifyrc.4",
+    ".uglifyrc.5",
+    ".uglifyrc.6",
+    ".uglifyrc.7",
+    ".uglifyrc.8",
+    ".uglifyrc.9",
+    ".uglifyrc.a",
+    ".uglifyrc.b",
+    ".uglifyrc.c",
+    ".uglifyrc.d",
+    ".uglifyrc.e",
+    ".uglifyrc.f",
+    ".uglifyrc.g",
+    ".uglifyrc.h",
+    ".uglifyrc.i",
+    ".uglifyrc.j",
+    ".uglifyrc.k",
+    ".uglifyrc.l",
+    ".uglifyrc.m",
+    ".uglifyrc.n",
+    ".uglifyrc.o",
+    ".uglifyrc.p",
+    ".uglifyrc.q",
+    ".uglifyrc.r",
+    ".uglifyrc.s",
+    ".uglifyrc.t",
+    ".uglifyrc.u",
+    ".uglifyrc.v",
+    ".uglifyrc.w",
+    ".uglifyrc.x",
+    ".uglifyrc.y",
+    ".uglifyrc.z"
+  ],
+  "_test-hs_medium-purple": [
+    "test-.c2hs",
+    "test..c2hs",
+    "test_.c2hs",
+    "test-.hs",
+    "test..hs",
+    "test_.hs",
+    "test-.hsc",
+    "test..hsc",
+    "test_.hsc",
+    "test-.lhs",
+    "test..lhs",
+    "test_.lhs"
+  ],
+  "_testcafe_medium-blue": [
+    ".testcaferc.json"
+  ],
+  "_test-js_medium-green": [
+    "test-.cjs",
+    "test..cjs",
+    "test_.cjs"
+  ],
+  "_test-coffee_medium-maroon": [
+    "test-.cjsx",
+    "test_.cjsx",
+    "test-.coffee",
+    "test_.coffee",
+    "test-.iced",
+    "test_.iced",
+    "test-.litcoffee",
+    "test_.litcoffee"
+  ],
+  "_test-js_medium-yellow": [
+    "test-.es",
+    "test..es",
+    "test_.es",
+    "test-.js",
+    "test-._js",
+    "test..js",
+    "test.._js",
+    "test_.js",
+    "test_._js",
+    "test-.jsb",
+    "test..jsb",
+    "test_.jsb",
+    "test-.jsm",
+    "test..jsm",
+    "test_.jsm",
+    "test-.jss",
+    "test..jss",
+    "test_.jss",
+    "test-.sjs",
+    "test..sjs",
+    "test_.sjs"
+  ],
+  "_test-go_medium-cyan": [
+    "test-.go",
+    "test..go",
+    "test_.go"
+  ],
+  "_test-react_medium-blue": [
+    "test-.jsx",
+    "test..jsx",
+    "test_.jsx",
+    "test-.react.cjs",
+    "test..react.cjs",
+    "test_.react.cjs",
+    "test-.react.js",
+    "test..react.js",
+    "test_.react.js",
+    "test-.react.mjs",
+    "test..react.mjs",
+    "test_.react.mjs"
+  ],
+  "_test-js_medium-blue": [
+    "test-.mjs",
+    "test..mjs",
+    "test_.mjs"
+  ],
+  "_test-perl_medium-blue": [
+    "test-.pl",
+    "test..pl",
+    "test_.pl"
+  ],
+  "_test-ruby_medium-red": [
+    "test-.rb",
+    "test..rb",
+    "test_.rb",
+    "test-.ruby",
+    "test..ruby",
+    "test_.ruby"
+  ],
+  "_test-rust_medium-maroon": [
+    "test-.rs",
+    "test_.rs"
+  ],
+  "_test-ts_medium-blue": [
+    "test-.ts",
+    "test..ts",
+    "test_.ts"
+  ],
+  "_test-ts_light-blue": [
+    "test-.tsx",
+    "test..tsx",
+    "test_.tsx"
+  ],
+  "_gear_dark-green": [
+    "text.enc"
+  ],
+  "_tortoise_medium-red": [
+    ".tgitconfig"
+  ],
+  "_thor_dark-orange": [
+    "thorfile"
+  ],
+  "_tilt_medium-green": [
+    "tiltfile"
+  ],
+  "_tcl_dark-red": [
+    ".tkdiffrc"
+  ],
+  "_tmux_medium-green": [
+    "tmux.conf"
+  ],
+  "_truffle_medium-maroon": [
+    "truffle.cjs",
+    ".truffle.cjs",
+    "truffle.js",
+    ".truffle.js",
+    "truffle.mjs",
+    ".truffle.mjs"
+  ],
+  "_config-ts_medium-blue": [
+    "tsconfig.0.json",
+    "tsconfig.1.json",
+    "tsconfig.2.json",
+    "tsconfig.3.json",
+    "tsconfig.4.json",
+    "tsconfig.5.json",
+    "tsconfig.6.json",
+    "tsconfig.7.json",
+    "tsconfig.8.json",
+    "tsconfig.9.json",
+    "tsconfig.a.json",
+    "tsconfig.base.json",
+    "tsconfig.b.json",
+    "tsconfig.build.json",
+    "tsconfig.c.json",
+    "tsconfig.d.json",
+    "tsconfig.e.json",
+    "tsconfig.es5.json",
+    "tsconfig.eslint.json",
+    "tsconfig.esm.json",
+    "tsconfig.f.json",
+    "tsconfig.g.json",
+    "tsconfig.h.json",
+    "tsconfig.i.json",
+    "tsconfig.j.json",
+    "tsconfig.json",
+    "tsconfig. .json",
+    "tsconfig.!.json",
+    "tsconfig.\".json",
+    "tsconfig.#.json",
+    "tsconfig.$.json",
+    "tsconfig.%.json",
+    "tsconfig.&.json",
+    "tsconfig.'.json",
+    "tsconfig.(.json",
+    "tsconfig.).json",
+    "tsconfig.*.json",
+    "tsconfig.+.json",
+    "tsconfig.,.json",
+    "tsconfig.-.json",
+    "tsconfig...json",
+    "tsconfig./.json",
+    "tsconfig.:.json",
+    "tsconfig.;.json",
+    "tsconfig.<.json",
+    "tsconfig.=.json",
+    "tsconfig.>.json",
+    "tsconfig.?.json",
+    "tsconfig.@.json",
+    "tsconfig.[.json",
+    "tsconfig.\\.json",
+    "tsconfig.].json",
+    "tsconfig.^.json",
+    "tsconfig._.json",
+    "tsconfig.`.json",
+    "tsconfig.{.json",
+    "tsconfig.|.json",
+    "tsconfig.}.json",
+    "tsconfig.~.json",
+    "tsconfig.k.json",
+    "tsconfig.l.json",
+    "tsconfig.m.json",
+    "tsconfig.n.json",
+    "tsconfig.node.json",
+    "tsconfig.o.json",
+    "tsconfig.p.json",
+    "tsconfig.q.json",
+    "tsconfig.r.json",
+    "tsconfig.s.json",
+    "tsconfig.spec.json",
+    "tsconfig.t.json",
+    "tsconfig.u.json",
+    "tsconfig.v.json",
+    "tsconfig.w.json",
+    "tsconfig.x.json",
+    "tsconfig.y.json",
+    "tsconfig.z.json"
+  ],
+  "_config-ts_medium-purple": [
+    "tslint.json"
+  ],
+  "_typedoc_dark-purple": [
+    "typedoc.json"
+  ],
+  "_typings_medium-maroon": [
+    "typings.json"
+  ],
+  "_llvm_medium-red": [
+    "ubsan.blacklist"
+  ],
+  "_uikit_medium-blue": [
+    "uikit.cjs",
+    "uikit.js",
+    "uikit.min.cjs",
+    "uikit.min.js",
+    "uikit.min.mjs",
+    "uikit.mjs"
+  ],
+  "_unibeautify_medium-orange": [
+    "unibeautify.config.cjs",
+    "unibeautify.config.js",
+    "unibeautify.config.mjs"
+  ],
+  "_scales_medium-green": [
+    "units.dat",
+    "units.lib",
+    "unittab"
+  ],
+  "_scales_medium-red": [
+    "unitshistory",
+    "units-history",
+    "units_history",
+    ".unitshistory",
+    ".units-history",
+    ".units_history"
+  ],
+  "_vagrant_medium-cyan": [
+    "vagrantfile"
+  ],
+  "_openzfs_dark-blue": [
+    "vdev0",
+    "vdev1",
+    "vdev2",
+    "vdev3",
+    "vdev4",
+    "vdev5",
+    "vdev6",
+    "vdev7",
+    "vdev8",
+    "vdev9"
+  ],
+  "_heroku_dark-purple": [
+    ".vendor_urls"
+  ],
+  "_tag_medium-yellow": [
+    "version",
+    ".version"
+  ],
+  "_vite_medium-yellow": [
+    "vite.config.js",
+    "vite.config.ts"
+  ],
+  "_vsts_medium-blue": [
+    ".vsts-ci.yaml",
+    ".vsts-ci.yml"
+  ],
+  "_vue_light-green": [
+    "vue.config.cjs",
+    "vue.config.js",
+    "vue.config.mjs"
+  ],
+  "_w3c_medium-blue": [
+    "w3c.json"
+  ],
+  "_wallaby_medium-green": [
+    ".wallaby.cjs",
+    ".wallaby.js",
+    ".wallaby.mjs"
+  ],
+  "_watchman_medium-blue": [
+    "watchman.json"
+  ],
+  "_modernweb_medium-blue": [
+    "web-dev-server.config.cjs",
+    "web-dev-server.config.js",
+    "web-dev-server.config.mjs",
+    "web-test-runner.config.cjs",
+    "web-test-runner.config.js",
+    "web-test-runner.config.mjs"
+  ],
+  "_webpack_medium-blue": [
+    "webpack.analyze.js",
+    "webpack.base.conf.cjs",
+    "webpack.base.conf.coffee",
+    "webpack.base.conf.js",
+    "webpack.base.conf.mjs",
+    "webpack.base.conf.ts",
+    "webpack.cjs",
+    "webpack.coffee",
+    "webpack.common.cjs",
+    "webpack.common.coffee",
+    "webpack.common.js",
+    "webpack.common.mjs",
+    "webpack.common.ts",
+    "webpack.config.babel.cjs",
+    "webpack.config.babel.coffee",
+    "webpack.config.babel.js",
+    "webpack.config.babel.mjs",
+    "webpack.config.babel.ts",
+    "webpack.config.base.babel.cjs",
+    "webpack.config.base.babel.coffee",
+    "webpack.config.base.babel.js",
+    "webpack.config.base.babel.mjs",
+    "webpack.config.base.babel.ts",
+    "webpack.config.base.cjs",
+    "webpack.config.base.coffee",
+    "webpack.config.base.js",
+    "webpack.config.base.mjs",
+    "webpack.config.base.ts",
+    "webpack.config.cjs",
+    "webpack.config.coffee",
+    "webpack.config.common.babel.cjs",
+    "webpack.config.common.babel.coffee",
+    "webpack.config.common.babel.js",
+    "webpack.config.common.babel.mjs",
+    "webpack.config.common.babel.ts",
+    "webpack.config.common.cjs",
+    "webpack.config.common.coffee",
+    "webpack.config.common.js",
+    "webpack.config.common.mjs",
+    "webpack.config.common.ts",
+    "webpack.config.dev.babel.cjs",
+    "webpack.config.dev.babel.coffee",
+    "webpack.config.dev.babel.js",
+    "webpack.config.dev.babel.mjs",
+    "webpack.config.dev.babel.ts",
+    "webpack.config.dev.cjs",
+    "webpack.config.dev.coffee",
+    "webpack.config.development.babel.cjs",
+    "webpack.config.development.babel.coffee",
+    "webpack.config.development.babel.js",
+    "webpack.config.development.babel.mjs",
+    "webpack.config.development.babel.ts",
+    "webpack.config.development.cjs",
+    "webpack.config.development.coffee",
+    "webpack.config.development.js",
+    "webpack.config.development.mjs",
+    "webpack.config.development.ts",
+    "webpack.config.dev.js",
+    "webpack.config.dev.mjs",
+    "webpack.config.dev.ts",
+    "webpack.config.js",
+    "webpack.config.mjs",
+    "webpack.config.prod.babel.cjs",
+    "webpack.config.prod.babel.coffee",
+    "webpack.config.prod.babel.js",
+    "webpack.config.prod.babel.mjs",
+    "webpack.config.prod.babel.ts",
+    "webpack.config.prod.cjs",
+    "webpack.config.prod.coffee",
+    "webpack.config.prod.js",
+    "webpack.config.prod.mjs",
+    "webpack.config.prod.ts",
+    "webpack.config.production.babel.cjs",
+    "webpack.config.production.babel.coffee",
+    "webpack.config.production.babel.js",
+    "webpack.config.production.babel.mjs",
+    "webpack.config.production.babel.ts",
+    "webpack.config.production.cjs",
+    "webpack.config.production.coffee",
+    "webpack.config.production.js",
+    "webpack.config.production.mjs",
+    "webpack.config.production.ts",
+    "webpack.config.staging.babel.cjs",
+    "webpack.config.staging.babel.coffee",
+    "webpack.config.staging.babel.js",
+    "webpack.config.staging.babel.mjs",
+    "webpack.config.staging.babel.ts",
+    "webpack.config.staging.cjs",
+    "webpack.config.staging.coffee",
+    "webpack.config.staging.js",
+    "webpack.config.staging.mjs",
+    "webpack.config.staging.ts",
+    "webpack.config.test.babel.cjs",
+    "webpack.config.test.babel.coffee",
+    "webpack.config.test.babel.js",
+    "webpack.config.test.babel.mjs",
+    "webpack.config.test.babel.ts",
+    "webpack.config.test.cjs",
+    "webpack.config.test.coffee",
+    "webpack.config.test.js",
+    "webpack.config.test.mjs",
+    "webpack.config.test.ts",
+    "webpack.config.ts",
+    "webpack.dev.cjs",
+    "webpack.dev.coffee",
+    "webpack.dev.conf.cjs",
+    "webpack.dev.conf.coffee",
+    "webpack.dev.conf.js",
+    "webpack.dev.conf.mjs",
+    "webpack.dev.conf.ts",
+    "webpack.dev.js",
+    "webpack.dev.mjs",
+    "webpack.dev.ts",
+    "webpackfile.cjs",
+    "webpackfile.coffee",
+    "webpackfile.js",
+    "webpackfile.json",
+    "webpackfile.jsx",
+    "webpackfile.litcoffee",
+    "webpackfile.mjs",
+    "webpackfile.ts",
+    "webpackfile.tsx",
+    "webpack.js",
+    "webpack.json",
+    "webpack.jsx",
+    "webpack.litcoffee",
+    "webpack.main.config.cjs",
+    "webpack.main.config.coffee",
+    "webpack.main.config.js",
+    "webpack.main.config.mjs",
+    "webpack.main.config.ts",
+    "webpack.mix.cjs",
+    "webpack.mix.coffee",
+    "webpack.mix.js",
+    "webpack.mix.mjs",
+    "webpack.mix.ts",
+    "webpack.mjs",
+    "webpack.plugins.cjs",
+    "webpack.plugins.coffee",
+    "webpack.plugins.js",
+    "webpack.plugins.mjs",
+    "webpack.plugins.ts",
+    "webpack.prod.cjs",
+    "webpack.prod.coffee",
+    "webpack.prod.conf.cjs",
+    "webpack.prod.conf.coffee",
+    "webpack.prod.conf.js",
+    "webpack.prod.conf.mjs",
+    "webpack.prod.conf.ts",
+    "webpack.prod.js",
+    "webpack.prod.mjs",
+    "webpack.prod.ts",
+    "webpack.renderer.config.cjs",
+    "webpack.renderer.config.coffee",
+    "webpack.renderer.config.js",
+    "webpack.renderer.config.mjs",
+    "webpack.renderer.config.ts",
+    "webpack.rules.cjs",
+    "webpack.rules.coffee",
+    "webpack.rules.js",
+    "webpack.rules.mjs",
+    "webpack.rules.ts",
+    "webpack.test.conf.cjs",
+    "webpack.test.conf.coffee",
+    "webpack.test.conf.js",
+    "webpack.test.conf.mjs",
+    "webpack.test.conf.ts",
+    "webpack.ts",
+    "webpack.tsx"
+  ],
+  "_wercker_medium-purple": [
+    "wercker.yaml",
+    "wercker.yml"
+  ],
+  "_wget_medium-purple": [
+    "wgetrc"
+  ],
+  "_windi_medium-blue": [
+    "windi.config.js",
+    "windi.config.ts"
+  ],
+  "_workbox_medium-orange": [
+    "workbox-config.cjs",
+    "workbox-config.js",
+    "workbox-config.mjs"
+  ],
+  "_python_dark-maroon": [
+    "wscript"
+  ],
+  "_config_medium-cyan": [
+    "xcompose",
+    ".xcompose"
+  ],
+  "_xmake_medium-green": [
+    "xmake.lua"
+  ],
+  "_yui_dark-blue": [
+    "yahoo-.cjs",
+    "yahoo-.js",
+    "yahoo-.mjs",
+    "yui.cjs",
+    "yui.js",
+    "yui.mjs"
+  ],
+  "_yamllint_medium-green": [
+    ".yamllint",
+    ".yamllint.yaml",
+    ".yamllint.yml"
+  ],
+  "_yarn_medium-blue": [
+    "yarn.lock"
+  ],
+  "_yandex_medium-red": [
+    ".yaspeller.json",
+    ".yaspellerrc"
+  ],
+  "_crafttweaker_medium-orange": [
+    ".zsrc.json"
+  ]
+}

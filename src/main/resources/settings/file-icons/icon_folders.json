@@ -1,0 +1,123 @@
+{
+  "_acre_dark-blue": [
+    ".acre"
+  ],
+  "_agda_dark-cyan": [
+    ".agda"
+  ],
+  "_acre_medium-blue": [
+    "aplsource"
+  ],
+  "_atom_dark-green": [
+    ".atom",
+    ".atom-ci"
+  ],
+  "_azurepipelines_dark-blue": [
+    ".azure-pipelines"
+  ],
+  "_bitcoin_medium-orange": [
+    ".bitcoin"
+  ],
+  "_bloc_medium-cyan": [
+    "bloc"
+  ],
+  "_bower_medium-yellow": [
+    "bower-components",
+    "bower_components"
+  ],
+  "_buildkite_light-green": [
+    ".buildkite"
+  ],
+  "_package": [
+    ".bundle",
+    ".paket"
+  ],
+  "_bazaar_medium-yellow": [
+    ".bzr"
+  ],
+  "_cabal_medium-cyan": [
+    ".cabal"
+  ],
+  "_circleci": [
+    ".circleci"
+  ],
+  "_cnab_dark-blue": [
+    "cnab"
+  ],
+  "_cpan_medium-blue": [
+    ".cpan"
+  ],
+  "_cpan_dark-blue": [
+    ".cpanplus"
+  ],
+  "_cubit_medium-cyan": [
+    "cubit",
+    "cubits"
+  ],
+  "_cvs_medium-orange": [
+    "cvs"
+  ],
+  "_devcontainer_medium-blue": [
+    ".devcontainer"
+  ],
+  "_docker_dark-blue": [
+    ".docker"
+  ],
+  "_dropbox_medium-blue": [
+    "dropbox",
+    ".dropbox.cache"
+  ],
+  "_dub_medium-red": [
+    ".dub"
+  ],
+  "_dvc_light-blue": [
+    ".dvc"
+  ],
+  "_emacs_medium-purple": [
+    ".emacs.d"
+  ],
+  "_expo_medium-blue": [
+    ".expo",
+    ".expo-shared"
+  ],
+  "_fossil": [
+    ".fossil-settings"
+  ],
+  "_github": [
+    ".github"
+  ],
+  "_gitlab": [
+    ".gitlab"
+  ],
+  "_hg_medium-grey": [
+    ".hg"
+  ],
+  "_meteor_dark-orange": [
+    ".meteor"
+  ],
+  "_node_dark-green": [
+    ".node-gyp"
+  ],
+  "_node_medium-green": [
+    "node_modules"
+  ],
+  "_istanbul_medium-orange": [
+    ".nyc-output",
+    ".nyc_output"
+  ],
+  "_svn": [
+    ".svn"
+  ],
+  "_vim_medium-green": [
+    ".vim"
+  ],
+  "_vs": [
+    ".vscode"
+  ],
+  "_wine_dark-red": [
+    ".wine"
+  ],
+  "_yarn_medium-blue": [
+    ".yarn"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "settings.title": "Icon Theme Settings",
+  "settings.enable": "Enable custom file icons",
+  "settings.language": "Language:",
+  "settings.activeThemes": "Active Themes (Priority Order)",
+  "settings.availableThemes": "Available Themes",
+  "settings.up": "▲ Up",
+  "settings.down": "▼ Down",
+  "settings.add": "← Add",
+  "settings.remove": "Remove →",
+  "settings.howItWorks": "How it works",
+  "settings.priority": "Priority: Top theme is checked first. If no icon is found, the next theme is used.",
+  "settings.tip": "Tip: Use ▲▼ to reorder themes.",
+  "settings.icons": "icons"
+}

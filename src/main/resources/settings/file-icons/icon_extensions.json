@@ -1,0 +1,5969 @@
+{
+  "_manpage_dark-green": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "1b",
+    "1c",
+    "1has",
+    "1in",
+    "1m",
+    "1s",
+    "1t",
+    "1x",
+    "3avl",
+    "3bsm",
+    "3c",
+    "3cfgadm",
+    "3in",
+    "3m",
+    "3p",
+    "3perl",
+    "3pm",
+    "3qt",
+    "3x",
+    "7d",
+    "7fs",
+    "7i",
+    "7ipp",
+    "7m",
+    "7p",
+    "9e",
+    "9f",
+    "9p",
+    "9s",
+    "chem",
+    "cstr",
+    "dformat",
+    "eqn",
+    "eqnrc",
+    "eqnrc-end",
+    "groff",
+    "man",
+    "mandoc",
+    "mdoc",
+    "me",
+    "mom",
+    "n",
+    "nr",
+    "nroff",
+    "pic",
+    "pikchr",
+    "rof",
+    "roff",
+    "tmac",
+    "tmac-u",
+    "tr",
+    "troff",
+    "troffrc",
+    "troffrc-end"
+  ],
+  "_asm-intel_dark-blue": [
+    "80386",
+    "i386",
+    "ia32",
+    "ia-32",
+    "ia_32",
+    "ia32asm",
+    "ia-32asm",
+    "ia_32asm",
+    "ia64",
+    "ia-64",
+    "ia_64",
+    "ia64asm",
+    "ia-64asm",
+    "ia_64asm",
+    "ia86",
+    "ia-86",
+    "ia_86",
+    "ia86asm",
+    "ia-86asm",
+    "ia_86asm",
+    "x32",
+    "x32asm",
+    "x64",
+    "x64asm",
+    "x86",
+    "x86asm"
+  ],
+  "_a-plus_medium-blue": [
+    "+",
+    "a+"
+  ],
+  "_book_medium-blue": [
+    "1st",
+    "changes",
+    "enf",
+    "enl",
+    "enlp",
+    "enlx",
+    "enq",
+    "ens",
+    "entl",
+    "enw",
+    "enz",
+    "es1",
+    "faq",
+    "journal",
+    "licence",
+    "licences",
+    "license",
+    "licenses",
+    "nbib",
+    "readme",
+    "ris",
+    "ris-rm8"
+  ],
+  "_database_medium-cyan": [
+    "2da",
+    "cbor",
+    "ttl"
+  ],
+  "_rhino_medium-blue": [
+    "3dm"
+  ],
+  "_maxscript_medium-cyan": [
+    "3ds"
+  ],
+  "_video_medium-blue": [
+    "3gp",
+    "3gpp",
+    "avi"
+  ],
+  "_4d_dark-blue": [
+    "4dm"
+  ],
+  "_sql_medium-blue": [
+    "4gl",
+    "ddl",
+    "jq",
+    "pks"
+  ],
+  "_code_medium-blue": [
+    "4th",
+    "asl",
+    "cocci",
+    "config",
+    "dsl",
+    "dyl",
+    "dylan",
+    "fcgi",
+    "forth",
+    "launch",
+    "manifest",
+    "menu",
+    "sk1",
+    "sk2",
+    "srdf",
+    "st",
+    "stellaris",
+    "ui",
+    "wlp4",
+    "wlpppp",
+    "wsf",
+    "x3d",
+    "xml"
+  ],
+  "_nickle_medium-grey": [
+    "5c"
+  ],
+  "_perl6_light-blue": [
+    "6pl",
+    "p6",
+    "t6"
+  ],
+  "_perl6_dark-cyan": [
+    "6pm"
+  ],
+  "_zip_medium-maroon": [
+    "7z",
+    "lz",
+    "lzma",
+    "lzo",
+    "tar.lzma",
+    "tlz"
+  ],
+  "_calc_medium-maroon": [
+    "8xk",
+    "8xk.txt",
+    "8xp",
+    "8xp.txt"
+  ],
+  "_asm_medium-green": [
+    "a",
+    "asm"
+  ],
+  "_asm_medium-orange": [
+    "a51"
+  ],
+  "_audio_dark-cyan": [
+    "aac",
+    "ac3",
+    "m4p"
+  ],
+  "_abif_medium-green": [
+    "ab1"
+  ],
+  "_abap_medium-orange": [
+    "abap"
+  ],
+  "_emacs_medium-purple": [
+    "abbrev-defs",
+    "abbrev_defs",
+    "el",
+    "emacs",
+    "_emacs",
+    "emacs.desktop"
+  ],
+  "_clean_medium-blue": [
+    "abc"
+  ],
+  "_abif_medium-blue": [
+    "abif"
+  ],
+  "_progress_medium-green": [
+    "abl",
+    "p"
+  ],
+  "_bnf_medium-green": [
+    "abnf"
+  ],
+  "_text_dark-purple": [
+    "abt",
+    "sub"
+  ],
+  "_access_dark-maroon": [
+    "accda"
+  ],
+  "_access_medium-maroon": [
+    "accdb"
+  ],
+  "_access_medium-green": [
+    "accde"
+  ],
+  "_access_medium-red": [
+    "accdr"
+  ],
+  "_access_dark-red": [
+    "accdt"
+  ],
+  "_angelscript_medium-blue": [
+    "acs",
+    "angelscript"
+  ],
+  "_asciidoctor_medium-blue": [
+    "ad",
+    "adoc",
+    "asc",
+    "asciidoc"
+  ],
+  "_ada_medium-blue": [
+    "ada",
+    "adb",
+    "ads"
+  ],
+  "_code_dark-blue": [
+    "adml",
+    "admx",
+    "axml",
+    "bmx",
+    "brs",
+    "ccxml",
+    "clixml",
+    "fth",
+    "hzp",
+    "intr",
+    "mdpolicy",
+    "mq4",
+    "mq5",
+    "mqh",
+    "mtml",
+    "myt",
+    "xsd"
+  ],
+  "_access_light-maroon": [
+    "adn",
+    "laccdb"
+  ],
+  "_stata_dark-blue": [
+    "ado"
+  ],
+  "_tcl_medium-orange": [
+    "adp"
+  ],
+  "_ae_dark-pink": [
+    "aep"
+  ],
+  "_code_medium-purple": [
+    "aepx",
+    "dita",
+    "grace",
+    "lid",
+    "pseudoxml",
+    "qhelp",
+    "tagx"
+  ],
+  "_sophia_dark-pink": [
+    "aes"
+  ],
+  "_ae_dark-purple": [
+    "aet"
+  ],
+  "_affinity_medium-blue": [
+    "afdesign"
+  ],
+  "_database_medium-red": [
+    "aff",
+    "fonts.alias",
+    "fonts.dir",
+    "fonts.scale",
+    "http",
+    "irb-history",
+    "lesshst",
+    "po",
+    "pot"
+  ],
+  "_affectscript_medium-pink": [
+    "affect"
+  ],
+  "_postscript_medium-green": [
+    "afm",
+    "amm"
+  ],
+  "_affinity_medium-pink": [
+    "afphoto"
+  ],
+  "_affinity_medium-red": [
+    "afpub"
+  ],
+  "_asm-agc_dark-blue": [
+    "agc"
+  ],
+  "_agda_dark-cyan": [
+    "agda"
+  ],
+  "_ahk_dark-blue": [
+    "ahk"
+  ],
+  "_ahk_dark-purple": [
+    "ahkl"
+  ],
+  "_totvs_medium-green": [
+    "ahu"
+  ],
+  "_ai_medium-orange": [
+    "ai"
+  ],
+  "_ai_medium-yellow": [
+    "aia"
+  ],
+  "_audio_medium-purple": [
+    "aif",
+    "aifc",
+    "aiff",
+    "mka"
+  ],
+  "_ai_dark-orange": [
+    "ait"
+  ],
+  "_eclipse_medium-maroon": [
+    "aj"
+  ],
+  "_perl_dark-blue": [
+    "al",
+    "pm"
+  ],
+  "_alex_medium-red": [
+    "alexignore"
+  ],
+  "_alex_medium-pink": [
+    "alexrc"
+  ],
+  "_link_medium-blue": [
+    "alias",
+    "lnk"
+  ],
+  "_alloy_medium-red": [
+    "als"
+  ],
+  "_checklist_medium-red": [
+    "am"
+  ],
+  "_ampl_dark-maroon": [
+    "ampl"
+  ],
+  "_analytica_medium-orange": [
+    "ana"
+  ],
+  "_unity3d_dark-blue": [
+    "anim"
+  ],
+  "_animestudio_medium-orange": [
+    "anime",
+    "animeproj"
+  ],
+  "_animestudio_medium-blue": [
+    "animeaction"
+  ],
+  "_animestudio_medium-maroon": [
+    "animebrush",
+    "anme"
+  ],
+  "_animestudio_medium-yellow": [
+    "animeexport"
+  ],
+  "_animestudio_medium-purple": [
+    "animestyle"
+  ],
+  "_text_dark-orange": [
+    "ans"
+  ],
+  "_ansible_dark-cyan": [
+    "ansible",
+    "ansible.yaml",
+    "ansible.yml"
+  ],
+  "_sun_medium-yellow": [
+    "ansiweatherrc"
+  ],
+  "_ant_dark-pink": [
+    "ant"
+  ],
+  "_anyscript_dark-red": [
+    "any"
+  ],
+  "_apache_dark-red": [
+    "apacheconf"
+  ],
+  "_totvs_dark-green": [
+    "aph"
+  ],
+  "_api_medium-blue": [
+    "apib"
+  ],
+  "_zip_medium-red": [
+    "apk",
+    "gem"
+  ],
+  "_alpine_dark-blue": [
+    "apkbuild"
+  ],
+  "_apl_dark-cyan": [
+    "apl",
+    "apla",
+    "aplc",
+    "aplf",
+    "apli",
+    "apln",
+    "aplo"
+  ],
+  "_apl_medium-maroon": [
+    "apl.history"
+  ],
+  "_image_medium-red": [
+    "apm",
+    "bmp",
+    "bpg",
+    "emf",
+    "pxb",
+    "tif",
+    "tiff",
+    "wmf",
+    "wmz"
+  ],
+  "_image_medium-orange": [
+    "apng",
+    "avif",
+    "cgm",
+    "cin",
+    "cr2",
+    "gremlin",
+    "grn",
+    "gsrc",
+    "heif",
+    "heifs",
+    "hif",
+    "mng",
+    "png",
+    "pxm",
+    "svgz"
+  ],
+  "_apple_medium-purple": [
+    "applescript",
+    "scpt"
+  ],
+  "_erlang_dark-maroon": [
+    "app.src"
+  ],
+  "_code_medium-orange": [
+    "appxmanifest",
+    "befunge",
+    "fun",
+    "muf",
+    "ssmssln",
+    "xul"
+  ],
+  "_arc_medium-blue": [
+    "arc"
+  ],
+  "_gear_dark-blue": [
+    "arcconfig"
+  ],
+  "_asm-arm_medium-blue": [
+    "arm"
+  ],
+  "_earth_medium-green": [
+    "arpa",
+    "kml",
+    "ncl"
+  ],
+  "_pyret_dark-red": [
+    "arr"
+  ],
+  "_as_medium-red": [
+    "as"
+  ],
+  "_asp_medium-maroon": [
+    "asax"
+  ],
+  "_asp_dark-green": [
+    "ascx"
+  ],
+  "_video_dark-purple": [
+    "asf",
+    "wmv"
+  ],
+  "_code_medium-cyan": [
+    "ash",
+    "asn",
+    "asn1",
+    "dtd",
+    "props",
+    "resx",
+    "smt2",
+    "xsl"
+  ],
+  "_asp_medium-green": [
+    "ashx"
+  ],
+  "_asp_dark-cyan": [
+    "asmx"
+  ],
+  "_asp_dark-blue": [
+    "asp"
+  ],
+  "_asp_medium-purple": [
+    "aspx"
+  ],
+  "_unity3d_dark-green": [
+    "asset",
+    "unitypackage"
+  ],
+  "_video_medium-maroon": [
+    "asx"
+  ],
+  "_asymptote_medium-red": [
+    "asy"
+  ],
+  "_psd_dark-blue": [
+    "atn"
+  ],
+  "_atom_medium-green": [
+    "atomignore"
+  ],
+  "_atom_dark-green": [
+    "atomproject.cson",
+    "atomproject.json"
+  ],
+  "_audio_medium-cyan": [
+    "au",
+    "m4a"
+  ],
+  "_autoit_medium-purple": [
+    "au3"
+  ],
+  "_augeas_dark-orange": [
+    "aug"
+  ],
+  "_awk_medium-cyan": [
+    "auk"
+  ],
+  "_audacity_medium-yellow": [
+    "aup"
+  ],
+  "_config-ruby_medium-red": [
+    "autotest",
+    "cross_rubies",
+    "gemtest",
+    "hoerc",
+    "kick",
+    "simplecov",
+    "yardopts"
+  ],
+  "_tex_medium-green": [
+    "aux",
+    "ins"
+  ],
+  "_avro_medium-blue": [
+    "avcs",
+    "avdl",
+    "avsc"
+  ],
+  "_asm-avr_dark-purple": [
+    "avr"
+  ],
+  "_awk_medium-blue": [
+    "awk"
+  ],
+  "_asp_medium-cyan": [
+    "axd"
+  ],
+  "_binary_dark-blue": [
+    "axf",
+    "d-objdump"
+  ],
+  "_amx_dark-blue": [
+    "axi"
+  ],
+  "_amx_medium-blue": [
+    "axs"
+  ],
+  "_brain_dark-pink": [
+    "b",
+    "bf"
+  ],
+  "_babel_medium-yellow": [
+    "babel",
+    "babelrc",
+    "babelrc.cjs",
+    "babelrc.js",
+    "babelrc.mjs",
+    "languagebabel"
+  ],
+  "_babel_dark-yellow": [
+    "babelignore"
+  ],
+  "_backup": [
+    "bak",
+    "old",
+    "orig"
+  ],
+  "_ballerina_medium-cyan": [
+    "bal"
+  ],
+  "_ballerina_dark-green": [
+    "balx"
+  ],
+  "_winui_medium-red": [
+    "baml"
+  ],
+  "_vs_medium-blue": [
+    "bas",
+    "frm",
+    "frx",
+    "vb",
+    "vba",
+    "vscodeignore",
+    "vscodeignore.json"
+  ],
+  "_terminal_medium-purple": [
+    "bash",
+    "command",
+    "install",
+    "rc",
+    "sh",
+    "tool"
+  ],
+  "_windows_medium-purple": [
+    "bat",
+    "cmd"
+  ],
+  "_test-generic_medium-grey": [
+    "bats"
+  ],
+  "_bazel_dark-blue": [
+    "bazel",
+    "bzl",
+    "star"
+  ],
+  "_blitzbasic_medium-cyan": [
+    "bb"
+  ],
+  "_bibtex_medium-blue": [
+    "bbl"
+  ],
+  "_bibtex_medium-orange": [
+    "bbx"
+  ],
+  "_code_dark-red": [
+    "bc",
+    "capnp",
+    "dotsettings",
+    "fsproj",
+    "rdf",
+    "xproj"
+  ],
+  "_outlook_dark-blue": [
+    "bcmx"
+  ],
+  "_font-bitmap_medium-red": [
+    "bdf",
+    "flf"
+  ],
+  "_erlang_dark-red": [
+    "beam"
+  ],
+  "_bem_medium-maroon": [
+    "bemjson",
+    "bemjson.cjs",
+    "bemjson.js",
+    "bemjson.mjs"
+  ],
+  "_postscript_medium-red": [
+    "bez",
+    "ps"
+  ],
+  "_bibtex_medium-yellow": [
+    "bib",
+    "bibtex"
+  ],
+  "_biml_medium-red": [
+    "biml"
+  ],
+  "_binary_dark-orange": [
+    "bin",
+    "bsdiff",
+    "cobjdump",
+    "c-objdump",
+    "c++objdump",
+    "c++-objdump",
+    "c+pobjdump",
+    "c+p-objdump",
+    "cp+objdump",
+    "cp+-objdump",
+    "cppobjdump",
+    "cpp-objdump",
+    "cpxobjdump",
+    "cpx-objdump",
+    "c+xobjdump",
+    "c+x-objdump",
+    "cx+objdump",
+    "cx+-objdump",
+    "cxpobjdump",
+    "cxp-objdump",
+    "cxxobjdump",
+    "cxx-objdump",
+    "dat",
+    "objdump",
+    "pak",
+    "pdb"
+  ],
+  "_safari_dark-blue": [
+    "binarycookies"
+  ],
+  "_bison_medium-red": [
+    "bison"
+  ],
+  "_bithound_medium-red": [
+    "bithoundrc"
+  ],
+  "_laravel_medium-orange": [
+    "blade",
+    "blade.php"
+  ],
+  "_blender_medium-orange": [
+    "blend"
+  ],
+  "_blender_dark-orange": [
+    "blend0",
+    "blend1",
+    "blend2",
+    "blend3",
+    "blend4",
+    "blend5",
+    "blend6",
+    "blend7",
+    "blend8",
+    "blend9"
+  ],
+  "_bnf_medium-maroon": [
+    "bnf"
+  ],
+  "_firebase-bolt_medium-yellow": [
+    "bolt"
+  ],
+  "_boo_medium-green": [
+    "boo"
+  ],
+  "_boot": [
+    "boot"
+  ],
+  "_bootstrap_medium-orange": [
+    "bootstraprc"
+  ],
+  "_blender_dark-blue": [
+    "bphys"
+  ],
+  "_brotli_medium-orange": [
+    "br"
+  ],
+  "_brakeman_medium-red": [
+    "brakeman.yml"
+  ],
+  "_circuit-board_dark-green": [
+    "brd",
+    "cir",
+    "ckt",
+    "struct",
+    "tech"
+  ],
+  "_text_medium-maroon": [
+    "brf",
+    "log",
+    "rpt"
+  ],
+  "_bro_dark-cyan": [
+    "bro"
+  ],
+  "_bikeshed_medium-red": [
+    "bs"
+  ],
+  "_1c_medium-red": [
+    "bsl"
+  ],
+  "_source_medium-orange": [
+    "bsp"
+  ],
+  "_bosque_medium-green": [
+    "bsq"
+  ],
+  "_bibtex_medium-green": [
+    "bst"
+  ],
+  "_bluespec_dark-blue": [
+    "bsv"
+  ],
+  "_buck_medium-blue": [
+    "buckconfig"
+  ],
+  "_nant_medium-orange": [
+    "build"
+  ],
+  "_ruby_dark-red": [
+    "builder",
+    "jbuilder",
+    "rbuild",
+    "rbw",
+    "rbx"
+  ],
+  "_heroku_light-purple": [
+    "buildpacks"
+  ],
+  "_vs_medium-maroon": [
+    "builds",
+    "wmaproj"
+  ],
+  "_dylib_medium-cyan": [
+    "bundle",
+    "dylib"
+  ],
+  "_zip_dark-cyan": [
+    "bz2"
+  ],
+  "_bazaar_medium-yellow": [
+    "bzrignore"
+  ],
+  "_c_medium-blue": [
+    "c"
+  ],
+  "_cpp_medium-blue": [
+    "c++",
+    "cc",
+    "c+p",
+    "cp+",
+    "cpp",
+    "cpx",
+    "c+x",
+    "cx+",
+    "cxp",
+    "cxx",
+    "ixx"
+  ],
+  "_haskell_dark-purple": [
+    "c2hs"
+  ],
+  "_model_dark-blue": [
+    "c4d",
+    "fnc",
+    "mtl",
+    "rviz",
+    "vcg"
+  ],
+  "_cabal_medium-cyan": [
+    "cabal"
+  ],
+  "_caffe2_dark-blue": [
+    "caffe2model"
+  ],
+  "_caffe_medium-maroon": [
+    "caffemodel"
+  ],
+  "_cake_medium-yellow": [
+    "cake"
+  ],
+  "_calva_medium-maroon": [
+    "calva-repl"
+  ],
+  "_package_dark-orange": [
+    "cargo.lock"
+  ],
+  "_package_light-orange": [
+    "cargo.toml"
+  ],
+  "_casc_medium-orange": [
+    "cas",
+    "casc"
+  ],
+  "_c_medium-purple": [
+    "cats",
+    "h"
+  ],
+  "_cobol_medium-blue": [
+    "cbl",
+    "ccp",
+    "cob",
+    "cobol",
+    "cpy"
+  ],
+  "_bibtex_medium-red": [
+    "cbx"
+  ],
+  "_adobe-cc_medium-red": [
+    "cclibs"
+  ],
+  "_corel_medium-blue": [
+    "ccx",
+    "cmx"
+  ],
+  "_image_dark-green": [
+    "cd5",
+    "dds",
+    "j2c",
+    "jp2",
+    "jpf",
+    "jpm",
+    "jpx",
+    "mj2"
+  ],
+  "_bnf_medium-grey": [
+    "cddl"
+  ],
+  "_cdf_medium-red": [
+    "cdf"
+  ],
+  "_coreldraw_medium-green": [
+    "cdr",
+    "cdrx",
+    "cdt"
+  ],
+  "_ceylon_medium-orange": [
+    "ceylon"
+  ],
+  "_bnf_dark-yellow": [
+    "cf",
+    "lbnf"
+  ],
+  "_cf_light-cyan": [
+    "cfc"
+  ],
+  "_config_medium-yellow": [
+    "cfg",
+    "cnf",
+    "conf",
+    "desktop",
+    "directory",
+    "inf",
+    "ini",
+    "prefs"
+  ],
+  "_cloudfoundry_medium-blue": [
+    "cfignore"
+  ],
+  "_cuneiform_dark-blue": [
+    "cfl"
+  ],
+  "_cf_medium-cyan": [
+    "cfm",
+    "cfml"
+  ],
+  "_code_medium-red": [
+    "cgi",
+    "ch",
+    "cscfg",
+    "cw",
+    "fo",
+    "iml",
+    "jflex",
+    "jlex",
+    "m4",
+    "mask",
+    "mumps",
+    "prg",
+    "pt",
+    "rl",
+    "sml",
+    "targets",
+    "tera",
+    "webidl",
+    "wsdl",
+    "xacro",
+    "xliff",
+    "xmp"
+  ],
+  "_model_dark-cyan": [
+    "cginc",
+    "fxh"
+  ],
+  "_bnf_medium-red": [
+    "cgt",
+    "ebnf",
+    "egt"
+  ],
+  "_tag_medium-green": [
+    "checksum",
+    "checksums",
+    "cksum",
+    "cksums",
+    "crc32sum",
+    "crc32sums",
+    "crcsum",
+    "crcsums",
+    "md5sum",
+    "md5sums",
+    "rmd160sum",
+    "rmd160sums",
+    "sfv",
+    "sha",
+    "sha1sum",
+    "sha1sums",
+    "sha224sum",
+    "sha224sums",
+    "sha256",
+    "sha256sum",
+    "sha256sums",
+    "sha2sum",
+    "sha2sums",
+    "sha384sum",
+    "sha384sums",
+    "sha3sum",
+    "sha3sums",
+    "sha512sum",
+    "sha512sums",
+    "shasum",
+    "shasums",
+    "sum",
+    "sums"
+  ],
+  "_question_medium-blue": [
+    "chm"
+  ],
+  "_music_medium-orange": [
+    "chord"
+  ],
+  "_chapel_medium-green": [
+    "chpl"
+  ],
+  "_sourcemap_medium-orange": [
+    "cidmap"
+  ],
+  "_cirru_medium-pink": [
+    "cirru"
+  ],
+  "_js_medium-green": [
+    "cjs",
+    "jss"
+  ],
+  "_sourcemap_medium-green": [
+    "cjs.map",
+    "tinyv2"
+  ],
+  "_jest_medium-green": [
+    "cjs.snap"
+  ],
+  "_coffee_dark-maroon": [
+    "cjsx"
+  ],
+  "_chuck_medium-green": [
+    "ck"
+  ],
+  "_cl_medium-orange": [
+    "cl"
+  ],
+  "_clojure_medium-purple": [
+    "cl2"
+  ],
+  "_llvm_medium-yellow": [
+    "clang-format",
+    "clang-tidy"
+  ],
+  "_java_medium-maroon": [
+    "class"
+  ],
+  "_eclipse_medium-red": [
+    "classpath"
+  ],
+  "_openvms_medium-orange": [
+    "cld",
+    "com"
+  ],
+  "_click_medium-yellow": [
+    "click"
+  ],
+  "_clojure_medium-blue": [
+    "clj"
+  ],
+  "_clojure_medium-green": [
+    "cljc",
+    "inc"
+  ],
+  "_cljs_medium-blue": [
+    "cljs",
+    "cljscm"
+  ],
+  "_clojure_medium-red": [
+    "cljx",
+    "hic",
+    "rg"
+  ],
+  "_dashboard_medium-blue": [
+    "cloc"
+  ],
+  "_clips_dark-green": [
+    "clp"
+  ],
+  "_tex_medium-orange": [
+    "cls",
+    "mkii",
+    "mkiv",
+    "mkvi"
+  ],
+  "_clarion_medium-orange": [
+    "clw"
+  ],
+  "_cmake_medium-green": [
+    "cmake"
+  ],
+  "_binary_medium-orange": [
+    "cnc",
+    "dnc",
+    "gc",
+    "gco",
+    "gcode",
+    "hnc",
+    "knc"
+  ],
+  "_codacy_dark-blue": [
+    "codacy.yaml",
+    "codacy.yml"
+  ],
+  "_cc_medium-green": [
+    "codeclimate.yml"
+  ],
+  "_codekit": [
+    "codekit"
+  ],
+  "_vs_dark-blue": [
+    "code-workspace",
+    "csproj"
+  ],
+  "_gear_medium-maroon": [
+    "codoopts"
+  ],
+  "_coffee_medium-maroon": [
+    "coffee"
+  ],
+  "_coffee_medium-cyan": [
+    "coffee.ecr"
+  ],
+  "_coffee_medium-red": [
+    "coffee.erb"
+  ],
+  "_config-coffee_medium-red": [
+    "coffeelintignore"
+  ],
+  "_coffee_medium-blue": [
+    "coffee.md",
+    "iced"
+  ],
+  "_khronos_medium-orange": [
+    "collada",
+    "dae"
+  ],
+  "_model_medium-purple": [
+    "comp"
+  ],
+  "_electron_dark-blue": [
+    "compilerc",
+    "compilerc.json"
+  ],
+  "_conll_medium-blue": [
+    "conll"
+  ],
+  "_conll_medium-orange": [
+    "conllu"
+  ],
+  "_debian_dark-cyan": [
+    "control",
+    "dsc"
+  ],
+  "_coq_medium-maroon": [
+    "coq"
+  ],
+  "_cp_medium-maroon": [
+    "cp"
+  ],
+  "_cpcdosc_medium-blue": [
+    "cpc"
+  ],
+  "_eclipse_dark-blue": [
+    "cproject",
+    "project"
+  ],
+  "_cp_dark-red": [
+    "cps"
+  ],
+  "_dashboard_medium-green": [
+    "cpuprofile"
+  ],
+  "_sql_dark-blue": [
+    "cql",
+    "prc"
+  ],
+  "_crystal_medium-cyan": [
+    "cr",
+    "ecr"
+  ],
+  "_download_dark-blue": [
+    "crdownload"
+  ],
+  "_lync_dark-blue": [
+    "crec",
+    "ocrec"
+  ],
+  "_creole_medium-blue": [
+    "creole"
+  ],
+  "_key_medium-blue": [
+    "crt",
+    "key"
+  ],
+  "_chrome_medium-red": [
+    "crx"
+  ],
+  "_csharp_medium-blue": [
+    "cs"
+  ],
+  "_csound_dark-maroon": [
+    "csd"
+  ],
+  "_terminal_medium-yellow": [
+    "csh",
+    "sh-session"
+  ],
+  "_html5_medium-red": [
+    "cshtml",
+    "htm.erb",
+    "htm.erb.deface",
+    "html.erb",
+    "html.erb.deface",
+    "latte",
+    "rhtml",
+    "vash"
+  ],
+  "_kusto_medium-blue": [
+    "csl",
+    "kusto"
+  ],
+  "_database_medium-maroon": [
+    "cson",
+    "ston"
+  ],
+  "_css3_medium-blue": [
+    "css"
+  ],
+  "_gear_medium-yellow": [
+    "csslintrc"
+  ],
+  "_sourcemap_medium-blue": [
+    "css.map",
+    "mjs.map"
+  ],
+  "_graph_light-red": [
+    "csv"
+  ],
+  "_csscript_dark-green": [
+    "csx"
+  ],
+  "_code_dark-pink": [
+    "ct",
+    "zcml"
+  ],
+  "_tag_medium-blue": [
+    "ctags",
+    "tags"
+  ],
+  "_cakephp_medium-red": [
+    "ctp"
+  ],
+  "_ts_medium-blue": [
+    "cts",
+    "mts",
+    "ts"
+  ],
+  "_nvidia_medium-green": [
+    "cu"
+  ],
+  "_unity3d_medium-cyan": [
+    "cubemap"
+  ],
+  "_nvidia_dark-green": [
+    "cuh"
+  ],
+  "_curl_dark-blue": [
+    "curlrc"
+  ],
+  "_curry_medium-red": [
+    "curry"
+  ],
+  "_cvs_medium-orange": [
+    "cvsignore"
+  ],
+  "_cwl_dark-red": [
+    "cwl"
+  ],
+  "_code_dark-green": [
+    "cy",
+    "eclxml",
+    "ivy",
+    "natvis",
+    "proj",
+    "sed",
+    "tml"
+  ],
+  "_neo4j_medium-blue": [
+    "cyp",
+    "cypher"
+  ],
+  "_dlang_medium-red": [
+    "d",
+    "di"
+  ],
+  "_dafny_medium-yellow": [
+    "dafny",
+    "dfy"
+  ],
+  "_darcs_medium-green": [
+    "darcspatch",
+    "dpatch"
+  ],
+  "_dart_medium-cyan": [
+    "dart"
+  ],
+  "_ats_medium-red": [
+    "dats"
+  ],
+  "_sqlite_medium-purple": [
+    "db"
+  ],
+  "_sql_medium-purple": [
+    "db2",
+    "plb"
+  ],
+  "_sqlite_dark-purple": [
+    "db3"
+  ],
+  "_dbase_medium-red": [
+    "dbf"
+  ],
+  "_database_medium-orange": [
+    "dbi",
+    "encodings.dir",
+    "hson",
+    "ndjson",
+    "pytb"
+  ],
+  "_docbook_medium-cyan": [
+    "dbk",
+    "docbook"
+  ],
+  "_vs_dark-purple": [
+    "dbproj",
+    "vcproj",
+    "vcxproj"
+  ],
+  "_calc_medium-blue": [
+    "dc"
+  ],
+  "_clean_medium-cyan": [
+    "dcl"
+  ],
+  "_image_medium-pink": [
+    "dcm",
+    "icns",
+    "mpo",
+    "pbm",
+    "pxls"
+  ],
+  "_debian_medium-red": [
+    "deb"
+  ],
+  "_blitzbasic_medium-green": [
+    "decls"
+  ],
+  "_modula2_medium-green": [
+    "def"
+  ],
+  "_key_medium-purple": [
+    "der"
+  ],
+  "_delphi_medium-red": [
+    "dfm"
+  ],
+  "_font_dark-cyan": [
+    "dfont"
+  ],
+  "_dhall_dark-grey": [
+    "dhall"
+  ],
+  "_dia_medium-cyan": [
+    "dia"
+  ],
+  "_database_medium-green": [
+    "dic",
+    "dict",
+    "snip",
+    "snippet",
+    "snippets",
+    "yas",
+    "yasnippet"
+  ],
+  "_graph_medium-green": [
+    "dif",
+    "hledger"
+  ],
+  "_diff_medium-orange": [
+    "diff"
+  ],
+  "_diff_medium-red": [
+    "diffs"
+  ],
+  "_digdag_medium-orange": [
+    "dig"
+  ],
+  "_drawio_medium-orange": [
+    "dio",
+    "dio.png",
+    "dio.svg",
+    "drawio",
+    "drawio.png",
+    "drawio.svg"
+  ],
+  "_binary_dark-green": [
+    "dit",
+    "ditroff",
+    "ko",
+    "swp"
+  ],
+  "_code_dark-purple": [
+    "ditamap",
+    "frt",
+    "jspx",
+    "lp",
+    "omgrofl",
+    "osm",
+    "rdg",
+    "xib"
+  ],
+  "_code_medium-green": [
+    "ditaval",
+    "spthy",
+    "storyboard",
+    "xmi"
+  ],
+  "_doge_medium-yellow": [
+    "djs"
+  ],
+  "_image_medium-purple": [
+    "djv",
+    "djvu",
+    "pxr"
+  ],
+  "_gears_dark-orange": [
+    "dll"
+  ],
+  "_idl_medium-blue": [
+    "dlm"
+  ],
+  "_byond_medium-blue": [
+    "dm"
+  ],
+  "_star_dark-red": [
+    "dmark"
+  ],
+  "_osx_medium-red": [
+    "dmg"
+  ],
+  "_yang_medium-red": [
+    "dnh"
+  ],
+  "_stata_medium-blue": [
+    "do"
+  ],
+  "_word_medium-blue": [
+    "doc"
+  ],
+  "_docker_dark-blue": [
+    "dockerfile",
+    "dockerignore"
+  ],
+  "_doclets_light-green": [
+    "doclets.yaml",
+    "doclets.yml"
+  ],
+  "_word_medium-maroon": [
+    "docm"
+  ],
+  "_word_dark-blue": [
+    "docx",
+    "wll"
+  ],
+  "_word_dark-cyan": [
+    "docxml"
+  ],
+  "_docz_medium-yellow": [
+    "docz.cjs",
+    "docz.config.cjs",
+    "docz.config.js",
+    "docz.config.mjs",
+    "docz.js",
+    "docz.mjs",
+    "doczrc.cjs",
+    "doczrc.config.cjs",
+    "doczrc.config.js",
+    "doczrc.config.mjs",
+    "doczrc.js",
+    "doczrc.mjs"
+  ],
+  "_docz_medium-orange": [
+    "docz.config.json",
+    "docz.json",
+    "doczrc.config.json",
+    "doczrc.json"
+  ],
+  "_delphi_medium-blue": [
+    "dof"
+  ],
+  "_stata_light-blue": [
+    "doh"
+  ],
+  "_dotjs_medium-blue": [
+    "dot"
+  ],
+  "_word_dark-maroon": [
+    "dotm"
+  ],
+  "_word_medium-cyan": [
+    "dotx"
+  ],
+  "_delphi_medium-orange": [
+    "dpr"
+  ],
+  "_image_dark-orange": [
+    "dpx",
+    "fig",
+    "raw",
+    "tga"
+  ],
+  "_text_medium-blue": [
+    "dri",
+    "irclog",
+    "text",
+    "txt",
+    "uot"
+  ],
+  "_circuit-board_dark-blue": [
+    "drl",
+    "g0",
+    "g1",
+    "g2",
+    "g3",
+    "g4",
+    "g5",
+    "g6",
+    "g7",
+    "g8",
+    "g9",
+    "gbo",
+    "net"
+  ],
+  "_drone_medium-cyan": [
+    "drone.yaml",
+    "drone.yml"
+  ],
+  "_mirah_medium-blue": [
+    "druby",
+    "duby"
+  ],
+  "_zip_medium-green": [
+    "dsk",
+    "epub"
+  ],
+  "_circuit-board_dark-cyan": [
+    "dsn",
+    "pho"
+  ],
+  "_faust_dark-orange": [
+    "dsp"
+  ],
+  "_msql_medium-purple": [
+    "dsql"
+  ],
+  "_finder_dark-cyan": [
+    "ds_store"
+  ],
+  "_html5_medium-blue": [
+    "dtml",
+    "isml",
+    "mht",
+    "mhtml"
+  ],
+  "_devicetree_medium-purple": [
+    "dts"
+  ],
+  "_devicetree_medium-orange": [
+    "dtsi"
+  ],
+  "_tex_medium-maroon": [
+    "dtx"
+  ],
+  "_js_medium-maroon": [
+    "dust",
+    "jsb",
+    "jse"
+  ],
+  "_model_dark-orange": [
+    "dwg"
+  ],
+  "_dataweave_medium-blue": [
+    "dwl"
+  ],
+  "_model_medium-orange": [
+    "dxf",
+    "p21",
+    "step",
+    "stp",
+    "u3d"
+  ],
+  "_dyalog_medium-orange": [
+    "dyalog"
+  ],
+  "_dyalog_medium-red": [
+    "dyapp"
+  ],
+  "_minizinc_dark-blue": [
+    "dzn"
+  ],
+  "_eiffel_medium-cyan": [
+    "e"
+  ],
+  "_database_dark-purple": [
+    "eam.fs"
+  ],
+  "_zip_medium-purple": [
+    "ear",
+    "war"
+  ],
+  "_easybuild_dark-blue": [
+    "eb"
+  ],
+  "_gentoo_dark-cyan": [
+    "ebuild"
+  ],
+  "_ec_dark-blue": [
+    "ec"
+  ],
+  "_eclipse-lang_medium-blue": [
+    "ecl",
+    "ecl.txt"
+  ],
+  "_gentoo_medium-blue": [
+    "eclass"
+  ],
+  "_docpad_medium-maroon": [
+    "eco"
+  ],
+  "_editorconfig_dark-blue": [
+    "ecrc"
+  ],
+  "_image_light-blue": [
+    "ecw",
+    "sct"
+  ],
+  "_code_dark-maroon": [
+    "ed",
+    "mxml"
+  ],
+  "_edge_dark-orange": [
+    "edge"
+  ],
+  "_editorconfig_medium-orange": [
+    "editorconfig"
+  ],
+  "_database_medium-purple": [
+    "edn",
+    "json.eex"
+  ],
+  "_elixir_medium-purple": [
+    "eex",
+    "exs",
+    "heex",
+    "leex"
+  ],
+  "_zip_light-orange": [
+    "egg"
+  ],
+  "_ec_dark-purple": [
+    "eh"
+  ],
+  "_ejs_medium-green": [
+    "ejs"
+  ],
+  "_database_dark-red": [
+    "ejson"
+  ],
+  "_hygen_medium-pink": [
+    "ejs.t"
+  ],
+  "_emacs_dark-purple": [
+    "elc",
+    "eld"
+  ],
+  "_binary_medium-green": [
+    "elf"
+  ],
+  "_ocaml_medium-red": [
+    "eliom"
+  ],
+  "_ocaml_dark-red": [
+    "eliomi"
+  ],
+  "_elm_medium-blue": [
+    "elm"
+  ],
+  "_mustache_medium-blue": [
+    "em",
+    "emblem"
+  ],
+  "_em_medium-red": [
+    "emberscript"
+  ],
+  "_mail_medium-blue": [
+    "eml"
+  ],
+  "_php_medium-blue": [
+    "engine"
+  ],
+  "_sourcemap_medium-purple": [
+    "enigma"
+  ],
+  "_ensime_medium-red": [
+    "ensime"
+  ],
+  "_font_light-green": [
+    "eot"
+  ],
+  "_ecere_medium-blue": [
+    "epj"
+  ],
+  "_puppet_medium-orange": [
+    "epp"
+  ],
+  "_postscript_medium-orange": [
+    "eps"
+  ],
+  "_postscript_dark-orange": [
+    "epsf",
+    "epsi",
+    "gsf"
+  ],
+  "_eq_medium-orange": [
+    "eq"
+  ],
+  "_ruby_medium-red": [
+    "erb",
+    "god",
+    "mspec",
+    "opal",
+    "pluginspec",
+    "podspec",
+    "rabl",
+    "rake",
+    "rb",
+    "ru",
+    "ruby"
+  ],
+  "_erlang_medium-red": [
+    "erl"
+  ],
+  "_text_medium-red": [
+    "err",
+    "no",
+    "stderr",
+    "stdout"
+  ],
+  "_js_medium-yellow": [
+    "es",
+    "es0",
+    "es2",
+    "es3",
+    "es4",
+    "es5",
+    "es6",
+    "es7",
+    "es8",
+    "es9",
+    "js"
+  ],
+  "_anchor_dark-blue": [
+    "eskip"
+  ],
+  "_eslint_medium-purple": [
+    "eslintcache",
+    "eslintignore"
+  ],
+  "_eslint_light-purple": [
+    "eslintrc"
+  ],
+  "_text_medium-yellow": [
+    "etx"
+  ],
+  "_eagle_medium-red": [
+    "eup"
+  ],
+  "_elixir_dark-purple": [
+    "ex"
+  ],
+  "_windows": [
+    "exe",
+    "msi"
+  ],
+  "_tcl_dark-blue": [
+    "exp"
+  ],
+  "_openexr_medium-pink": [
+    "exr"
+  ],
+  "_vim_medium-green": [
+    "exrc",
+    "gvimrc",
+    "nexrc",
+    "nvimrc",
+    "vim",
+    "vimrc"
+  ],
+  "_fortran_medium-maroon": [
+    "f",
+    "f77"
+  ],
+  "_fortran_medium-red": [
+    "f03"
+  ],
+  "_fortran_medium-blue": [
+    "f08"
+  ],
+  "_audio_medium-red": [
+    "f4a",
+    "f4b",
+    "mp3",
+    "spc"
+  ],
+  "_fortran_medium-green": [
+    "f90"
+  ],
+  "_fortran_dark-pink": [
+    "f95"
+  ],
+  "_dna_medium-purple": [
+    "fa",
+    "fas",
+    "fasta",
+    "fsa",
+    "seq"
+  ],
+  "_dna_medium-orange": [
+    "faa",
+    "mpfa"
+  ],
+  "_circuit-board_dark-red": [
+    "fab",
+    "gbp"
+  ],
+  "_factor_medium-orange": [
+    "factor"
+  ],
+  "_factor_medium-red": [
+    "factor-boot-rc"
+  ],
+  "_factor_dark-orange": [
+    "factor-rc"
+  ],
+  "_falcon_medium-red": [
+    "fal",
+    "falcon"
+  ],
+  "_fantom_medium-blue": [
+    "fan"
+  ],
+  "_fancy_medium-blue": [
+    "fancypack"
+  ],
+  "_dna_medium-green": [
+    "fastq",
+    "fq"
+  ],
+  "_fauna_dark-blue": [
+    "faunarc",
+    "fql"
+  ],
+  "_fbx_medium-maroon": [
+    "fbx"
+  ],
+  "_franca_medium-maroon": [
+    "fdepl"
+  ],
+  "_franca_medium-orange": [
+    "fdl"
+  ],
+  "_finaldraft_medium-green": [
+    "fdx"
+  ],
+  "_database_light-blue": [
+    "fea"
+  ],
+  "_cucumber_medium-green": [
+    "feature"
+  ],
+  "_ff_medium-orange": [
+    "ff",
+    "pe"
+  ],
+  "_dna_medium-red": [
+    "ffn"
+  ],
+  "_code_medium-pink": [
+    "fidl",
+    "filters",
+    "pig"
+  ],
+  "_figma_medium-red": [
+    "figma"
+  ],
+  "_firebase_medium-orange": [
+    "firebaserc"
+  ],
+  "_terminal_medium-green": [
+    "fish",
+    "tcsh"
+  ],
+  "_image_medium-cyan": [
+    "fit",
+    "fits",
+    "fts",
+    "jng",
+    "pxg"
+  ],
+  "_animate_dark-orange": [
+    "fla"
+  ],
+  "_audio_dark-red": [
+    "flac"
+  ],
+  "_config-python_dark-blue": [
+    "flake8",
+    "python-version"
+  ],
+  "_config_medium-green": [
+    "flc",
+    "opts"
+  ],
+  "_lex_dark-red": [
+    "flex"
+  ],
+  "_image_dark-red": [
+    "flif",
+    "hdp",
+    "heic",
+    "jxr",
+    "wdp"
+  ],
+  "_floobits_medium-red": [
+    "flooignore"
+  ],
+  "_flow_medium-orange": [
+    "flow",
+    "flowconfig",
+    "js.flow"
+  ],
+  "_flutter_light-blue": [
+    "flutter-plugins"
+  ],
+  "_flux_dark-blue": [
+    "flux"
+  ],
+  "_video_medium-red": [
+    "flv",
+    "mpeg",
+    "mpg"
+  ],
+  "_dna_medium-pink": [
+    "fna"
+  ],
+  "_font-bitmap_medium-blue": [
+    "fnt"
+  ],
+  "_openoffice_dark-orange": [
+    "fodg"
+  ],
+  "_openoffice_medium-pink": [
+    "fodp"
+  ],
+  "_openoffice_dark-cyan": [
+    "fods"
+  ],
+  "_openoffice_dark-purple": [
+    "fodt"
+  ],
+  "_font-bitmap_dark-red": [
+    "fon"
+  ],
+  "_fortran_dark-cyan": [
+    "for"
+  ],
+  "_electron_dark-cyan": [
+    "forge.config.js"
+  ],
+  "_fossa_dark-blue": [
+    "fossaignore"
+  ],
+  "_fossa_medium-blue": [
+    "fossa.yaml",
+    "fossa.yml"
+  ],
+  "_fossil_medium-cyan": [
+    "fossil"
+  ],
+  "_fountain_medium-blue": [
+    "fountain"
+  ],
+  "_vertex_medium-red": [
+    "fp",
+    "frag",
+    "frg",
+    "fsh",
+    "fshader"
+  ],
+  "_fortran_dark-yellow": [
+    "fpp"
+  ],
+  "_frege_dark-red": [
+    "fr"
+  ],
+  "_dna_medium-blue": [
+    "frn"
+  ],
+  "_fsharp_medium-blue": [
+    "fs",
+    "fsi",
+    "fsx"
+  ],
+  "_fthtml_medium-orange": [
+    "fthtml"
+  ],
+  "_freemarker_medium-blue": [
+    "ftl"
+  ],
+  "_futhark_dark-maroon": [
+    "fut"
+  ],
+  "_flux_medium-blue": [
+    "fx"
+  ],
+  "_fexl_medium-cyan": [
+    "fxl"
+  ],
+  "_code_medium-maroon": [
+    "fxml"
+  ],
+  "_fancy_dark-blue": [
+    "fy"
+  ],
+  "_antlr_medium-red": [
+    "g"
+  ],
+  "_gap_medium-yellow": [
+    "gap"
+  ],
+  "_awk_medium-red": [
+    "gawk"
+  ],
+  "_circuit-board_medium-cyan": [
+    "gbl"
+  ],
+  "_circuit-board_medium-red": [
+    "gbr",
+    "gko",
+    "sch"
+  ],
+  "_circuit-board_medium-orange": [
+    "gbs"
+  ],
+  "_grapher_medium-green": [
+    "gcx"
+  ],
+  "_godot_medium-blue": [
+    "gd"
+  ],
+  "_gdb_medium-green": [
+    "gdb"
+  ],
+  "_gdb_medium-cyan": [
+    "gdbinit"
+  ],
+  "_omnigraffle_medium-cyan": [
+    "gdiagramstyle"
+  ],
+  "_godot_dark-cyan": [
+    "gdshader"
+  ],
+  "_bundler_medium-cyan": [
+    "gemfile"
+  ],
+  "_rubygems_medium-red": [
+    "gemspec"
+  ],
+  "_genstat_medium-green": [
+    "gen"
+  ],
+  "_model_medium-red": [
+    "geo",
+    "geom",
+    "geometry",
+    "mdl",
+    "obj"
+  ],
+  "_json_medium-cyan": [
+    "geojson",
+    "hjson",
+    "json",
+    "topojson"
+  ],
+  "_gf_medium-red": [
+    "gf"
+  ],
+  "_gimp_medium-orange": [
+    "ggr"
+  ],
+  "_gap_dark-blue": [
+    "gi"
+  ],
+  "_image_medium-yellow": [
+    "gif",
+    "ora"
+  ],
+  "_gimp_medium-maroon": [
+    "gih"
+  ],
+  "_git_medium-red": [
+    "gitattributes",
+    "git-blame-ignore-revs",
+    "gitconfig",
+    "gitignore",
+    "gitignore-global",
+    "gitignore_global",
+    "lfsconfig",
+    "mailmap"
+  ],
+  "_glade_medium-green": [
+    "glade"
+  ],
+  "_pointwise_medium-blue": [
+    "glf"
+  ],
+  "_opengl_dark-cyan": [
+    "glsl",
+    "glslv",
+    "gsh",
+    "gshader",
+    "rchit",
+    "rmiss"
+  ],
+  "_gltf_medium-green": [
+    "gltf"
+  ],
+  "_glyphs_medium-green": [
+    "glyphs"
+  ],
+  "_key_medium-green": [
+    "glyphslicense"
+  ],
+  "_circuit-board_medium-green": [
+    "gm0",
+    "gm1",
+    "gm2",
+    "gm3",
+    "gm4",
+    "gm5",
+    "gm6",
+    "gm7",
+    "gm8",
+    "gm9",
+    "pcb"
+  ],
+  "_gml_medium-green": [
+    "gml"
+  ],
+  "_gams_dark-red": [
+    "gms"
+  ],
+  "_gn_dark-blue": [
+    "gn"
+  ],
+  "_gn_medium-blue": [
+    "gni"
+  ],
+  "_gnu_medium-red": [
+    "gnu",
+    "gplv2",
+    "gplv3"
+  ],
+  "_gnuplot_medium-red": [
+    "gnuplot",
+    "gnuplot_history",
+    "gnuplotrc",
+    "gp",
+    "plot",
+    "plt"
+  ],
+  "_emacs_medium-red": [
+    "gnus"
+  ],
+  "_squirrel_medium-red": [
+    "gnut"
+  ],
+  "_go_medium-blue": [
+    "go"
+  ],
+  "_godot_dark-blue": [
+    "godot"
+  ],
+  "_html5_dark-blue": [
+    "gohtml",
+    "phtml"
+  ],
+  "_golo_medium-orange": [
+    "golo"
+  ],
+  "_circuit-board_dark-yellow": [
+    "gpb"
+  ],
+  "_genstat_medium-blue": [
+    "gpi"
+  ],
+  "_gimp_medium-green": [
+    "gpl"
+  ],
+  "_circuit-board_medium-yellow": [
+    "gpt"
+  ],
+  "_graphql_medium-purple": [
+    "gql"
+  ],
+  "_gradle_medium-blue": [
+    "gradle"
+  ],
+  "_gradle_dark-purple": [
+    "gradlew"
+  ],
+  "_omnigraffle_medium-green": [
+    "graffle"
+  ],
+  "_bnf_medium-cyan": [
+    "grammar"
+  ],
+  "_graphql_medium-pink": [
+    "graphql"
+  ],
+  "_graphql_medium-red": [
+    "graphqls"
+  ],
+  "_bnf_medium-yellow": [
+    "grm"
+  ],
+  "_groovy_light-blue": [
+    "groovy",
+    "grt",
+    "gsp",
+    "gtpl",
+    "gvy"
+  ],
+  "_code_dark-orange": [
+    "grxml",
+    "urdf"
+  ],
+  "_gosu_medium-blue": [
+    "gs"
+  ],
+  "_galen_medium-blue": [
+    "gspec"
+  ],
+  "_gauss_medium-orange": [
+    "gss"
+  ],
+  "_gosu_medium-green": [
+    "gst"
+  ],
+  "_omnigraffle_medium-red": [
+    "gstencil"
+  ],
+  "_gosu_dark-green": [
+    "gsx"
+  ],
+  "_omnigraffle_dark-green": [
+    "gtemplate"
+  ],
+  "_galen_medium-cyan": [
+    "gtest"
+  ],
+  "_circuit-board_medium-blue": [
+    "gtl"
+  ],
+  "_circuit-board_medium-maroon": [
+    "gto"
+  ],
+  "_circuit-board_dark-orange": [
+    "gtp"
+  ],
+  "_circuit-board_dark-maroon": [
+    "gts"
+  ],
+  "_graphviz_medium-blue": [
+    "gv"
+  ],
+  "_gvdesign_medium-yellow": [
+    "gvdesign"
+  ],
+  "_python_medium-green": [
+    "gyp",
+    "smk"
+  ],
+  "_python_dark-green": [
+    "gypi",
+    "isolate",
+    "pyt"
+  ],
+  "_zip_dark-blue": [
+    "gz",
+    "hak",
+    "tar",
+    "tgz",
+    "whl"
+  ],
+  "_cpp_medium-purple": [
+    "h++",
+    "h+p",
+    "hp+",
+    "hpp",
+    "hpx",
+    "h+x",
+    "hx+",
+    "hxp",
+    "hxx"
+  ],
+  "_video_dark-blue": [
+    "h264",
+    "m4v",
+    "mp4",
+    "webm"
+  ],
+  "_hack_medium-yellow": [
+    "hack"
+  ],
+  "_haml_medium-yellow": [
+    "haml"
+  ],
+  "_haml_medium-maroon": [
+    "hamlc"
+  ],
+  "_haml_medium-red": [
+    "haml.deface"
+  ],
+  "_mustache_medium-orange": [
+    "handlebars",
+    "hbs",
+    "hbt",
+    "mustache",
+    "stache"
+  ],
+  "_ats_medium-blue": [
+    "hats"
+  ],
+  "_harbour_dark-blue": [
+    "hb"
+  ],
+  "_templeos_medium-yellow": [
+    "hc"
+  ],
+  "_hashicorp_dark-purple": [
+    "hcl"
+  ],
+  "_templeos_medium-orange": [
+    "hc.z"
+  ],
+  "_image_medium-blue": [
+    "hdr",
+    "ico",
+    "pnm",
+    "pxs"
+  ],
+  "_hg_medium-grey": [
+    "hgignore"
+  ],
+  "_hg_dark-grey": [
+    "hgrc"
+  ],
+  "_hg_dark-cyan": [
+    "hgsub"
+  ],
+  "_hg_medium-cyan": [
+    "hgsubstate"
+  ],
+  "_tag_medium-cyan": [
+    "hgtags"
+  ],
+  "_hack_medium-orange": [
+    "hh"
+  ],
+  "_hack_medium-red": [
+    "hhi"
+  ],
+  "_houdini_medium-orange": [
+    "hip",
+    "hipnc",
+    "i3d",
+    "picnc"
+  ],
+  "_hoplon_medium-red": [
+    "hl"
+  ],
+  "_openvms_medium-blue": [
+    "hlb"
+  ],
+  "_lean_dark-red": [
+    "hlean"
+  ],
+  "_question_dark-blue": [
+    "hlp"
+  ],
+  "_model_medium-blue": [
+    "hlsl"
+  ],
+  "_model_dark-green": [
+    "hlsli",
+    "stl"
+  ],
+  "_houndci_medium-purple": [
+    "hound.yaml",
+    "hound.yml"
+  ],
+  "_hp_medium-blue": [
+    "hpgl"
+  ],
+  "_sqf_dark-red": [
+    "hqf"
+  ],
+  "_sql_medium-red": [
+    "hql",
+    "pls",
+    "plsql"
+  ],
+  "_zip_medium-cyan": [
+    "hqx"
+  ],
+  "_erlang_medium-maroon": [
+    "hrl"
+  ],
+  "_haskell_medium-purple": [
+    "hs"
+  ],
+  "_haskell_medium-maroon": [
+    "hs-boot",
+    "hsig"
+  ],
+  "_haskell_medium-blue": [
+    "hsc"
+  ],
+  "_html5_dark-orange": [
+    "hta"
+  ],
+  "_js_dark-yellow": [
+    "htc"
+  ],
+  "_html5_medium-orange": [
+    "htm",
+    "html",
+    "xhtm",
+    "xhtml"
+  ],
+  "_html5_medium-cyan": [
+    "htm.ecr",
+    "html.ecr",
+    "shtml"
+  ],
+  "_html5_medium-purple": [
+    "html.eex",
+    "html.heex",
+    "html.leex",
+    "jsp"
+  ],
+  "_gear_medium-red": [
+    "htmlhintrc"
+  ],
+  "_husky_medium-blue": [
+    "huskyrc",
+    "huskyrc.mjs"
+  ],
+  "_husky_medium-green": [
+    "huskyrc.cjs"
+  ],
+  "_husky_medium-orange": [
+    "huskyrc.js"
+  ],
+  "_husky_medium-yellow": [
+    "huskyrc.json"
+  ],
+  "_husky_medium-red": [
+    "huskyrc.yaml",
+    "huskyrc.yml"
+  ],
+  "_haxe_medium-orange": [
+    "hx",
+    "hxml",
+    "hxsl"
+  ],
+  "_haxedevelop_medium-blue": [
+    "hxproj"
+  ],
+  "_hy_dark-blue": [
+    "hy"
+  ],
+  "_kibo_light-yellow": [
+    "hypr"
+  ],
+  "_kibo_dark-orange": [
+    "hypr.live"
+  ],
+  "_asm_medium-cyan": [
+    "i"
+  ],
+  "_modula3_medium-blue": [
+    "i3"
+  ],
+  "_inform7_dark-blue": [
+    "i7x"
+  ],
+  "_clean_dark-cyan": [
+    "icl"
+  ],
+  "_c_medium-green": [
+    "idc",
+    "xpm"
+  ],
+  "_indesign_dark-pink": [
+    "idml",
+    "indd"
+  ],
+  "_idris_dark-red": [
+    "idr"
+  ],
+  "_image_dark-blue": [
+    "iff",
+    "lbm",
+    "liff",
+    "nrrd",
+    "pcx",
+    "webp"
+  ],
+  "_modula3_medium-green": [
+    "ig"
+  ],
+  "_stata_medium-cyan": [
+    "ihlp"
+  ],
+  "_j_light-blue": [
+    "ijs"
+  ],
+  "_ioke_medium-red": [
+    "ik"
+  ],
+  "_lilypond_dark-green": [
+    "ily"
+  ],
+  "_imba_medium-yellow": [
+    "imba"
+  ],
+  "_godot_medium-red": [
+    "import"
+  ],
+  "_indesign_dark-blue": [
+    "indb"
+  ],
+  "_gear_medium-blue": [
+    "indent.pro",
+    "module"
+  ],
+  "_indesign_medium-purple": [
+    "indl"
+  ],
+  "_indesign_dark-purple": [
+    "indt"
+  ],
+  "_text_dark-blue": [
+    "info",
+    "lcov",
+    "nfo"
+  ],
+  "_infopath_dark-purple": [
+    "infopathxml",
+    "xsf",
+    "xsn",
+    "xtp2"
+  ],
+  "_ink_dark-blue": [
+    "ink"
+  ],
+  "_ink_dark-purple": [
+    "ink2"
+  ],
+  "_cpp_medium-red": [
+    "inl",
+    "tcc"
+  ],
+  "_arduino_dark-cyan": [
+    "ino"
+  ],
+  "_terminal_medium-red": [
+    "inputrc"
+  ],
+  "_nsri-alt_medium-green": [
+    "integrity.json"
+  ],
+  "_inkscape_dark-purple": [
+    "inx"
+  ],
+  "_io_dark-purple": [
+    "io"
+  ],
+  "_jolie_medium-red": [
+    "iol"
+  ],
+  "_igorpro_dark-red": [
+    "ipf"
+  ],
+  "_cpp_medium-orange": [
+    "ipp",
+    "tpp"
+  ],
+  "_python_medium-blue": [
+    "ipy",
+    "pyi"
+  ],
+  "_jupyter_dark-orange": [
+    "ipynb"
+  ],
+  "_sgi_medium-orange": [
+    "iris",
+    "sgi"
+  ],
+  "_inno_medium-cyan": [
+    "isl"
+  ],
+  "_zip_medium-blue": [
+    "iso",
+    "rar",
+    "sit",
+    "wgt"
+  ],
+  "_inno_dark-blue": [
+    "iss"
+  ],
+  "_audio_medium-orange": [
+    "it"
+  ],
+  "_graphviz_medium-orange": [
+    "iuml",
+    "plantuml",
+    "pu",
+    "puml"
+  ],
+  "_objj_dark-orange": [
+    "j"
+  ],
+  "_jinja_medium-red": [
+    "j2",
+    "jinja2"
+  ],
+  "_jade_medium-red": [
+    "jade"
+  ],
+  "_jake_medium-yellow": [
+    "jake"
+  ],
+  "_zip_dark-pink": [
+    "jar"
+  ],
+  "_cheetah3d_medium-yellow": [
+    "jas"
+  ],
+  "_warcraft3_medium-red": [
+    "jass"
+  ],
+  "_java_medium-purple": [
+    "java"
+  ],
+  "_code_medium-yellow": [
+    "jelly",
+    "joy"
+  ],
+  "_jinja_dark-red": [
+    "jinja"
+  ],
+  "_jison_medium-blue": [
+    "jison"
+  ],
+  "_jison_medium-cyan": [
+    "jisonlex"
+  ],
+  "_julia_medium-purple": [
+    "jl"
+  ],
+  "_markdown_medium-purple": [
+    "jmd"
+  ],
+  "_print_dark-red": [
+    "joboptions"
+  ],
+  "_junos_medium-cyan": [
+    "jos"
+  ],
+  "_image_medium-green": [
+    "jpeg",
+    "jpg"
+  ],
+  "_image_dark-cyan": [
+    "jps"
+  ],
+  "_js_medium-orange": [
+    "_js",
+    "jspre"
+  ],
+  "_config-js_medium-yellow": [
+    "jsbeautifyrc",
+    "jscsrc",
+    "jshintrc"
+  ],
+  "_scad_medium-yellow": [
+    "jscad"
+  ],
+  "_jscpd_medium-grey": [
+    "jscpd",
+    "jscpd.json"
+  ],
+  "_jscpd_medium-orange": [
+    "jscpd.html"
+  ],
+  "_jscpd_medium-cyan": [
+    "jscpd.xml"
+  ],
+  "_js_medium-red": [
+    "jscript",
+    "js.erb",
+    "jslib",
+    "ssjs"
+  ],
+  "_js_medium-cyan": [
+    "js.ecr"
+  ],
+  "_as_medium-yellow": [
+    "jsfl"
+  ],
+  "_js_medium-blue": [
+    "jsm",
+    "mjs",
+    "xsjslib"
+  ],
+  "_sourcemap_medium-yellow": [
+    "js.map"
+  ],
+  "_json5_dark-yellow": [
+    "json5"
+  ],
+  "_json_dark-blue": [
+    "jsonc"
+  ],
+  "_database_dark-orange": [
+    "jsonl",
+    "ldj",
+    "ldjson"
+  ],
+  "_jsonld_medium-blue": [
+    "jsonld"
+  ],
+  "_jsonnet_dark-blue": [
+    "jsonnet"
+  ],
+  "_squarespace_dark-purple": [
+    "jsont"
+  ],
+  "_textmate_medium-purple": [
+    "json-tmlanguage"
+  ],
+  "_html5_dark-purple": [
+    "jspf"
+  ],
+  "_code_dark-yellow": [
+    "jsproj",
+    "ohm",
+    "sgm",
+    "sgml"
+  ],
+  "_jsx_medium-blue": [
+    "jsx"
+  ],
+  "_kx_dark-purple": [
+    "k"
+  ],
+  "_kubernetes_medium-blue": [
+    "kazelcfg.json"
+  ],
+  "_keynote_medium-blue": [
+    "keynote"
+  ],
+  "_kicad_medium-red": [
+    "kicad_dru"
+  ],
+  "_kicad_medium-green": [
+    "kicad_mod"
+  ],
+  "_kicad_dark-blue": [
+    "kicad_pcb"
+  ],
+  "_kicad_dark-red": [
+    "kicad_pcb-bak"
+  ],
+  "_kicad_medium-orange": [
+    "kicad_prl",
+    "kicad_pro"
+  ],
+  "_kicad_dark-green": [
+    "kicad_sch",
+    "kicad_sym"
+  ],
+  "_kicad_medium-cyan": [
+    "kicad_wks"
+  ],
+  "_genshi_medium-red": [
+    "kid"
+  ],
+  "_html5_medium-green": [
+    "kit",
+    "swig"
+  ],
+  "_keynote_dark-blue": [
+    "knt"
+  ],
+  "_scala_medium-green": [
+    "kojo"
+  ],
+  "_krl_medium-blue": [
+    "krl"
+  ],
+  "_kos_dark-green": [
+    "ks"
+  ],
+  "_terminal_dark-yellow": [
+    "ksh",
+    "kshrc",
+    "mksh",
+    "mkshrc",
+    "pdksh",
+    "pdkshrc"
+  ],
+  "_kaitai_medium-maroon": [
+    "ksy"
+  ],
+  "_kotlin_dark-blue": [
+    "kt"
+  ],
+  "_kotlin_medium-blue": [
+    "ktm"
+  ],
+  "_kotlin_medium-orange": [
+    "kts"
+  ],
+  "_kivy_dark-maroon": [
+    "kv"
+  ],
+  "_config_medium-red": [
+    "kys",
+    "kys_mac",
+    "lds"
+  ],
+  "_picolisp_medium-purple": [
+    "l"
+  ],
+  "_binary_dark-red": [
+    "la"
+  ],
+  "_agda_medium-cyan": [
+    "lagda"
+  ],
+  "_lark_dark-blue": [
+    "lark"
+  ],
+  "_lasso_dark-blue": [
+    "las",
+    "lasso"
+  ],
+  "_lasso_medium-blue": [
+    "lasso8"
+  ],
+  "_lasso_medium-purple": [
+    "lasso9"
+  ],
+  "_lasso_dark-red": [
+    "lassoapp"
+  ],
+  "_latino_medium-blue": [
+    "lat"
+  ],
+  "_sketchup-lo_medium-red": [
+    "layout"
+  ],
+  "_tex_medium-blue": [
+    "lbx",
+    "ltx",
+    "tex"
+  ],
+  "_config_dark-red": [
+    "ld"
+  ],
+  "_config_dark-green": [
+    "ldif"
+  ],
+  "_lasso_medium-red": [
+    "ldml"
+  ],
+  "_lean_dark-purple": [
+    "lean"
+  ],
+  "_graph_medium-blue": [
+    "ledger"
+  ],
+  "_lektor_medium-orange": [
+    "lektorproject"
+  ],
+  "_css3_dark-blue": [
+    "less"
+  ],
+  "_lex_medium-cyan": [
+    "lex",
+    "lx"
+  ],
+  "_lfe_dark-red": [
+    "lfe"
+  ],
+  "_pascal_medium-blue": [
+    "lfm",
+    "or"
+  ],
+  "_logtalk_medium-red": [
+    "lgt",
+    "logtalk"
+  ],
+  "_haskell_dark-blue": [
+    "lhs"
+  ],
+  "_jsonnet_medium-blue": [
+    "libsonnet"
+  ],
+  "_idris_medium-maroon": [
+    "lidr"
+  ],
+  "_linqpad_dark-pink": [
+    "linq"
+  ],
+  "_gear_dark-orange": [
+    "lintstagedrc"
+  ],
+  "_shopify_medium-green": [
+    "liquid"
+  ],
+  "_lisp_dark-red": [
+    "lisp"
+  ],
+  "_coffee_light-maroon": [
+    "litcoffee"
+  ],
+  "_lookml_medium-purple": [
+    "lkml",
+    "lookml"
+  ],
+  "_llvm_dark-green": [
+    "ll"
+  ],
+  "_binary_medium-red": [
+    "lo",
+    "o",
+    "out",
+    "rpyb",
+    "rpyc",
+    "so"
+  ],
+  "_lolcode_dark-red": [
+    "lol"
+  ],
+  "_pascal_dark-blue": [
+    "lpi"
+  ],
+  "_pascal_dark-cyan": [
+    "lpk"
+  ],
+  "_pascal_dark-purple": [
+    "lpr"
+  ],
+  "_pascal_medium-red": [
+    "lps"
+  ],
+  "_lektor_dark-purple": [
+    "lr"
+  ],
+  "_pascal_medium-maroon": [
+    "lrs"
+  ],
+  "_pascal_dark-red": [
+    "lrt"
+  ],
+  "_ls_medium-blue": [
+    "ls"
+  ],
+  "_ls_dark-blue": [
+    "_ls"
+  ],
+  "_lsl_medium-cyan": [
+    "lsl"
+  ],
+  "_lsl_dark-cyan": [
+    "lslp"
+  ],
+  "_lisp_medium-red": [
+    "lsp"
+  ],
+  "_vs_light-cyan": [
+    "lsproj"
+  ],
+  "_asm-m68k_medium-blue": [
+    "lst"
+  ],
+  "_lua_medium-blue": [
+    "lua"
+  ],
+  "_lua_medium-green": [
+    "luacheckrc"
+  ],
+  "_labview_dark-blue": [
+    "lvlib",
+    "lvproj"
+  ],
+  "_lightwave_medium-red": [
+    "lwo"
+  ],
+  "_lightwave_medium-blue": [
+    "lws"
+  ],
+  "_modo_medium-cyan": [
+    "lxo"
+  ],
+  "_lilypond_medium-green": [
+    "ly"
+  ],
+  "_miranda_medium-red": [
+    "m"
+  ],
+  "_macaulay2_light-cyan": [
+    "m2"
+  ],
+  "_modula3_dark-blue": [
+    "m3"
+  ],
+  "_asm-m68k_dark-red": [
+    "m68k"
+  ],
+  "_mathematica_medium-orange": [
+    "ma"
+  ],
+  "_zip_medium-orange": [
+    "maff",
+    "xpi"
+  ],
+  "_checklist_medium-yellow": [
+    "mak",
+    "make",
+    "makefile",
+    "makfile",
+    "mk",
+    "mkfile",
+    "taskpaper",
+    "todo"
+  ],
+  "_mako_dark-blue": [
+    "mako",
+    "mao"
+  ],
+  "_sourcemap_dark-blue": [
+    "map",
+    "mapping"
+  ],
+  "_markdown_medium-blue": [
+    "markdown",
+    "md",
+    "mdown",
+    "mdtext",
+    "mdtxt",
+    "mdwn",
+    "mkd",
+    "mkdn",
+    "mkdown",
+    "pmd",
+    "ron"
+  ],
+  "_marko_medium-blue": [
+    "marko"
+  ],
+  "_marko_medium-maroon": [
+    "marko.cjs",
+    "marko.js",
+    "marko.mjs"
+  ],
+  "_unity3d_medium-red": [
+    "mat"
+  ],
+  "_stata_dark-cyan": [
+    "mata"
+  ],
+  "_stata_light-cyan": [
+    "matah"
+  ],
+  "_sourcemap_medium-maroon": [
+    "match"
+  ],
+  "_mathematica_dark-red": [
+    "mathematica",
+    "nbp"
+  ],
+  "_matlab_medium-yellow": [
+    "matlab"
+  ],
+  "_awk_medium-maroon": [
+    "mawk"
+  ],
+  "_maxscript_dark-cyan": [
+    "max"
+  ],
+  "_max_medium-red": [
+    "maxhelp"
+  ],
+  "_max_dark-purple": [
+    "maxpat"
+  ],
+  "_max_medium-blue": [
+    "maxproj"
+  ],
+  "_maya_dark-cyan": [
+    "mb"
+  ],
+  "_mail_medium-red": [
+    "mbox",
+    "mbx"
+  ],
+  "_maxscript_medium-red": [
+    "mce"
+  ],
+  "_config_medium-blue": [
+    "mcf",
+    "sdl",
+    "sdlang"
+  ],
+  "_maya_dark-purple": [
+    "mcfi",
+    "mcfp"
+  ],
+  "_minecraft_light-green": [
+    "mcfunction"
+  ],
+  "_minecraft_medium-green": [
+    "mclevel"
+  ],
+  "_minecraft_dark-green": [
+    "mcpack",
+    "png.mcmeta"
+  ],
+  "_maxscript_dark-purple": [
+    "mcr"
+  ],
+  "_minecraft_medium-blue": [
+    "mcworld"
+  ],
+  "_matlab_medium-red": [
+    "mdlp",
+    "slx"
+  ],
+  "_1c-alt_medium-red": [
+    "mdo"
+  ],
+  "_access_dark-purple": [
+    "mdw"
+  ],
+  "_mdx_medium-orange": [
+    "mdx"
+  ],
+  "_mediawiki_medium-yellow": [
+    "mediawiki"
+  ],
+  "_maya_dark-blue": [
+    "mel"
+  ],
+  "_mermaid_medium-blue": [
+    "mermaid",
+    "mmd"
+  ],
+  "_unity3d_dark-red": [
+    "meta"
+  ],
+  "_metal_dark-cyan": [
+    "metal"
+  ],
+  "_metapost_dark-green": [
+    "mf"
+  ],
+  "_modula3_dark-green": [
+    "mg"
+  ],
+  "_music_dark-blue": [
+    "mid",
+    "midi"
+  ],
+  "_mint_medium-green": [
+    "mint"
+  ],
+  "_dyalog_dark-green": [
+    "mipage"
+  ],
+  "_mirah_light-blue": [
+    "mir",
+    "mirah"
+  ],
+  "_mixin_medium-orange": [
+    "mixin.json",
+    "mixins.json"
+  ],
+  "_mjml_medium-red": [
+    "mjml"
+  ],
+  "_mjml_medium-orange": [
+    "mjmlslim"
+  ],
+  "_jest_medium-blue": [
+    "mjs.snap",
+    "ts.snap",
+    "tsx.snap"
+  ],
+  "_video_medium-purple": [
+    "mk3d",
+    "mks",
+    "mkv"
+  ],
+  "_ocaml_medium-orange": [
+    "ml"
+  ],
+  "_ocaml_medium-green": [
+    "ml4"
+  ],
+  "_matlab_dark-maroon": [
+    "mlappinstall"
+  ],
+  "_ocaml_dark-orange": [
+    "mli"
+  ],
+  "_ocaml_dark-green": [
+    "mll"
+  ],
+  "_matlab_medium-cyan": [
+    "mlpkginstall"
+  ],
+  "_matlab_dark-red": [
+    "mltbx",
+    "slxp"
+  ],
+  "_ocaml_dark-yellow": [
+    "mly"
+  ],
+  "_objc_dark-blue": [
+    "mm"
+  ],
+  "_checklist_light-blue": [
+    "mmk"
+  ],
+  "_checklist_medium-blue": [
+    "mms"
+  ],
+  "_matlab_dark-purple": [
+    "mn"
+  ],
+  "_modelica_medium-red": [
+    "mo"
+  ],
+  "_mocha_light-maroon": [
+    "mocha.opts"
+  ],
+  "_mocha_medium-maroon": [
+    "mocharc.cjs",
+    "mocharc.js",
+    "mocharc.json",
+    "mocharc.jsonc",
+    "mocharc.mjs",
+    "mocharc.yaml",
+    "mocharc.yml"
+  ],
+  "_modula2_medium-blue": [
+    "mod"
+  ],
+  "_appstore_medium-red": [
+    "mode0v3",
+    "mode1v3",
+    "mode2v3",
+    "mode3v3",
+    "mode4v3",
+    "mode5v3",
+    "mode6v3",
+    "mode7v3",
+    "mode8v3",
+    "mode9v3"
+  ],
+  "_vs_dark-red": [
+    "modelproj",
+    "vbproj"
+  ],
+  "_puppet_dark-blue": [
+    "modulefile"
+  ],
+  "_moho_medium-orange": [
+    "moho",
+    "mohoproj"
+  ],
+  "_moho_medium-blue": [
+    "mohoaction"
+  ],
+  "_moho_medium-maroon": [
+    "mohobrush"
+  ],
+  "_moho_medium-yellow": [
+    "mohoexport"
+  ],
+  "_moho_medium-purple": [
+    "mohostyle"
+  ],
+  "_monkey_medium-maroon": [
+    "monkey"
+  ],
+  "_mercury_medium-cyan": [
+    "moo"
+  ],
+  "_moon_medium-yellow": [
+    "moon"
+  ],
+  "_text_medium-purple": [
+    "more",
+    "srt",
+    "uop"
+  ],
+  "_video_medium-cyan": [
+    "mov"
+  ],
+  "_audio_dark-green": [
+    "mp+",
+    "mpc"
+  ],
+  "_metapost_dark-red": [
+    "mp"
+  ],
+  "_msproject_medium-green": [
+    "mpp"
+  ],
+  "_msproject_dark-green": [
+    "mpt"
+  ],
+  "_mruby_medium-red": [
+    "mrb"
+  ],
+  "_mirc_medium-red": [
+    "mrc"
+  ],
+  "_maxscript_dark-blue": [
+    "ms"
+  ],
+  "_text_medium-orange": [
+    "msg"
+  ],
+  "_mapbox_medium-cyan": [
+    "mss"
+  ],
+  "_mathematica_medium-maroon": [
+    "mt"
+  ],
+  "_monotone_dark-purple": [
+    "mtn-ignore"
+  ],
+  "_mupad_medium-red": [
+    "mu"
+  ],
+  "_zork_medium-maroon": [
+    "mud"
+  ],
+  "_amusewiki_dark-red": [
+    "muse"
+  ],
+  "_max_medium-purple": [
+    "mxt"
+  ],
+  "_sql_medium-orange": [
+    "mysql",
+    "pck",
+    "sql"
+  ],
+  "_minizinc_medium-blue": [
+    "mzn"
+  ],
+  "_n64_dark-cyan": [
+    "n64"
+  ],
+  "_nano_medium-blue": [
+    "nanorc"
+  ],
+  "_nessus_medium-cyan": [
+    "nasl"
+  ],
+  "_nasm_dark-blue": [
+    "nasm"
+  ],
+  "_awk_medium-green": [
+    "nawk"
+  ],
+  "_mathematica_dark-orange": [
+    "nb"
+  ],
+  "_c_dark-blue": [
+    "nc"
+  ],
+  "_nwscript_dark-red": [
+    "ncs"
+  ],
+  "_nwscript_medium-maroon": [
+    "ndb"
+  ],
+  "_ndepend_medium-blue": [
+    "ndproj",
+    "nproj"
+  ],
+  "_neko_medium-orange": [
+    "neko"
+  ],
+  "_neon_medium-grey": [
+    "neon"
+  ],
+  "_nextflow_medium-green": [
+    "nf"
+  ],
+  "_nginx_medium-green": [
+    "nginx",
+    "nginxconf"
+  ],
+  "_inform7_medium-blue": [
+    "ni"
+  ],
+  "_nib_dark-orange": [
+    "nib"
+  ],
+  "_nimrod_medium-green": [
+    "nim",
+    "nimrod"
+  ],
+  "_nimble_medium-grey": [
+    "nimble"
+  ],
+  "_shuriken_medium-blue": [
+    "ninja"
+  ],
+  "_shuriken_dark-cyan": [
+    "ninja.d"
+  ],
+  "_nit_dark-green": [
+    "nit"
+  ],
+  "_nix_medium-cyan": [
+    "nix"
+  ],
+  "_nunjucks_dark-green": [
+    "njk",
+    "nunjucks"
+  ],
+  "_node_medium-green": [
+    "njs",
+    "nvmrc"
+  ],
+  "_vs_light-red": [
+    "njsproj"
+  ],
+  "_outlook_dark-red": [
+    "nk2"
+  ],
+  "_lisp_medium-maroon": [
+    "nl"
+  ],
+  "_netlogo_medium-red": [
+    "nlogo"
+  ],
+  "_node_dark-green": [
+    "node",
+    "node_repl_history",
+    "node-version"
+  ],
+  "_nodemon_medium-green": [
+    "nodemonignore"
+  ],
+  "_jekyll_medium-green": [
+    "nojekyll"
+  ],
+  "_nomad_medium-green": [
+    "nomad"
+  ],
+  "_noon_dark-grey": [
+    "noon"
+  ],
+  "_numpy_medium-cyan": [
+    "npy"
+  ],
+  "_numpy_dark-cyan": [
+    "npz"
+  ],
+  "_perl6_dark-purple": [
+    "nqp",
+    "rakutest"
+  ],
+  "_nmap_dark-blue": [
+    "nse"
+  ],
+  "_nsis_dark-cyan": [
+    "nsh"
+  ],
+  "_nsis_medium-purple": [
+    "nsi"
+  ],
+  "_nwscript_dark-blue": [
+    "nss"
+  ],
+  "_recycle_light-green": [
+    "nu"
+  ],
+  "_numpy_dark-blue": [
+    "numpy"
+  ],
+  "_numpy_medium-blue": [
+    "numpyw"
+  ],
+  "_numpy_medium-orange": [
+    "numsc"
+  ],
+  "_nuget_medium-purple": [
+    "nupkg"
+  ],
+  "_nuget_medium-blue": [
+    "nuspec"
+  ],
+  "_squirrel_medium-maroon": [
+    "nut"
+  ],
+  "_vmware_medium-blue": [
+    "nvram",
+    "vmss"
+  ],
+  "_nxc_medium-orange": [
+    "nxc"
+  ],
+  "_lisp_medium-blue": [
+    "ny",
+    "sexp"
+  ],
+  "_ogone_medium-grey": [
+    "o3",
+    "ogone"
+  ],
+  "_outlook_medium-blue": [
+    "oab",
+    "pst"
+  ],
+  "_oberon_medium-purple": [
+    "ob2"
+  ],
+  "_octave_medium-orange": [
+    "octave",
+    "octave_hist"
+  ],
+  "_octave_dark-orange": [
+    "octaverc"
+  ],
+  "_database_medium-grey": [
+    "od",
+    "onlydata"
+  ],
+  "_openoffice_light-pink": [
+    "odb"
+  ],
+  "_code_light-green": [
+    "odd"
+  ],
+  "_openoffice_medium-maroon": [
+    "odf"
+  ],
+  "_openoffice_medium-red": [
+    "odg"
+  ],
+  "_odin_medium-blue": [
+    "odin"
+  ],
+  "_openoffice_medium-purple": [
+    "odp"
+  ],
+  "_openoffice_medium-green": [
+    "ods"
+  ],
+  "_openoffice_medium-blue": [
+    "odt"
+  ],
+  "_outlook_medium-maroon": [
+    "oft"
+  ],
+  "_audio_dark-orange": [
+    "oga"
+  ],
+  "_video_medium-orange": [
+    "ogg",
+    "ogm",
+    "ogv"
+  ],
+  "_jolie_dark-pink": [
+    "ol"
+  ],
+  "_outlook_dark-cyan": [
+    "olk14"
+  ],
+  "_onenote_dark-purple": [
+    "one"
+  ],
+  "_ooc_medium-green": [
+    "ooc"
+  ],
+  "_opa_medium-blue": [
+    "opa"
+  ],
+  "_opencl_medium-red": [
+    "opencl"
+  ],
+  "_audio_dark-maroon": [
+    "opus"
+  ],
+  "_csound_medium-maroon": [
+    "orc"
+  ],
+  "_org_dark-green": [
+    "org"
+  ],
+  "_1c_dark-red": [
+    "os"
+  ],
+  "_font_dark-yellow": [
+    "otf"
+  ],
+  "_openoffice_dark-red": [
+    "otg"
+  ],
+  "_outlook_medium-red": [
+    "otm"
+  ],
+  "_openoffice_dark-pink": [
+    "otp"
+  ],
+  "_openoffice_dark-green": [
+    "ots"
+  ],
+  "_openoffice_dark-blue": [
+    "ott"
+  ],
+  "_virtualbox_medium-blue": [
+    "ova",
+    "vbox",
+    "vbox-prev",
+    "vbox_version"
+  ],
+  "_virtualbox_medium-purple": [
+    "ovf"
+  ],
+  "_openvpn_medium-orange": [
+    "ovpn"
+  ],
+  "_owl_dark-blue": [
+    "owl"
+  ],
+  "_ox_medium-cyan": [
+    "ox"
+  ],
+  "_ox_medium-green": [
+    "oxh"
+  ],
+  "_ox_medium-blue": [
+    "oxo"
+  ],
+  "_oxygene_medium-cyan": [
+    "oxygene"
+  ],
+  "_oz_medium-yellow": [
+    "oz"
+  ],
+  "_p4_dark-purple": [
+    "p4"
+  ],
+  "_perl6_medium-blue": [
+    "p6l",
+    "raku"
+  ],
+  "_perl6_dark-pink": [
+    "p6m",
+    "pm6"
+  ],
+  "_pico8_medium-red": [
+    "p8"
+  ],
+  "_js_medium-purple": [
+    "pac",
+    "xsjs"
+  ],
+  "_package_medium-green": [
+    "packages"
+  ],
+  "_gear_dark-green": [
+    "pairs"
+  ],
+  "_pan_medium-red": [
+    "pan"
+  ],
+  "_parrot_medium-green": [
+    "parrot"
+  ],
+  "_pascal_medium-purple": [
+    "pas",
+    "pascal"
+  ],
+  "_parrot_dark-green": [
+    "pasm"
+  ],
+  "_max_medium-green": [
+    "pat"
+  ],
+  "_patch_medium-green": [
+    "patch"
+  ],
+  "_purebasic_medium-red": [
+    "pb"
+  ],
+  "_purebasic_dark-orange": [
+    "pbi"
+  ],
+  "_powerbuilder_medium-blue": [
+    "pbl",
+    "sra"
+  ],
+  "_powerbuilder_dark-blue": [
+    "pbt"
+  ],
+  "_database_dark-cyan": [
+    "pbtext",
+    "pbtxt",
+    "proto",
+    "prototext",
+    "prototxt"
+  ],
+  "_appstore_medium-blue": [
+    "pbxproj"
+  ],
+  "_appstore_medium-cyan": [
+    "pbxuser"
+  ],
+  "_pcd_medium-green": [
+    "pcd"
+  ],
+  "_font-bitmap_medium-orange": [
+    "pcf",
+    "tlf"
+  ],
+  "_objc_dark-red": [
+    "pch"
+  ],
+  "_postcss_dark-red": [
+    "pcss",
+    "postcss"
+  ],
+  "_music_dark-red": [
+    "pd"
+  ],
+  "_processing_dark-blue": [
+    "pde"
+  ],
+  "_pdf_medium-red": [
+    "pdf"
+  ],
+  "_lua_dark-blue": [
+    "pd_lua"
+  ],
+  "_peg_medium-maroon": [
+    "pegcoffee"
+  ],
+  "_peg_medium-red": [
+    "peggy",
+    "pegjs"
+  ],
+  "_key_medium-orange": [
+    "pem"
+  ],
+  "_python_medium-orange": [
+    "pep",
+    "pyde"
+  ],
+  "_sql_medium-cyan": [
+    "per"
+  ],
+  "_perl_medium-blue": [
+    "perl",
+    "pl"
+  ],
+  "_postscript_dark-blue": [
+    "pfa"
+  ],
+  "_font_dark-red": [
+    "pfb"
+  ],
+  "_font_medium-red": [
+    "pfm"
+  ],
+  "_fortran_dark-blue": [
+    "pfo"
+  ],
+  "_tex_medium-purple": [
+    "pgf",
+    "tikz"
+  ],
+  "_image_medium-grey": [
+    "pgm"
+  ],
+  "_pgsql_dark-blue": [
+    "pgsql"
+  ],
+  "_perl_dark-purple": [
+    "ph"
+  ],
+  "_php_medium-red": [
+    "phar"
+  ],
+  "_php_dark-blue": [
+    "php",
+    "php0",
+    "php1",
+    "php2",
+    "php3",
+    "php4",
+    "php5",
+    "php6",
+    "php7",
+    "php8",
+    "php9",
+    "php_cs",
+    "phps",
+    "phpt"
+  ],
+  "_unity3d_dark-cyan": [
+    "physicmaterial",
+    "physicmaterial2d",
+    "physicsmaterial",
+    "physicsmaterial2d",
+    "prefab"
+  ],
+  "_pickle_dark-cyan": [
+    "pickle",
+    "pkl"
+  ],
+  "_image_light-purple": [
+    "pict"
+  ],
+  "_tag_medium-orange": [
+    "pid"
+  ],
+  "_pike_dark-cyan": [
+    "pike"
+  ],
+  "_pinescript_medium-green": [
+    "pine"
+  ],
+  "_parrot_dark-blue": [
+    "pir"
+  ],
+  "_js_dark-purple": [
+    "pjs"
+  ],
+  "_sql_dark-red": [
+    "pkb",
+    "xq",
+    "xql",
+    "xqm",
+    "xquery",
+    "xqy"
+  ],
+  "_nuget_dark-purple": [
+    "pkgproj"
+  ],
+  "_perl6_medium-purple": [
+    "pl6"
+  ],
+  "_code_dark-cyan": [
+    "plist",
+    "wisp",
+    "xlf",
+    "xslt"
+  ],
+  "_perl_medium-purple": [
+    "plx"
+  ],
+  "_asm-zilog_medium-blue": [
+    "plxcopy"
+  ],
+  "_model_dark-red": [
+    "ply"
+  ],
+  "_pike_medium-blue": [
+    "pmod"
+  ],
+  "_pod_dark-blue": [
+    "pod"
+  ],
+  "_perl6_dark-green": [
+    "pod6"
+  ],
+  "_lisp_medium-purple": [
+    "podsl"
+  ],
+  "_pogo_medium-orange": [
+    "pogo"
+  ],
+  "_pony_light-maroon": [
+    "pony"
+  ],
+  "_postcss_medium-yellow": [
+    "postcss.config.js"
+  ],
+  "_postcss_medium-orange": [
+    "postcssrc",
+    "postcssrc.cjs",
+    "postcssrc.js",
+    "postcssrc.json",
+    "postcssrc.mjs",
+    "postcssrc.yaml",
+    "postcssrc.yml"
+  ],
+  "_powerpoint_medium-maroon": [
+    "potm"
+  ],
+  "_povray_dark-blue": [
+    "pov"
+  ],
+  "_puppet_medium-purple": [
+    "pp"
+  ],
+  "_print_dark-cyan": [
+    "ppd"
+  ],
+  "_image_dark-maroon": [
+    "ppm",
+    "wbm"
+  ],
+  "_rexx_medium-blue": [
+    "pprx"
+  ],
+  "_powerpoint_dark-red": [
+    "pps"
+  ],
+  "_powerpoint_medium-orange": [
+    "ppsx"
+  ],
+  "_powerpoint_dark-orange": [
+    "ppt"
+  ],
+  "_powerpoint_medium-red": [
+    "pptx"
+  ],
+  "_pascal_medium-cyan": [
+    "ppu"
+  ],
+  "_premiere_medium-maroon": [
+    "prel"
+  ],
+  "_prettier_dark-yellow": [
+    "prettierignore"
+  ],
+  "_prettier_medium-cyan": [
+    "prettierrc",
+    "prettierrc.cjs",
+    "prettierrc.js",
+    "prettierrc.json",
+    "prettierrc.json5",
+    "prettierrc.mjs",
+    "prettierrc.yaml",
+    "prettierrc.yml"
+  ],
+  "_checklist_dark-purple": [
+    "pri"
+  ],
+  "_prisma_dark-blue": [
+    "prisma"
+  ],
+  "_graph_dark-blue": [
+    "prn"
+  ],
+  "_prolog_medium-blue": [
+    "pro"
+  ],
+  "_terminal_dark-purple": [
+    "profile"
+  ],
+  "_lein": [
+    "project.clj"
+  ],
+  "_prolog_medium-cyan": [
+    "prolog"
+  ],
+  "_config_medium-purple": [
+    "properties"
+  ],
+  "_proselint_dark-cyan": [
+    "proselintrc"
+  ],
+  "_premiere_dark-purple": [
+    "prproj"
+  ],
+  "_totvs_medium-maroon": [
+    "prw"
+  ],
+  "_binary_medium-purple": [
+    "prx"
+  ],
+  "_powershell_medium-blue": [
+    "ps1"
+  ],
+  "_powershell_dark-purple": [
+    "ps1xml"
+  ],
+  "_psd_dark-purple": [
+    "psb"
+  ],
+  "_papyrus_medium-green": [
+    "psc"
+  ],
+  "_code_light-blue": [
+    "psc1",
+    "sk",
+    "smt"
+  ],
+  "_psd_medium-blue": [
+    "psd"
+  ],
+  "_powershell_dark-blue": [
+    "psd1"
+  ],
+  "_font-bitmap_medium-cyan": [
+    "psf",
+    "psfu"
+  ],
+  "_font-bitmap_dark-blue": [
+    "psftx"
+  ],
+  "_perl_medium-red": [
+    "psgi",
+    "xs"
+  ],
+  "_powershell_medium-purple": [
+    "psm1"
+  ],
+  "_nuget_dark-green": [
+    "psmdcp"
+  ],
+  "_premiere_medium-purple": [
+    "psq"
+  ],
+  "_key_medium-yellow": [
+    "pub"
+  ],
+  "_binary_medium-grey": [
+    "puff"
+  ],
+  "_pug_medium-red": [
+    "pug"
+  ],
+  "_pure_medium-grey": [
+    "pure"
+  ],
+  "_purescript_dark-purple": [
+    "purs"
+  ],
+  "_publisher_dark-cyan": [
+    "puz"
+  ],
+  "_pawn_medium-orange": [
+    "pwn"
+  ],
+  "_cython_medium-blue": [
+    "pxd"
+  ],
+  "_cython_dark-blue": [
+    "pxi"
+  ],
+  "_python_dark-blue": [
+    "py",
+    "py3",
+    "pypirc",
+    "python_history",
+    "pythonrc",
+    "python-venv"
+  ],
+  "_binary_dark-purple": [
+    "pyc",
+    "pyd",
+    "pyo"
+  ],
+  "_database_dark-blue": [
+    "pydeps",
+    "schema"
+  ],
+  "_python_dark-purple": [
+    "pyp"
+  ],
+  "_python_medium-maroon": [
+    "pyw"
+  ],
+  "_cython_medium-orange": [
+    "pyx"
+  ],
+  "_python_dark-red": [
+    "pyz",
+    "wsgi"
+  ],
+  "_kx_medium-blue": [
+    "q"
+  ],
+  "_qiskit_dark-blue": [
+    "qasm"
+  ],
+  "_qt_medium-cyan": [
+    "qbs"
+  ],
+  "_qt_medium-green": [
+    "qml"
+  ],
+  "_qt_dark-green": [
+    "qmlproject"
+  ],
+  "_qsharp_dark-purple": [
+    "qs"
+  ],
+  "_qlik_dark-green": [
+    "qvd"
+  ],
+  "_qlik_medium-green": [
+    "qvw"
+  ],
+  "_r_medium-blue": [
+    "r",
+    "rd",
+    "rhistory",
+    "rprofile",
+    "rsx"
+  ],
+  "_rebol_dark-red": [
+    "r2"
+  ],
+  "_rebol_dark-blue": [
+    "r3"
+  ],
+  "_audio_dark-blue": [
+    "ra",
+    "rm"
+  ],
+  "_perl6_dark-blue": [
+    "rakumod"
+  ],
+  "_raml_medium-cyan": [
+    "raml"
+  ],
+  "_xojo_medium-green": [
+    "rbbas",
+    "xojo_code"
+  ],
+  "_xojo_dark-green": [
+    "rbfrm",
+    "xojo_script"
+  ],
+  "_sorbet_medium-purple": [
+    "rbi"
+  ],
+  "_xojo_dark-cyan": [
+    "rbmnu",
+    "xojo_window"
+  ],
+  "_xojo_medium-cyan": [
+    "rbres"
+  ],
+  "_xojo_medium-blue": [
+    "rbtbar",
+    "xojo_menu"
+  ],
+  "_xojo_dark-blue": [
+    "rbuistate"
+  ],
+  "_lua_dark-purple": [
+    "rbxs"
+  ],
+  "_terminal_dark-blue": [
+    "rc_apple_terminal"
+  ],
+  "_rdata_medium-red": [
+    "rdata"
+  ],
+  "_rdata_medium-orange": [
+    "rdb"
+  ],
+  "_rdoc_medium-red": [
+    "rdoc"
+  ],
+  "_rdata_medium-yellow": [
+    "rds"
+  ],
+  "_rdata_medium-maroon": [
+    "rdx"
+  ],
+  "_reason_medium-red": [
+    "re"
+  ],
+  "_react_medium-blue": [
+    "react.cjs",
+    "react.js",
+    "react.mjs"
+  ],
+  "_reasonstudios_medium-orange": [
+    "reason",
+    "rsn"
+  ],
+  "_rebol_dark-green": [
+    "reb",
+    "rebol"
+  ],
+  "_red_medium-red": [
+    "red"
+  ],
+  "_red_light-red": [
+    "reds"
+  ],
+  "_reek_medium-red": [
+    "reek"
+  ],
+  "_windows_medium-blue": [
+    "reg"
+  ],
+  "_regex_medium-green": [
+    "regex",
+    "regexp"
+  ],
+  "_openpolicy_medium-cyan": [
+    "rego"
+  ],
+  "_remark_dark-yellow": [
+    "rehypeignore"
+  ],
+  "_reason_medium-orange": [
+    "rei"
+  ],
+  "_remark_dark-red": [
+    "remarkignore"
+  ],
+  "_renovate_medium-cyan": [
+    "renovate",
+    "renovate.json",
+    "renovaterc",
+    "renovaterc.json"
+  ],
+  "_source_medium-cyan": [
+    "res"
+  ],
+  "_rescript_medium-red": [
+    "resi"
+  ],
+  "_rst_dark-blue": [
+    "rest",
+    "rest.txt",
+    "rst",
+    "rst.txt"
+  ],
+  "_restql_dark-blue": [
+    "restql",
+    "rql"
+  ],
+  "_remark_dark-green": [
+    "retextignore"
+  ],
+  "_rexx_medium-red": [
+    "rex",
+    "rexx"
+  ],
+  "_config_dark-blue": [
+    "rhashrc",
+    "terminal",
+    "terminalrc"
+  ],
+  "_ring_medium-purple": [
+    "ring"
+  ],
+  "_racket_medium-red": [
+    "rkt"
+  ],
+  "_racket_medium-blue": [
+    "rktd"
+  ],
+  "_racket_light-red": [
+    "rktl"
+  ],
+  "_rust_light-maroon": [
+    "rlib"
+  ],
+  "_rmarkdown_medium-red": [
+    "rmarkdown",
+    "rmd"
+  ],
+  "_manpage_dark-maroon": [
+    "rnh",
+    "rno",
+    "run",
+    "runoff"
+  ],
+  "_reasonstudios_dark-orange": [
+    "rns"
+  ],
+  "_robot_medium-cyan": [
+    "robot"
+  ],
+  "_lua_medium-purple": [
+    "rockspec"
+  ],
+  "_red-hat_medium-red": [
+    "rpm",
+    "rpmmacros"
+  ],
+  "_rstudio_light-blue": [
+    "rproj"
+  ],
+  "_python_medium-pink": [
+    "rpy"
+  ],
+  "_sparql_dark-blue": [
+    "rq"
+  ],
+  "_rust_medium-maroon": [
+    "rs"
+  ],
+  "_rascal_medium-yellow": [
+    "rsc"
+  ],
+  "_android_dark-maroon": [
+    "rsh"
+  ],
+  "_json_medium-blue": [
+    "rsj"
+  ],
+  "_rspec_medium-red": [
+    "rspec"
+  ],
+  "_finder_dark-blue": [
+    "rsrc"
+  ],
+  "_rss_medium-orange": [
+    "rss"
+  ],
+  "_text_dark-red": [
+    "rtf",
+    "uof"
+  ],
+  "_rhino_medium-green": [
+    "rvb"
+  ],
+  "_reasonstudios_medium-red": [
+    "rx2"
+  ],
+  "_asm_dark-green": [
+    "s"
+  ],
+  "_audio_medium-green": [
+    "s3m"
+  ],
+  "_sac_medium-yellow": [
+    "sac"
+  ],
+  "_sage_medium-blue": [
+    "sage"
+  ],
+  "_sage_dark-blue": [
+    "sagews"
+  ],
+  "_dna_dark-yellow": [
+    "sam"
+  ],
+  "_san_medium-cyan": [
+    "san"
+  ],
+  "_sas_medium-blue": [
+    "sas"
+  ],
+  "_sass_dark-pink": [
+    "sass"
+  ],
+  "_ats_dark-yellow": [
+    "sats"
+  ],
+  "_sandbox_dark-orange": [
+    "sb"
+  ],
+  "_scratch_dark-orange": [
+    "sb2"
+  ],
+  "_scratch_medium-orange": [
+    "sb3"
+  ],
+  "_lisp_dark-purple": [
+    "sbclrc"
+  ],
+  "_sbt_dark-purple": [
+    "sbt"
+  ],
+  "_scala_medium-red": [
+    "sc",
+    "scala"
+  ],
+  "_scad_medium-orange": [
+    "scad"
+  ],
+  "_html5_dark-red": [
+    "scaml"
+  ],
+  "_nailpolish_medium-green": [
+    "sc.cjs"
+  ],
+  "_scd_medium-red": [
+    "scd"
+  ],
+  "_scilab_dark-blue": [
+    "sce"
+  ],
+  "_scilab_dark-purple": [
+    "sci"
+  ],
+  "_scilla_medium-orange": [
+    "scilla"
+  ],
+  "_nailpolish_medium-yellow": [
+    "sc.js"
+  ],
+  "_nailpolish_medium-blue": [
+    "sc.jsx",
+    "sc.mjs",
+    "sc.ts"
+  ],
+  "_scheme_medium-red": [
+    "scm"
+  ],
+  "_csound_dark-blue": [
+    "sco"
+  ],
+  "_racket_dark-blue": [
+    "scrbl"
+  ],
+  "_scrutinizer_dark-blue": [
+    "scrutinizer.yml"
+  ],
+  "_sass_light-pink": [
+    "scss"
+  ],
+  "_nailpolish_light-blue": [
+    "sc.tsx"
+  ],
+  "_code_light-cyan": [
+    "scxml"
+  ],
+  "_1c_dark-orange": [
+    "sdbl"
+  ],
+  "_secret": [
+    "secret"
+  ],
+  "_self_dark-blue": [
+    "self"
+  ],
+  "_sentry_medium-red": [
+    "sentryclirc"
+  ],
+  "_sequelize_medium-blue": [
+    "sequelizerc",
+    "sequelizerc.cjs",
+    "sequelizerc.js",
+    "sequelizerc.json",
+    "sequelizerc.mjs"
+  ],
+  "_serverless_medium-red": [
+    "serverless.yaml",
+    "serverless.yml"
+  ],
+  "_ff_dark-blue": [
+    "sfd"
+  ],
+  "_sf_light-orange": [
+    "sfproj"
+  ],
+  "_model_medium-cyan": [
+    "shader"
+  ],
+  "_shen_dark-cyan": [
+    "shen"
+  ],
+  "_filter_medium-red": [
+    "sieve"
+  ],
+  "_code_light-maroon": [
+    "sig"
+  ],
+  "_sigils_dark-red": [
+    "sigils"
+  ],
+  "_objj_dark-red": [
+    "sj"
+  ],
+  "_js_medium-pink": [
+    "sjs"
+  ],
+  "_sketch_medium-orange": [
+    "sketch"
+  ],
+  "_dashboard_medium-orange": [
+    "skim",
+    "slim"
+  ],
+  "_sketchup-mk_medium-red": [
+    "skp"
+  ],
+  "_slash_dark-blue": [
+    "sl"
+  ],
+  "_junos_medium-blue": [
+    "slax"
+  ],
+  "_scheme_medium-blue": [
+    "sld"
+  ],
+  "_matlab_medium-maroon": [
+    "sldd"
+  ],
+  "_graph_medium-cyan": [
+    "slk"
+  ],
+  "_vs_medium-orange": [
+    "sln",
+    "sqlproj"
+  ],
+  "_saltstack_medium-blue": [
+    "sls"
+  ],
+  "_heroku_dark-purple": [
+    "slugignore"
+  ],
+  "_clojure_medium-yellow": [
+    "sma",
+    "sp"
+  ],
+  "_android_medium-green": [
+    "smali"
+  ],
+  "_jest_medium-yellow": [
+    "snap"
+  ],
+  "_audio_medium-yellow": [
+    "sndh"
+  ],
+  "_font-bitmap_dark-orange": [
+    "snf"
+  ],
+  "_snort_light-red": [
+    "snort"
+  ],
+  "_nuget_medium-green": [
+    "snupkg"
+  ],
+  "_snyk_dark-purple": [
+    "snyk"
+  ],
+  "_solidity_dark-cyan": [
+    "sol",
+    "solidity"
+  ],
+  "_caffe_medium-green": [
+    "solverstate"
+  ],
+  "_database_dark-green": [
+    "son",
+    "sy"
+  ],
+  "_closure-tpl_medium-blue": [
+    "soy"
+  ],
+  "_spacemacs_medium-purple": [
+    "spacemacs"
+  ],
+  "_sparql_medium-blue": [
+    "sparql"
+  ],
+  "_spacengine_medium-blue": [
+    "spe"
+  ],
+  "_red-hat_dark-red": [
+    "spec"
+  ],
+  "_test-hs_medium-purple": [
+    "-spec.c2hs",
+    "spec.c2hs",
+    "_spec.c2hs",
+    "-spec.hs",
+    "spec.hs",
+    "_spec.hs",
+    "-spec.hsc",
+    "spec.hsc",
+    "_spec.hsc",
+    "-spec.lhs",
+    "spec.lhs",
+    "_spec.lhs",
+    "-specs.c2hs",
+    "specs.c2hs",
+    "_specs.c2hs",
+    "-specs.hs",
+    "specs.hs",
+    "_specs.hs",
+    "-specs.hsc",
+    "specs.hsc",
+    "_specs.hsc",
+    "-specs.lhs",
+    "specs.lhs",
+    "_specs.lhs",
+    "-test.c2hs",
+    "test.c2hs",
+    "_test.c2hs",
+    "-test.hs",
+    "test.hs",
+    "_test.hs",
+    "-test.hsc",
+    "test.hsc",
+    "_test.hsc",
+    "-test.lhs",
+    "test.lhs",
+    "_test.lhs",
+    "-tests.c2hs",
+    "tests.c2hs",
+    "_tests.c2hs",
+    "-tests.hs",
+    "tests.hs",
+    "_tests.hs",
+    "-tests.hsc",
+    "tests.hsc",
+    "_tests.hsc",
+    "-tests.lhs",
+    "tests.lhs",
+    "_tests.lhs"
+  ],
+  "_test-js_medium-green": [
+    "-spec.cjs",
+    "spec.cjs",
+    "_spec.cjs",
+    "-specs.cjs",
+    "specs.cjs",
+    "_specs.cjs",
+    "-test.cjs",
+    "test.cjs",
+    "_test.cjs",
+    "-tests.cjs",
+    "tests.cjs",
+    "_tests.cjs"
+  ],
+  "_test-coffee_medium-maroon": [
+    "-spec.cjsx",
+    "spec.cjsx",
+    "_spec.cjsx",
+    "-spec.coffee",
+    "spec.coffee",
+    "_spec.coffee",
+    "-spec.iced",
+    "spec.iced",
+    "_spec.iced",
+    "-spec.litcoffee",
+    "spec.litcoffee",
+    "_spec.litcoffee",
+    "-specs.cjsx",
+    "specs.cjsx",
+    "_specs.cjsx",
+    "-specs.coffee",
+    "specs.coffee",
+    "_specs.coffee",
+    "-specs.iced",
+    "specs.iced",
+    "_specs.iced",
+    "-specs.litcoffee",
+    "specs.litcoffee",
+    "_specs.litcoffee",
+    "-test.cjsx",
+    "test.cjsx",
+    "_test.cjsx",
+    "-test.coffee",
+    "test.coffee",
+    "_test.coffee",
+    "-test.iced",
+    "test.iced",
+    "_test.iced",
+    "-test.litcoffee",
+    "test.litcoffee",
+    "_test.litcoffee",
+    "-tests.cjsx",
+    "tests.cjsx",
+    "_tests.cjsx",
+    "-tests.coffee",
+    "tests.coffee",
+    "_tests.coffee",
+    "-tests.iced",
+    "tests.iced",
+    "_tests.iced",
+    "-tests.litcoffee",
+    "tests.litcoffee",
+    "_tests.litcoffee"
+  ],
+  "_test-js_medium-yellow": [
+    "-spec.es",
+    "spec.es",
+    "_spec.es",
+    "-spec.js",
+    "-spec._js",
+    "spec.js",
+    "spec._js",
+    "_spec.js",
+    "_spec._js",
+    "-spec.jsb",
+    "spec.jsb",
+    "_spec.jsb",
+    "-spec.jsm",
+    "spec.jsm",
+    "_spec.jsm",
+    "-spec.jss",
+    "spec.jss",
+    "_spec.jss",
+    "-specs.es",
+    "specs.es",
+    "_specs.es",
+    "-spec.sjs",
+    "-specs.js",
+    "-specs._js",
+    "spec.sjs",
+    "specs.js",
+    "specs._js",
+    "_spec.sjs",
+    "_specs.js",
+    "_specs._js",
+    "-specs.jsb",
+    "specs.jsb",
+    "_specs.jsb",
+    "-specs.jsm",
+    "specs.jsm",
+    "_specs.jsm",
+    "-specs.jss",
+    "specs.jss",
+    "_specs.jss",
+    "-specs.sjs",
+    "specs.sjs",
+    "_specs.sjs",
+    "-test.es",
+    "test.es",
+    "_test.es",
+    "-test.js",
+    "-test._js",
+    "test.js",
+    "test._js",
+    "_test.js",
+    "_test._js",
+    "-test.jsb",
+    "test.jsb",
+    "_test.jsb",
+    "-test.jsm",
+    "test.jsm",
+    "_test.jsm",
+    "-test.jss",
+    "test.jss",
+    "_test.jss",
+    "-tests.es",
+    "tests.es",
+    "_tests.es",
+    "-test.sjs",
+    "-tests.js",
+    "-tests._js",
+    "test.sjs",
+    "tests.js",
+    "tests._js",
+    "_test.sjs",
+    "_tests.js",
+    "_tests._js",
+    "-tests.jsb",
+    "tests.jsb",
+    "_tests.jsb",
+    "-tests.jsm",
+    "tests.jsm",
+    "_tests.jsm",
+    "-tests.jss",
+    "tests.jss",
+    "_tests.jss",
+    "-tests.sjs",
+    "tests.sjs",
+    "_tests.sjs"
+  ],
+  "_test-go_medium-cyan": [
+    "-spec.go",
+    "spec.go",
+    "_spec.go",
+    "-specs.go",
+    "specs.go",
+    "_specs.go",
+    "-test.go",
+    "test.go",
+    "_test.go",
+    "-tests.go",
+    "tests.go",
+    "_tests.go"
+  ],
+  "_test-react_medium-blue": [
+    "-spec.jsx",
+    "spec.jsx",
+    "_spec.jsx",
+    "-spec.react.cjs",
+    "spec.react.cjs",
+    "_spec.react.cjs",
+    "-spec.react.js",
+    "spec.react.js",
+    "_spec.react.js",
+    "-spec.react.mjs",
+    "spec.react.mjs",
+    "_spec.react.mjs",
+    "-specs.jsx",
+    "specs.jsx",
+    "_specs.jsx",
+    "-specs.react.cjs",
+    "specs.react.cjs",
+    "_specs.react.cjs",
+    "-specs.react.js",
+    "specs.react.js",
+    "_specs.react.js",
+    "-specs.react.mjs",
+    "specs.react.mjs",
+    "_specs.react.mjs",
+    "-test.jsx",
+    "test.jsx",
+    "_test.jsx",
+    "-test.react.cjs",
+    "test.react.cjs",
+    "_test.react.cjs",
+    "-test.react.js",
+    "test.react.js",
+    "_test.react.js",
+    "-test.react.mjs",
+    "test.react.mjs",
+    "_test.react.mjs",
+    "-tests.jsx",
+    "tests.jsx",
+    "_tests.jsx",
+    "-tests.react.cjs",
+    "tests.react.cjs",
+    "_tests.react.cjs",
+    "-tests.react.js",
+    "tests.react.js",
+    "_tests.react.js",
+    "-tests.react.mjs",
+    "tests.react.mjs",
+    "_tests.react.mjs"
+  ],
+  "_test-js_medium-blue": [
+    "-spec.mjs",
+    "spec.mjs",
+    "_spec.mjs",
+    "-specs.mjs",
+    "specs.mjs",
+    "_specs.mjs",
+    "-test.mjs",
+    "test.mjs",
+    "_test.mjs",
+    "-tests.mjs",
+    "tests.mjs",
+    "_tests.mjs"
+  ],
+  "_test-ruby_medium-red": [
+    "-spec.rb",
+    "spec.rb",
+    "_spec.rb",
+    "-spec.ruby",
+    "spec.ruby",
+    "_spec.ruby",
+    "-specs.rb",
+    "specs.rb",
+    "_specs.rb",
+    "-specs.ruby",
+    "specs.ruby",
+    "_specs.ruby",
+    "-test.rb",
+    "test.rb",
+    "_test.rb",
+    "-test.ruby",
+    "test.ruby",
+    "_test.ruby",
+    "-tests.rb",
+    "tests.rb",
+    "_tests.rb",
+    "-tests.ruby",
+    "tests.ruby",
+    "_tests.ruby"
+  ],
+  "_test-rust_medium-maroon": [
+    "-spec.rs",
+    "spec.rs",
+    "_spec.rs",
+    "-specs.rs",
+    "specs.rs",
+    "_specs.rs",
+    "-test.rs",
+    "test.rs",
+    "_test.rs",
+    "-tests.rs",
+    "tests.rs",
+    "_tests.rs"
+  ],
+  "_test-ts_medium-blue": [
+    "-specs.ts",
+    "specs.ts",
+    "_specs.ts",
+    "-spec.ts",
+    "spec.ts",
+    "_spec.ts",
+    "-tests.ts",
+    "tests.ts",
+    "_tests.ts",
+    "-test.ts",
+    "test.ts",
+    "_test.ts"
+  ],
+  "_test-ts_light-blue": [
+    "-specs.tsx",
+    "specs.tsx",
+    "_specs.tsx",
+    "-spec.tsx",
+    "spec.tsx",
+    "_spec.tsx",
+    "-tests.tsx",
+    "tests.tsx",
+    "_tests.tsx",
+    "-test.tsx",
+    "test.tsx",
+    "_test.tsx"
+  ],
+  "_propeller_medium-orange": [
+    "spin"
+  ],
+  "_scheme_medium-purple": [
+    "sps"
+  ],
+  "_sql_medium-green": [
+    "spsql",
+    "udf"
+  ],
+  "_sqf_dark-maroon": [
+    "sqf"
+  ],
+  "_sqlite_medium-blue": [
+    "sqlite"
+  ],
+  "_sqlite_dark-blue": [
+    "sqlite3"
+  ],
+  "_sqlite_dark-cyan": [
+    "sqlite_history"
+  ],
+  "_powerbuilder_medium-purple": [
+    "srj"
+  ],
+  "_powerbuilder_medium-maroon": [
+    "srp"
+  ],
+  "_powerbuilder_medium-orange": [
+    "sru"
+  ],
+  "_powerbuilder_medium-red": [
+    "srw"
+  ],
+  "_silverstripe_medium-blue": [
+    "ss"
+  ],
+  "_postcss_dark-pink": [
+    "sss"
+  ],
+  "_stan_medium-red": [
+    "stan"
+  ],
+  "_stylable_medium-green": [
+    "st.css"
+  ],
+  "_stencil_medium-orange": [
+    "stencil"
+  ],
+  "_stata_medium-purple": [
+    "sthlp"
+  ],
+  "_storybook_medium-orange": [
+    "stories.cjs",
+    "stories.js",
+    "stories.jsx",
+    "stories.mjs",
+    "story.cjs",
+    "story.js",
+    "story.jsx",
+    "story.mjs"
+  ],
+  "_storybook_medium-blue": [
+    "stories.ts",
+    "stories.tsx",
+    "story.ts",
+    "story.tsx"
+  ],
+  "_storyist_medium-blue": [
+    "story"
+  ],
+  "_strings_medium-red": [
+    "strings"
+  ],
+  "_sublime_medium-orange": [
+    "sttheme",
+    "sublime-build",
+    "sublime_build",
+    "sublime-commands",
+    "sublime_commands",
+    "sublime-completions",
+    "sublime_completions",
+    "sublime-keymap",
+    "sublime_keymap",
+    "sublime-macro",
+    "sublime_macro",
+    "sublime-menu",
+    "sublime_menu",
+    "sublime-metrics",
+    "sublime_metrics",
+    "sublime-mousemap",
+    "sublime_mousemap",
+    "sublime-project",
+    "sublime_project",
+    "sublime-session",
+    "sublime_session",
+    "sublime-settings",
+    "sublime_settings",
+    "sublime-snippet",
+    "sublime_snippet",
+    "sublime-theme",
+    "sublime_theme",
+    "sublime-workspace",
+    "sublime_workspace"
+  ],
+  "_tex_medium-red": [
+    "sty",
+    "texi",
+    "texinfo",
+    "txi"
+  ],
+  "_stylus_medium-green": [
+    "styl",
+    "stylus"
+  ],
+  "_sketchup-sb_medium-red": [
+    "style"
+  ],
+  "_stylelint_dark-blue": [
+    "stylelintcache",
+    "stylelintignore"
+  ],
+  "_sublime_dark-orange": [
+    "sublime-syntax"
+  ],
+  "_sysverilog_medium-blue": [
+    "sv"
+  ],
+  "_svelte_medium-orange": [
+    "svelte"
+  ],
+  "_svg_dark-yellow": [
+    "svg"
+  ],
+  "_sysverilog_medium-green": [
+    "svh"
+  ],
+  "_swagger_dark-green": [
+    "swagger-codegen-ignore"
+  ],
+  "_as_dark-red": [
+    "swc"
+  ],
+  "_as_medium-blue": [
+    "swf"
+  ],
+  "_swift_medium-orange": [
+    "swift"
+  ],
+  "_reasonstudios_medium-yellow": [
+    "sxt"
+  ],
+  "_database_medium-blue": [
+    "syntax",
+    "tgn",
+    "webmanifest"
+  ],
+  "_test-perl_medium-blue": [
+    "t"
+  ],
+  "_graph_light-green": [
+    "tab",
+    "tsv"
+  ],
+  "_python_dark-pink": [
+    "tac"
+  ],
+  "_riot_medium-red": [
+    "tag"
+  ],
+  "_tcl_dark-orange": [
+    "tcl"
+  ],
+  "_coffee_medium-orange": [
+    "tea"
+  ],
+  "_tern_medium-purple": [
+    "tern-config"
+  ],
+  "_tern_medium-blue": [
+    "tern-project"
+  ],
+  "_model_medium-green": [
+    "tesc",
+    "tese",
+    "x"
+  ],
+  "_test-generic_medium-green": [
+    "test"
+  ],
+  "_textile_medium-orange": [
+    "textile"
+  ],
+  "_terraform_dark-purple": [
+    "tf",
+    "tfvars"
+  ],
+  "_tfs_dark-purple": [
+    "tfignore"
+  ],
+  "_terraform_medium-yellow": [
+    "tf.json"
+  ],
+  "_font_dark-green": [
+    "tfm",
+    "ttc"
+  ],
+  "_terraform_medium-cyan": [
+    "tfstate",
+    "tfstate.backup"
+  ],
+  "_paintcan_medium-purple": [
+    "theme"
+  ],
+  "_thor_medium-orange": [
+    "thor"
+  ],
+  "_apache_medium-green": [
+    "thrift"
+  ],
+  "_isabelle_dark-red": [
+    "thy"
+  ],
+  "_sourcemap_dark-green": [
+    "tiny"
+  ],
+  "_tipe_medium-cyan": [
+    "tipe"
+  ],
+  "_telegram_medium-blue": [
+    "tl"
+  ],
+  "_tla_medium-maroon": [
+    "tla"
+  ],
+  "_tag_medium-maroon": [
+    "tld"
+  ],
+  "_totvs_dark-blue": [
+    "tlpp"
+  ],
+  "_tcl_medium-red": [
+    "tm"
+  ],
+  "_textmate_medium-green": [
+    "tmcg"
+  ],
+  "_textmate_medium-blue": [
+    "tmcommand"
+  ],
+  "_textmate_dark-purple": [
+    "tmlanguage"
+  ],
+  "_textmate_medium-maroon": [
+    "tmmacro"
+  ],
+  "_textmate_dark-blue": [
+    "tmpreferences"
+  ],
+  "_textmate_medium-pink": [
+    "tm_properties",
+    "tmproperties",
+    "tmtheme"
+  ],
+  "_textmate_dark-orange": [
+    "tmsnippet"
+  ],
+  "_terminal_medium-blue": [
+    "tmux",
+    "zsh",
+    "zsh_history",
+    "zsh-theme"
+  ],
+  "_tmux_medium-green": [
+    "tmux.conf",
+    "_tmux.conf"
+  ],
+  "_toc_medium-cyan": [
+    "toc"
+  ],
+  "_toml_medium-green": [
+    "toml"
+  ],
+  "_smarty_medium-yellow": [
+    "tpl"
+  ],
+  "_godot_medium-cyan": [
+    "tres"
+  ],
+  "_ftr_medium-red": [
+    "trm"
+  ],
+  "_godot_medium-green": [
+    "tscn"
+  ],
+  "_typo3_medium-orange": [
+    "tsconfig",
+    "typoscript"
+  ],
+  "_css3_dark-red": [
+    "tss"
+  ],
+  "_scilab_dark-cyan": [
+    "tst"
+  ],
+  "_tsx_light-blue": [
+    "tsx"
+  ],
+  "_tt_medium-blue": [
+    "tt",
+    "tt2"
+  ],
+  "_tt_medium-purple": [
+    "tt3"
+  ],
+  "_ttcn3_medium-blue": [
+    "ttcn",
+    "ttcn3"
+  ],
+  "_font_medium-green": [
+    "ttf"
+  ],
+  "_turing_medium-red": [
+    "tu"
+  ],
+  "_twine_medium-blue": [
+    "tw"
+  ],
+  "_twig_medium-green": [
+    "twig"
+  ],
+  "_txl_medium-orange": [
+    "txl"
+  ],
+  "_unreal_dark-blue": [
+    "uasset"
+  ],
+  "_unreal_medium-grey": [
+    "uc"
+  ],
+  "_csound_dark-orange": [
+    "udo"
+  ],
+  "_unibeautify_dark-cyan": [
+    "unibeautifyrc"
+  ],
+  "_unibeautify_medium-orange": [
+    "unibeautifyrc.cjs",
+    "unibeautifyrc.js",
+    "unibeautifyrc.json",
+    "unibeautifyrc.mjs"
+  ],
+  "_unibeautify_medium-yellow": [
+    "unibeautifyrc.yaml",
+    "unibeautifyrc.yml"
+  ],
+  "_scales_medium-green": [
+    "units"
+  ],
+  "_unity3d_medium-blue": [
+    "unity"
+  ],
+  "_unity3d_medium-maroon": [
+    "unityproj"
+  ],
+  "_uno_dark-blue": [
+    "uno"
+  ],
+  "_sourcemap_light-cyan": [
+    "unpick"
+  ],
+  "_text_medium-green": [
+    "uos",
+    "weechatlog"
+  ],
+  "_c_medium-cyan": [
+    "upc"
+  ],
+  "_print_medium-orange": [
+    "upp"
+  ],
+  "_urweb_medium-maroon": [
+    "ur"
+  ],
+  "_link_dark-blue": [
+    "url"
+  ],
+  "_urweb_dark-blue": [
+    "urs"
+  ],
+  "_text_medium-cyan": [
+    "utf8",
+    "utxt"
+  ],
+  "_code_light-orange": [
+    "ux"
+  ],
+  "_v_medium-blue": [
+    "v"
+  ],
+  "_vala_medium-purple": [
+    "vala"
+  ],
+  "_vala_dark-purple": [
+    "vapi"
+  ],
+  "_gosu_dark-blue": [
+    "vark"
+  ],
+  "_asm-vax_medium-maroon": [
+    "vax",
+    "vmasm"
+  ],
+  "_vs_medium-red": [
+    "vbhtml"
+  ],
+  "_gimp_medium-cyan": [
+    "vbr"
+  ],
+  "_vs_medium-green": [
+    "vbs"
+  ],
+  "_varnish_dark-blue": [
+    "vcl"
+  ],
+  "_vs_medium-purple": [
+    "vcxitems",
+    "vstemplate"
+  ],
+  "_visio_dark-purple": [
+    "vdw"
+  ],
+  "_visio_medium-red": [
+    "vdx"
+  ],
+  "_verilog_medium-red": [
+    "veo"
+  ],
+  "_vertex_medium-blue": [
+    "vert",
+    "vertex",
+    "vrx",
+    "vsh",
+    "vshader"
+  ],
+  "_houdini_medium-cyan": [
+    "vfl"
+  ],
+  "_sysverilog_medium-cyan": [
+    "vh"
+  ],
+  "_virtualbox_medium-green": [
+    "vhd"
+  ],
+  "_vhdl_dark-green": [
+    "vhdl"
+  ],
+  "_virtualbox_dark-green": [
+    "vhdx"
+  ],
+  "_vhdl_dark-blue": [
+    "vhf"
+  ],
+  "_vhdl_medium-blue": [
+    "vhi"
+  ],
+  "_vhdl_dark-purple": [
+    "vho"
+  ],
+  "_apache_dark-green": [
+    "vhost"
+  ],
+  "_vhdl_medium-purple": [
+    "vhs"
+  ],
+  "_vhdl_dark-red": [
+    "vht"
+  ],
+  "_vhdl_dark-orange": [
+    "vhw"
+  ],
+  "_emacs_dark-green": [
+    "viper"
+  ],
+  "_sql_dark-cyan": [
+    "viw"
+  ],
+  "_velocity_dark-blue": [
+    "vm"
+  ],
+  "_vim_dark-green": [
+    "vmb"
+  ],
+  "_vmware_medium-orange": [
+    "vmdk",
+    "vmx",
+    "vmxf"
+  ],
+  "_source_medium-maroon": [
+    "vmf"
+  ],
+  "_vmware_medium-green": [
+    "vmsd",
+    "vmsn"
+  ],
+  "_source_medium-blue": [
+    "vmt"
+  ],
+  "_vmware_medium-red": [
+    "vmtm"
+  ],
+  "_phalcon_medium-cyan": [
+    "volt"
+  ],
+  "_source_medium-red": [
+    "vpk"
+  ],
+  "_visio_medium-cyan": [
+    "vrd"
+  ],
+  "_vray_medium-grey": [
+    "vrimg"
+  ],
+  "_visio_medium-blue": [
+    "vsd"
+  ],
+  "_visio_dark-maroon": [
+    "vsdm"
+  ],
+  "_visio_dark-blue": [
+    "vsdx",
+    "vss",
+    "vssm",
+    "vssx",
+    "vst",
+    "vstm",
+    "vstx"
+  ],
+  "_vs_medium-cyan": [
+    "vsix"
+  ],
+  "_vs_dark-orange": [
+    "vsixmanifest"
+  ],
+  "_visio_medium-orange": [
+    "vsl"
+  ],
+  "_vs_dark-green": [
+    "vssettings",
+    "vssettings.json"
+  ],
+  "_visio_medium-green": [
+    "vsw"
+  ],
+  "_visio_dark-red": [
+    "vsx",
+    "vtx"
+  ],
+  "_source_dark-blue": [
+    "vtf"
+  ],
+  "_source_dark-red": [
+    "vtfx"
+  ],
+  "_webvtt_dark-blue": [
+    "vtt"
+  ],
+  "_vue_light-green": [
+    "vue"
+  ],
+  "_code_light-purple": [
+    "vxml"
+  ],
+  "_vyper_medium-grey": [
+    "vy"
+  ],
+  "_c_medium-maroon": [
+    "w"
+  ],
+  "_walt_medium-purple": [
+    "walt"
+  ],
+  "_wasm_medium-red": [
+    "wasm"
+  ],
+  "_wasm_medium-blue": [
+    "wast",
+    "wat"
+  ],
+  "_watchman_medium-blue": [
+    "watchmanconfig"
+  ],
+  "_ruby_dark-yellow": [
+    "watchr"
+  ],
+  "_audio_dark-yellow": [
+    "wav"
+  ],
+  "_image_dark-grey": [
+    "wbmp"
+  ],
+  "_warcraft3_dark-orange": [
+    "wc3"
+  ],
+  "_wdl_medium-blue": [
+    "wdl"
+  ],
+  "_firefox_medium-orange": [
+    "webapp"
+  ],
+  "_safari_medium-blue": [
+    "webarchive"
+  ],
+  "_android_dark-cyan": [
+    "webarchivexml"
+  ],
+  "_webgl_dark-red": [
+    "webgl"
+  ],
+  "_webpack_medium-blue": [
+    "webpack.cjs",
+    "webpack.coffee",
+    "webpackfile.cjs",
+    "webpackfile.coffee",
+    "webpackfile.js",
+    "webpackfile.json",
+    "webpackfile.jsx",
+    "webpackfile.litcoffee",
+    "webpackfile.mjs",
+    "webpackfile.ts",
+    "webpackfile.tsx",
+    "webpack.js",
+    "webpack.json",
+    "webpack.jsx",
+    "webpack.litcoffee",
+    "webpack.mjs",
+    "webpack.ts",
+    "webpack.tsx"
+  ],
+  "_wget_medium-maroon": [
+    "wget-hsts"
+  ],
+  "_wget_medium-purple": [
+    "wgetrc"
+  ],
+  "_mediawiki_medium-orange": [
+    "wiki"
+  ],
+  "_wix_medium-maroon": [
+    "wix",
+    "wxl"
+  ],
+  "_wix_medium-red": [
+    "wixobj"
+  ],
+  "_wix_medium-orange": [
+    "wixproj",
+    "wxi"
+  ],
+  "_wolfram_medium-red": [
+    "wl"
+  ],
+  "_wolfram_dark-red": [
+    "wls"
+  ],
+  "_wolfram_medium-orange": [
+    "wlt"
+  ],
+  "_lua_dark-red": [
+    "wlua"
+  ],
+  "_audio_medium-blue": [
+    "wma"
+  ],
+  "_font_medium-blue": [
+    "woff"
+  ],
+  "_font_dark-blue": [
+    "woff2"
+  ],
+  "_xamarin_light-blue": [
+    "workbook"
+  ],
+  "_hashicorp_medium-cyan": [
+    "workflow"
+  ],
+  "_word_medium-orange": [
+    "wri"
+  ],
+  "_wurst_medium-maroon": [
+    "wurst"
+  ],
+  "_wechat_medium-green": [
+    "wxml"
+  ],
+  "_wix_dark-purple": [
+    "wxs"
+  ],
+  "_wechat_medium-blue": [
+    "wxss"
+  ],
+  "_wenyan_light-orange": [
+    "wy"
+  ],
+  "_x10_light-maroon": [
+    "x10"
+  ],
+  "_winui_medium-blue": [
+    "xaml"
+  ],
+  "_zip_dark-orange": [
+    "xar"
+  ],
+  "_x11_medium-orange": [
+    "xauthority",
+    "xclients",
+    "xinitrc",
+    "xinputrc",
+    "xprofile",
+    "xresources",
+    "xscreensaver",
+    "xsession-errors"
+  ],
+  "_c_medium-orange": [
+    "xbm"
+  ],
+  "_xmos_medium-orange": [
+    "xc"
+  ],
+  "_appstore_medium-orange": [
+    "xccheckout"
+  ],
+  "_gimp_medium-red": [
+    "xcf"
+  ],
+  "_appstore_dark-purple": [
+    "xcplugindata"
+  ],
+  "_appstore_dark-cyan": [
+    "xcrequiredplugins",
+    "xcuserstate"
+  ],
+  "_appstore_medium-purple": [
+    "xcscheme"
+  ],
+  "_appstore_dark-blue": [
+    "xcscmblueprint"
+  ],
+  "_appstore_medium-green": [
+    "xcsettings"
+  ],
+  "_appstore_dark-red": [
+    "xcworkspacedata"
+  ],
+  "_html5_medium-maroon": [
+    "xht"
+  ],
+  "_mobile_dark-red": [
+    "xi"
+  ],
+  "_excel_medium-orange": [
+    "xla"
+  ],
+  "_excel_dark-red": [
+    "xlam"
+  ],
+  "_excel_dark-orange": [
+    "xls"
+  ],
+  "_excel_medium-red": [
+    "xlsb"
+  ],
+  "_excel_medium-green": [
+    "xlsm"
+  ],
+  "_excel_dark-green": [
+    "xlsx"
+  ],
+  "_excel_dark-cyan": [
+    "xlt"
+  ],
+  "_excel_medium-maroon": [
+    "xltm"
+  ],
+  "_excel_dark-maroon": [
+    "xltx"
+  ],
+  "_mobile_dark-blue": [
+    "xm"
+  ],
+  "_xojo_medium-red": [
+    "xojo_report"
+  ],
+  "_xojo_dark-purple": [
+    "xojo_toolbar"
+  ],
+  "_xmos_dark-blue": [
+    "xpl"
+  ],
+  "_xmos_medium-purple": [
+    "xproc"
+  ],
+  "_telegram_light-blue": [
+    "xps"
+  ],
+  "_python_medium-yellow": [
+    "xpy"
+  ],
+  "_erlang_medium-green": [
+    "xrl"
+  ],
+  "_xpages_medium-blue": [
+    "xsp-config"
+  ],
+  "_test-generic_dark-green": [
+    "xspec"
+  ],
+  "_xpages_dark-blue": [
+    "xsp.metadata"
+  ],
+  "_xtend_dark-purple": [
+    "xtend"
+  ],
+  "_scheme_medium-yellow": [
+    "xtm"
+  ],
+  "_image_dark-purple": [
+    "xwd"
+  ],
+  "_zip": [
+    "xz",
+    "z",
+    "zip"
+  ],
+  "_zork_dark-green": [
+    "xzap"
+  ],
+  "_bison_dark-green": [
+    "y"
+  ],
+  "_bison_medium-green": [
+    "yacc"
+  ],
+  "_yaml_medium-red": [
+    "yaml",
+    "yml"
+  ],
+  "_yaml_medium-orange": [
+    "yaml.mysql",
+    "yml.mysql"
+  ],
+  "_yaml_dark-green": [
+    "yaml.sed",
+    "yml.sed"
+  ],
+  "_textmate_medium-orange": [
+    "yaml-tmlanguage"
+  ],
+  "_yang_medium-yellow": [
+    "yang"
+  ],
+  "_archlinux_light-yellow": [
+    "yaourtrc"
+  ],
+  "_prolog_medium-purple": [
+    "yap"
+  ],
+  "_yara_medium-red": [
+    "yar",
+    "yara"
+  ],
+  "_yarn_dark-blue": [
+    "yarnclean",
+    "yarn-integrity",
+    "yarnrc"
+  ],
+  "_yarn_medium-blue": [
+    "yarn-metadata",
+    "yarn-metadata.json"
+  ],
+  "_book_medium-red": [
+    "yo"
+  ],
+  "_yeoman_medium-cyan": [
+    "yo-rc.json"
+  ],
+  "_yorick_medium-orange": [
+    "yorick"
+  ],
+  "_bison_medium-cyan": [
+    "ypp",
+    "yy"
+  ],
+  "_erlang_dark-green": [
+    "yrl"
+  ],
+  "_n64_dark-green": [
+    "z64"
+  ],
+  "_asm-zilog_medium-yellow": [
+    "z80"
+  ],
+  "_zork_medium-red": [
+    "zabst",
+    "zabstr"
+  ],
+  "_zork_dark-cyan": [
+    "zap"
+  ],
+  "_zephir_medium-pink": [
+    "zep"
+  ],
+  "_zig_medium-orange": [
+    "zig"
+  ],
+  "_zork_dark-blue": [
+    "zil"
+  ],
+  "_zimpl_medium-orange": [
+    "zimpl",
+    "zmpl",
+    "zpl"
+  ],
+  "_warcraft3_medium-maroon": [
+    "zn"
+  ],
+  "_earth_medium-blue": [
+    "zone"
+  ],
+  "_zbrush_dark-purple": [
+    "zpr"
+  ],
+  "_crafttweaker_medium-maroon": [
+    "zs"
+  ],
+  "_zbrush_medium-red": [
+    "ztl"
+  ]
+}

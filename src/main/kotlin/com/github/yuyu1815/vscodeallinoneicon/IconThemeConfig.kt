@@ -14,7 +14,7 @@ import com.intellij.util.xmlb.XmlSerializerUtil
     name = "IconThemeSettings",
     storages = [Storage("vscode-all-in-one-icon-settings.json")]
 )
-@Service(Service.Level.PROJECT)
+@Service(Service.Level.APP)
 class IconThemeConfig : PersistentStateComponent<IconThemeConfig.State> {
 
     data class State(

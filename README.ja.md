@@ -11,7 +11,6 @@ JetBrains IDE に美しい VS Code スタイルのファイル・フォルダア
 - 2,000以上のファイル・フォルダアイコン
 - 多言語UI（English, 日本語, 简体中文, 한국어）
 - 簡単なテーマ切り替え
-- プロジェクトごとの設定
 <!-- Plugin description end -->
 
 ![Build](https://github.com/yuyu1815/vscode-all-in-one-icon/workflows/Build/badge.svg)
@@ -32,6 +31,16 @@ JetBrains IDE に美しい VS Code スタイルのファイル・フォルダア
   - シンプルなプロジェクトレベル設定
   - プロジェクト毎にカスタムアイコンの有効/無効切り替え
   - 再起動なしでテーマを即時切り替え
+
+## マーケットプレイス
+
+**📦 JetBrains Marketplace で入手可能**
+
+[![バージョン](https://img.shields.io/jetbrains/plugin/v/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![ダウンロード](https://img.shields.io/jetbrains/plugin/d/30077-vscode-all-in-one-icon)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![評価](https://img.shields.io/jetbrains/plugin/r/rating/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon/reviews)
+
+👉 **[JetBrains Marketplace から入手](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)**
 
 ## インストール
 

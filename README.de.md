@@ -11,7 +11,6 @@ Ein IntelliJ IDEA-Plugin, das schöne VS Code-Stil Datei- und Ordnersymbole in I
 - 2.000+ Datei- und Ordnersymbole
 - Mehrsprachige Benutzeroberfläche (English, 日本語, 简体中文, 한국어, Deutsch)
 - Einfacher Themenwechsel
-- Projektebene Konfiguration
 <!-- Plugin description end -->
 
 ![Build](https://github.com/yuyu1815/vscode-all-in-one-icon/workflows/Build/badge.svg)
@@ -32,6 +31,16 @@ Ein IntelliJ IDEA-Plugin, das schöne VS Code-Stil Datei- und Ordnersymbole in I
   - Einfache Einstellungen auf Projektebene
   - Benutzerdefinierte Symbole pro Projekt aktivieren/deaktivieren
   - Themen sofort wechseln ohne Neustart
+
+## Marktplatz
+
+**📦 Verfügbar im JetBrains Marketplace**
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30077-vscode-all-in-one-icon)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![Bewertung](https://img.shields.io/jetbrains/plugin/r/rating/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon/reviews)
+
+👉 **[JetBrains Marketplace besuchen](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)**
 
 ## Installation
 

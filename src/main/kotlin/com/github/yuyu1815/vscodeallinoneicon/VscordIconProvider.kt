@@ -9,15 +9,23 @@ import javax.swing.Icon
 class VscordIconProvider : FileIconProvider {
     override fun getIcon(file: VirtualFile, flags: Int, project: Project?): Icon? {
         // Return null if plugin is disabled (uses default IDE icons)
-        val config = project?.let { IconThemeConfig.getInstance() }
-        if (config?.isEnabled() == false) return null
+        val config = IconThemeConfig.getInstance()
+        if (!config.isEnabled()) {
+            println("[VscordIconProvider] Plugin is disabled")
+            return null
+        }
 
         // Set themes in priority order for resolution
-        val activeThemes = config?.getActiveThemes() ?: listOf(IconTheme.VSCODE_ICONS)
+        val activeThemes = config.getActiveThemes()
         IconResolver.setThemes(activeThemes)
 
         // Resolve icon name with fallback
         val result = IconResolver.resolveIconName(file.name, file.isDirectory)
+        
+        // Debug logging
+        if (file.isDirectory) {
+            println("[VscordIconProvider] Folder: ${file.name}, Result: ${result?.iconName}, Theme: ${result?.theme}")
+        }
 
         return result?.let {
             loadIcon(it.iconName, file.isDirectory, it.theme)

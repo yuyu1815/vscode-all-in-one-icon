@@ -11,7 +11,6 @@
 - 2,000+ 文件和文件夹图标
 - 多语言界面（English, 日本語, 简体中文, 한국어）
 - 轻松切换主题
-- 项目级配置
 <!-- Plugin description end -->
 
 ![Build](https://github.com/yuyu1815/vscode-all-in-one-icon/workflows/Build/badge.svg)
@@ -32,6 +31,16 @@
   - 简单的项目级设置
   - 按项目启用/禁用自定义图标
   - 无需重启即可切换主题
+
+## 插件市场
+
+**📦 已在 JetBrains Marketplace 上架**
+
+[![版本](https://img.shields.io/jetbrains/plugin/v/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![下载量](https://img.shields.io/jetbrains/plugin/d/30077-vscode-all-in-one-icon)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![评分](https://img.shields.io/jetbrains/plugin/r/rating/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon/reviews)
+
+👉 **[前往 JetBrains Marketplace 下载](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)**
 
 ## 安装
 

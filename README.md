@@ -13,7 +13,6 @@ An IntelliJ IDEA plugin that brings beautiful VS Code-style file and folder icon
 - 2,000+ file and folder icons
 - Multi-language UI (English, 日本語, 简体中文, 한국어)
 - Easy theme switching
-- Project-level configuration
 <!-- Plugin description end -->
 
 ![Build](https://github.com/yuyu1815/vscode-all-in-one-icon/workflows/Build/badge.svg)
@@ -34,6 +33,16 @@ An IntelliJ IDEA plugin that brings beautiful VS Code-style file and folder icon
   - Simple project-level settings
   - Enable/disable custom icons per project
   - Switch themes instantly without restart
+
+## Marketplace
+
+**📦 Available on JetBrains Marketplace**
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30077-vscode-all-in-one-icon)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30077)](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon/reviews)
+
+👉 **[Get it from JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30077-vscode-all-in-one-icon)**
 
 ## Installation
 

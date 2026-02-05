@@ -8,7 +8,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <fileIconProvider implementation="com.github.yuyu1815.vscodeallinoneicon.VscordIconProvider"/>
-        <projectService serviceImplementation="com.github.yuyu1815.vscodeallinoneicon.IconThemeConfig"/>
+        <applicationService serviceImplementation="com.github.yuyu1815.vscodeallinoneicon.IconThemeConfig"/>
         <projectConfigurable parentId="tools" 
                            id="iconThemeSettings" 
                            displayName="Icon Theme Settings"

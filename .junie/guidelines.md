@@ -64,7 +64,7 @@ This document provides guidelines for AI agents and developers to work efficient
 
 ### JDK Setup
 ```powershell
-$env:JAVA_HOME = "C:\Users\yuzum\.jdks\ms-21.0.10"
+$env:JAVA_HOME = "<path-to-your-jdk-21>"
 ```
 
 ### Build Command

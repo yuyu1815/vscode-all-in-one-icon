@@ -11,7 +11,6 @@ class VscordIconProvider : FileIconProvider {
         // Return null if plugin is disabled (uses default IDE icons)
         val config = IconThemeConfig.getInstance()
         if (!config.isEnabled()) {
-            println("[VscordIconProvider] Plugin is disabled")
             return null
         }
 
@@ -19,13 +18,11 @@ class VscordIconProvider : FileIconProvider {
         val activeThemes = config.getActiveThemes()
         IconResolver.setThemes(activeThemes)
 
-        // Resolve icon name with fallback
-        val result = IconResolver.resolveIconName(file.name, file.isDirectory)
-        
-        // Debug logging
-        if (file.isDirectory) {
-            println("[VscordIconProvider] Folder: ${file.name}, Result: ${result?.iconName}, Theme: ${result?.theme}")
-        }
+        // Get relative path from project root for context-aware resolution
+        val relativePath = project?.let { Utils.getRelativePath(file, it) }
+
+        // Resolve icon name with context-aware fallback
+        val result = IconResolver.resolveIconName(file.name, file.isDirectory, relativePath)
 
         return result?.let {
             loadIcon(it.iconName, file.isDirectory, it.theme)

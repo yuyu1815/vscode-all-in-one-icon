@@ -21,10 +21,16 @@ object Utils {
      */
     fun getRelativePath(file: VirtualFile, basePath: String?): String? {
         if (basePath == null) return null
-        val filePath = file.path
-        return if (filePath.startsWith(basePath)) {
-            filePath.removePrefix(basePath).removePrefix("/").removePrefix("\\")
-        } else {
+        return try {
+            val basePathNio = java.nio.file.Paths.get(basePath)
+            val filePathNio = java.nio.file.Paths.get(file.path)
+
+            if (filePathNio.startsWith(basePathNio)) {
+                basePathNio.relativize(filePathNio).toString().replace('\\', '/')
+            } else {
+                null
+            }
+        } catch (e: java.nio.file.InvalidPathException) {
             null
         }
     }

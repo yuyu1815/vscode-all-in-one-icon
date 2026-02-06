@@ -25,6 +25,7 @@ data class ContextRule(
     fun getIconTheme(): IconTheme = try {
         IconTheme.valueOf(theme)
     } catch (e: IllegalArgumentException) {
+        println("[Mappings] Invalid theme '$theme' in context rule for pattern '$pattern'. Defaulting to VSCODE_ICONS.")
         IconTheme.VSCODE_ICONS
     }
 }

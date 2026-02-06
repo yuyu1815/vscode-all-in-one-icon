@@ -21,12 +21,12 @@ Edit `src/main/resources/settings/context_rules.json`:
 
 ## Pattern Syntax
 
-| Pattern | Description             | Example Match                                     |
-| ------- | ----------------------- | ------------------------------------------------- |
-| `*`     | Single segment wildcard | `src/*/config` matches `src/main/config`          |
-| `**`    | Multi-segment wildcard  | `test/**/utils` matches `test/unit/helpers/utils` |
-| `*_tmp` | Suffix wildcard         | `cache/*_tmp` matches `cache/build_tmp`           |
-| `pre*`  | Prefix wildcard         | `build/pre*` matches `build/pre_build`            |
+| Pattern | Description               | Example Match                                     |
+| ------- | ------------------------- | ------------------------------------------------- |
+| `*`     | Single segment wildcard   | `src/*/config` matches `src/main/config`          |
+| `**`    | Multi-segment wildcard    | `test/**/utils` matches `test/unit/helpers/utils` |
+| `*_tmp` | Wildcard within a segment | `cache/*_tmp` matches `cache/build_tmp`           |
+| `pre*`  | Prefix wildcard           | `build/pre*` matches `build/pre_build`            |
 
 ## Matching Rules
 

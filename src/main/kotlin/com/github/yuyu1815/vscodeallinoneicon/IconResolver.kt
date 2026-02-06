@@ -134,6 +134,12 @@ object IconResolver {
      * Match a single path segment against a pattern segment.
      * Supports * as wildcard within segment (e.g., *_tmp matches build_tmp)
      */
+    private val regexCache = mutableMapOf<String, Regex>()
+
+    /**
+     * Match a single path segment against a pattern segment.
+     * Supports * as wildcard within segment (e.g., *_tmp matches build_tmp)
+     */
     private fun matchSegment(pattern: String, target: String): Boolean {
         if (!pattern.contains("*")) {
             return pattern == target
@@ -166,9 +172,12 @@ object IconResolver {
 
         // Fallback to regex for complex patterns (e.g. *foo*bar)
         // Convert glob pattern to regex safely by escaping non-wildcard chars
-        val regex = Regex.escape(pattern).replace("\\*", ".*")
+        val regex = regexCache.getOrPut(pattern) {
+            val regexPattern = Regex.escape(pattern).replace("\\*", ".*")
+            Regex("^$regexPattern$")
+        }
         
-        return Regex("^$regex$").matches(target)
+        return regex.matches(target)
     }
 
     private fun resolveFolderIcon(name: String, theme: IconTheme): String? = when (theme) {

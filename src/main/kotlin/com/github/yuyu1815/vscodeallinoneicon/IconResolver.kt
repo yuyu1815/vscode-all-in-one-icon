@@ -97,11 +97,4 @@ object IconResolver {
         }
         return null
     }
-
-    // Legacy compatibility
-    @Deprecated("Use setThemes() instead", ReplaceWith("setThemes(listOf(theme))"))
-    fun setTheme(theme: IconTheme) { setThemes(listOf(theme)) }
-
-    @Deprecated("Use getThemes() instead", ReplaceWith("getThemes().firstOrNull() ?: IconTheme.VSCODE_ICONS"))
-    fun getTheme(): IconTheme = themes.firstOrNull() ?: VSCODE_ICONS
 }

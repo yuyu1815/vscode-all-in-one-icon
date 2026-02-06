@@ -84,10 +84,10 @@ $env:JAVA_HOME = "<path-to-your-jdk-21>"
 ### Running Tests
 ```powershell
 # All tests
-$env:JAVA_HOME = "C:\Users\yuzum\.jdks\ms-21.0.10"; .\gradlew.bat test
+$env:JAVA_HOME = "<path-to-your-jdk-21>"; .\gradlew.bat test
 
 # Specific test class
-$env:JAVA_HOME = "C:\Users\yuzum\.jdks\ms-21.0.10"; .\gradlew.bat test --tests "com.github.yuyu1815.vscodeallinoneicon.ResourceConsistencyTest"
+$env:JAVA_HOME = "<path-to-your-jdk-21>"; .\gradlew.bat test --tests "com.github.yuyu1815.vscodeallinoneicon.ResourceConsistencyTest"
 ```
 
 ### Existing Test Classes

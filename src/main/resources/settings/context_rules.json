@@ -1,0 +1,17 @@
+{
+  "_comment": "Context-aware folder icon rules. Patterns use glob syntax: * matches single segment, ** matches any depth",
+  "rules": [
+    {
+      "pattern": "test/**/components",
+      "icon": "test",
+      "theme": "VSCODE_ICONS",
+      "description": "Components folder under test directory"
+    },
+    {
+      "pattern": "src/**/components",
+      "icon": "component",
+      "theme": "VSCODE_ICONS",
+      "description": "Components folder under src directory"
+    }
+  ]
+}

@@ -168,4 +168,78 @@ class IconResolverTest : BasePlatformTestCase() {
         // Assert
         assertNull("Should return null for unknown file", result)
     }
+
+    // --- Glob Pattern Matching Tests ---
+
+    fun testGlobPatternExactMatch() {
+        // Arrange
+        val pattern = "src/components"
+        val path = "src/components"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertTrue("Should match exact path", result)
+    }
+
+    fun testGlobPatternSingleWildcard() {
+        // Arrange
+        val pattern = "src/*/config"
+        val path = "src/main/config"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertTrue("Should match single wildcard", result)
+    }
+
+    fun testGlobPatternDoubleWildcard() {
+        // Arrange
+        val pattern = "test/**/utils"
+        val path = "test/unit/helpers/utils"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertTrue("Should match multi-segment wildcard", result)
+    }
+
+    fun testGlobPatternDoubleWildcardAtEnd() {
+        // Arrange
+        val pattern = "src/**"
+        val path = "src/main/java/com/example"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertTrue("Should match ** at end", result)
+    }
+
+    fun testGlobPatternWithSuffixWildcard() {
+        // Arrange
+        val pattern = "cache/*_tmp"
+        val path = "cache/build_tmp"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertTrue("Should match suffix wildcard", result)
+    }
+
+    fun testGlobPatternNoMatch() {
+        // Arrange
+        val pattern = "src/components"
+        val path = "test/components"
+
+        // Act
+        val result = IconResolver.matchGlobPattern(pattern, path)
+
+        // Assert
+        assertFalse("Should not match different path", result)
+    }
 }

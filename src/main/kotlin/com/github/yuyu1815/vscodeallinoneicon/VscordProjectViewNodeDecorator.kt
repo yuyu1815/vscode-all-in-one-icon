@@ -3,7 +3,9 @@ package com.github.yuyu1815.vscodeallinoneicon
 import com.intellij.ide.projectView.PresentationData
 import com.intellij.ide.projectView.ProjectViewNode
 import com.intellij.ide.projectView.ProjectViewNodeDecorator
-import com.intellij.openapi.project.Project
+import com.intellij.openapi.vfs.VirtualFile
+import com.intellij.packageDependencies.ui.PackageDependenciesNode
+import com.intellij.ui.ColoredTreeCellRenderer
 
 class VscordProjectViewNodeDecorator : ProjectViewNodeDecorator {
     override fun decorate(node: ProjectViewNode<*>, data: PresentationData) {
@@ -22,8 +24,12 @@ class VscordProjectViewNodeDecorator : ProjectViewNodeDecorator {
         val activeThemes = config.getActiveThemes()
         IconResolver.setThemes(activeThemes)
 
-        // Resolve icon
-        val result = IconResolver.resolveIconName(file.name, true)
+        // Get relative path from project root for context-aware resolution
+        val project = node.project
+        val relativePath = project?.let { getRelativePath(file, it.basePath) }
+
+        // Resolve icon with context-aware rules
+        val result = IconResolver.resolveIconName(file.name, true, relativePath)
         
         if (result != null) {
             // Force load the icon
@@ -34,5 +40,21 @@ class VscordProjectViewNodeDecorator : ProjectViewNodeDecorator {
                 data.setIcon(icon)
             }
         }
+    }
+
+    private fun getRelativePath(file: VirtualFile, basePath: String?): String? {
+        if (basePath == null) return null
+        val filePath = file.path
+        return if (filePath.startsWith(basePath)) {
+            filePath.removePrefix(basePath).removePrefix("/").removePrefix("\\")
+        } else {
+            null
+        }
+    }
+
+    @Deprecated("This method is deprecated and never called by the platform")
+    @Suppress("DEPRECATION")
+    override fun decorate(node: PackageDependenciesNode?, cellRenderer: ColoredTreeCellRenderer?) {
+        // No-op: This method is deprecated and never called by the platform
     }
 }

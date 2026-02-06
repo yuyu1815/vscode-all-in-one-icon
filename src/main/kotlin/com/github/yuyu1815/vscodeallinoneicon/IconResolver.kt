@@ -28,10 +28,18 @@ object IconResolver {
     fun getThemes(): List<IconTheme> = themes
 
     /**
-     * Resolve icon name with fallback across multiple themes
-     * Returns null if no theme has an icon for this file
+     * Resolve icon name with context-aware rules first, then fallback to theme-based resolution.
+     * @param name The file or folder name
+     * @param isDirectory Whether this is a directory
+     * @param relativePath Optional relative path from project root (e.g., "src/main/components")
      */
-    fun resolveIconName(name: String, isDirectory: Boolean): IconResolutionResult? {
+    fun resolveIconName(name: String, isDirectory: Boolean, relativePath: String? = null): IconResolutionResult? {
+        // 1. Try context-aware rules first (if path is provided)
+        if (!relativePath.isNullOrBlank()) {
+            resolveFromContextRules(relativePath)?.let { return it }
+        }
+
+        // 2. Fallback to standard theme-based resolution
         val lowercaseName = name.lowercase()
         for (theme in themes) {
             val iconName = if (isDirectory) {
@@ -44,6 +52,92 @@ object IconResolver {
             }
         }
         return null
+    }
+
+    /**
+     * Try to match path against context rules
+     */
+    private fun resolveFromContextRules(path: String): IconResolutionResult? {
+        val normalizedPath = path.replace("\\", "/").lowercase()
+        
+        for (rule in Mappings.contextRules) {
+            if (matchGlobPattern(rule.pattern.lowercase(), normalizedPath)) {
+                return IconResolutionResult(rule.icon, rule.getIconTheme())
+            }
+        }
+        return null
+    }
+
+    /**
+     * Match a path against a glob pattern.
+     * Supports:
+     * - `*` matches any single path segment (excluding /)
+     * - `**` matches any number of path segments (including zero)
+     * - Literal text matches exactly
+     */
+    internal fun matchGlobPattern(pattern: String, path: String): Boolean {
+        val patternParts = pattern.split("/")
+        val pathParts = path.split("/").filter { it.isNotEmpty() }
+        
+        return matchParts(patternParts, pathParts)
+    }
+
+    private fun matchParts(patternParts: List<String>, pathParts: List<String>): Boolean {
+        var pi = 0  // pattern index
+        var ti = 0  // target path index
+
+        while (pi < patternParts.size && ti < pathParts.size) {
+            val pattern = patternParts[pi]
+            val target = pathParts[ti]
+
+            when {
+                pattern == "**" -> {
+                    // ** can match zero or more segments
+                    // Try matching remaining pattern with current and all subsequent positions
+                    val remainingPattern = patternParts.drop(pi + 1)
+                    if (remainingPattern.isEmpty()) {
+                        return true  // ** at end matches everything
+                    }
+                    
+                    // Try matching from current position onwards
+                    for (i in ti..pathParts.size) {
+                        if (matchParts(remainingPattern, pathParts.drop(i))) {
+                            return true
+                        }
+                    }
+                    return false
+                }
+                matchSegment(pattern, target) -> {
+                    pi++
+                    ti++
+                }
+                else -> return false
+            }
+        }
+
+        // Handle trailing ** in pattern
+        while (pi < patternParts.size && patternParts[pi] == "**") {
+            pi++
+        }
+
+        return pi == patternParts.size && ti == pathParts.size
+    }
+
+    /**
+     * Match a single path segment against a pattern segment.
+     * Supports * as wildcard within segment (e.g., *_tmp matches build_tmp)
+     */
+    private fun matchSegment(pattern: String, target: String): Boolean {
+        if (!pattern.contains("*")) {
+            return pattern == target
+        }
+
+        // Convert glob pattern to regex
+        val regex = pattern
+            .replace(".", "\\.")
+            .replace("*", ".*")
+        
+        return Regex("^$regex$").matches(target)
     }
 
     private fun resolveFolderIcon(name: String, theme: IconTheme): String? = when (theme) {
@@ -97,11 +191,4 @@ object IconResolver {
         }
         return null
     }
-
-    // Legacy compatibility
-    @Deprecated("Use setThemes() instead", ReplaceWith("setThemes(listOf(theme))"))
-    fun setTheme(theme: IconTheme) { setThemes(listOf(theme)) }
-
-    @Deprecated("Use getThemes() instead", ReplaceWith("getThemes().firstOrNull() ?: IconTheme.VSCODE_ICONS"))
-    fun getTheme(): IconTheme = themes.firstOrNull() ?: VSCODE_ICONS
 }

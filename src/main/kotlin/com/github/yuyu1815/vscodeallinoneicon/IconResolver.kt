@@ -132,6 +132,32 @@ object IconResolver {
             return pattern == target
         }
 
+        if (pattern == "*") return true
+
+        val starCount = pattern.count { it == '*' }
+        
+        // Simple optimization for common patterns
+        if (starCount == 1) {
+            if (pattern.startsWith("*")) {
+                val suffix = pattern.substring(1)
+                return target.endsWith(suffix)
+            }
+            if (pattern.endsWith("*")) {
+                val prefix = pattern.substring(0, pattern.length - 1)
+                return target.startsWith(prefix)
+            }
+            // pattern is like "pre*suf"
+            val parts = pattern.split("*")
+            if (parts.size == 2) {
+                val prefix = parts[0]
+                val suffix = parts[1]
+                return target.startsWith(prefix) && 
+                       target.endsWith(suffix) && 
+                       target.length >= prefix.length + suffix.length
+            }
+        }
+
+        // Fallback to regex for complex patterns (e.g. *foo*bar)
         // Convert glob pattern to regex
         val regex = pattern
             .replace(".", "\\.")

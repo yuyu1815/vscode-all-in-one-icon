@@ -19,23 +19,13 @@ class VscordIconProvider : FileIconProvider {
         IconResolver.setThemes(activeThemes)
 
         // Get relative path from project root for context-aware resolution
-        val relativePath = project?.let { getRelativePath(file, it) }
+        val relativePath = project?.let { Utils.getRelativePath(file, it) }
 
         // Resolve icon name with context-aware fallback
         val result = IconResolver.resolveIconName(file.name, file.isDirectory, relativePath)
 
         return result?.let {
             loadIcon(it.iconName, file.isDirectory, it.theme)
-        }
-    }
-
-    private fun getRelativePath(file: VirtualFile, project: Project): String? {
-        val basePath = project.basePath ?: return null
-        val filePath = file.path
-        return if (filePath.startsWith(basePath)) {
-            filePath.removePrefix(basePath).removePrefix("/").removePrefix("\\")
-        } else {
-            null
         }
     }
 

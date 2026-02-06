@@ -26,7 +26,7 @@ class VscordProjectViewNodeDecorator : ProjectViewNodeDecorator {
 
         // Get relative path from project root for context-aware resolution
         val project = node.project
-        val relativePath = project?.let { getRelativePath(file, it.basePath) }
+        val relativePath = project?.basePath?.let { Utils.getRelativePath(file, it) }
 
         // Resolve icon with context-aware rules
         val result = IconResolver.resolveIconName(file.name, true, relativePath)
@@ -39,16 +39,6 @@ class VscordProjectViewNodeDecorator : ProjectViewNodeDecorator {
                 // This overrides the default icon (including the orange excluded folder icon)
                 data.setIcon(icon)
             }
-        }
-    }
-
-    private fun getRelativePath(file: VirtualFile, basePath: String?): String? {
-        if (basePath == null) return null
-        val filePath = file.path
-        return if (filePath.startsWith(basePath)) {
-            filePath.removePrefix(basePath).removePrefix("/").removePrefix("\\")
-        } else {
-            null
         }
     }
 
